@@ -1,0 +1,888 @@
+game_id,season,home_team,away_team,date,cfbd_closing_spread,sbro_closing_spread,closing_spread_difference,market_data_quality_flag,cfbd_opening_spread,sbro_opening_spread,opening_spread_difference,opening_line_confidence
+401282221,2021,UAB,Liberty,2021-10-02,3.0,3.0,0.0,verified,2.0,,,cross_validated_vs_cfbd
+401310752,2021,Air Force,UNLV,2021-11-26,18.25,18.5,0.25,verified,18.0,18.0,0.0,cross_validated_vs_cfbd
+401309910,2021,USC,BYU,2021-11-28,7.75,8.5,0.75,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401310756,2021,Wyoming,Hawai'i,2021-11-27,12.25,12.5,0.25,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401310754,2021,Colorado State,Nevada,2021-11-28,3.0,3.0,0.0,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401309645,2021,Georgia Southern,BYU,2021-11-20,20.0,20.0,0.0,verified,20.0,20.5,0.5,cross_validated_vs_cfbd
+401309592,2021,Akron,Kent State,2021-11-20,13.75,14.0,0.25,verified,13.0,12.5,0.5,cross_validated_vs_cfbd
+401309644,2021,Coastal Carolina,Texas State,2021-11-20,24.5,24.5,0.0,verified,21.0,21.5,0.5,cross_validated_vs_cfbd
+401309643,2021,Georgia State,Arkansas State,2021-11-20,15.75,15.5,0.25,verified,16.0,16.0,0.0,cross_validated_vs_cfbd
+401309642,2021,Troy,App State,2021-11-20,9.75,10.0,0.25,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401309900,2021,Stanford,California,2021-11-21,2.5,2.5,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401309906,2021,Utah,Colorado,2021-11-26,24.0,24.0,0.0,verified,24.0,23.5,0.5,cross_validated_vs_cfbd
+401282145,2021,Arkansas,Missouri,2021-11-26,14.5,14.5,0.0,verified,14.5,14.0,0.5,cross_validated_vs_cfbd
+401309596,2021,Bowling Green,Ohio,2021-11-26,6.5,6.5,0.0,verified,5.5,6.0,0.5,cross_validated_vs_cfbd
+401309648,2021,South Alabama,Coastal Carolina,2021-11-26,15.0,15.0,0.0,verified,14.5,14.5,0.0,cross_validated_vs_cfbd
+401309905,2021,Washington,Washington State,2021-11-27,1.0,1.0,0.0,verified,1.5,2.5,1.0,cross_validated_vs_cfbd
+401282626,2021,Louisville,UCF,2021-09-17,7.0,7.0,0.0,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401282071,2021,Florida,Alabama,2021-09-18,14.25,14.0,0.25,verified,15.5,13.5,2.0,cross_validated_vs_cfbd
+401282072,2021,Georgia,South Carolina,2021-09-18,31.5,31.5,0.0,verified,30.5,30.5,0.0,cross_validated_vs_cfbd
+401282070,2021,Penn State,Auburn,2021-09-18,4.5,4.0,0.5,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401282069,2021,Arkansas,Georgia Southern,2021-09-18,23.0,22.5,0.5,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401309835,2021,Arizona State,Southern Utah,2021-09-03,45.0,44.0,1.0,verified,45.0,44.5,0.5,cross_validated_vs_cfbd
+401310696,2021,New Mexico,Houston Christian,2021-09-03,25.5,25.5,0.0,verified,24.5,22.5,2.0,cross_validated_vs_cfbd
+401310694,2021,UNLV,Eastern Washington,2021-09-03,2.0,2.0,0.0,verified,1.0,1.5,0.5,cross_validated_vs_cfbd
+401310701,2021,Utah State,North Dakota,2021-09-11,6.5,7.0,0.5,verified,7.0,3.5,3.5,cross_validated_vs_cfbd
+401309843,2021,USC,Stanford,2021-09-12,17.25,17.5,0.25,verified,17.5,13.5,4.0,cross_validated_vs_cfbd
+401309848,2021,BYU,Utah,2021-09-12,7.0,7.0,0.0,verified,7.0,5.5,1.5,cross_validated_vs_cfbd
+401309847,2021,Arizona State,UNLV,2021-09-12,34.25,34.5,0.25,verified,33.5,34.5,1.0,cross_validated_vs_cfbd
+401309845,2021,Washington State,Portland State,2021-09-11,31.0,31.0,0.0,verified,31.0,21.5,9.5,cross_validated_vs_cfbd
+401310700,2021,New Mexico,New Mexico State,2021-09-11,19.5,18.5,1.0,verified,18.5,21.5,3.0,cross_validated_vs_cfbd
+401309846,2021,Arizona,San Diego State,2021-09-12,1.5,1.5,0.0,verified,0.0,1.0,1.0,cross_validated_vs_cfbd
+401310702,2021,Fresno State,Cal Poly,2021-09-12,32.0,32.0,0.0,verified,31.5,31.5,0.0,cross_validated_vs_cfbd
+401287887,2021,Iowa State,Northern Iowa,2021-09-04,28.75,28.5,0.25,verified,31.5,34.5,3.0,cross_validated_vs_cfbd
+401309842,2021,USC,San José State,2021-09-04,14.0,14.0,0.0,verified,16.5,16.5,0.0,cross_validated_vs_cfbd
+401287892,2021,Texas,Louisiana,2021-09-04,8.5,9.0,0.5,verified,12.0,16.5,4.5,cross_validated_vs_cfbd
+401282174,2021,Navy,Marshall,2021-09-04,3.0,3.0,0.0,verified,2.5,3.5,1.0,cross_validated_vs_cfbd
+401309913,2021,BYU,Boise State,2021-10-09,6.25,6.0,0.25,verified,3.5,1.0,2.5,cross_validated_vs_cfbd
+401309564,2021,Toledo,Northern Illinois,2021-10-09,13.0,13.0,0.0,verified,12.5,11.0,1.5,cross_validated_vs_cfbd
+401309566,2021,Bowling Green,Akron,2021-10-09,14.0,14.0,0.0,verified,13.0,12.0,1.0,cross_validated_vs_cfbd
+401309567,2021,Ohio,Central Michigan,2021-10-09,5.0,5.0,0.0,verified,5.0,5.5,0.5,cross_validated_vs_cfbd
+401310715,2021,Colorado State,San José State,2021-10-09,3.5,3.5,0.0,verified,1.0,2.0,1.0,cross_validated_vs_cfbd
+401309869,2021,Washington State,Oregon State,2021-10-09,4.0,4.0,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401309565,2021,Kent State,Buffalo,2021-10-09,7.0,7.0,0.0,verified,5.5,5.0,0.5,cross_validated_vs_cfbd
+401309617,2021,Troy,Georgia Southern,2021-10-09,5.5,5.5,0.0,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401309619,2021,Texas State,South Alabama,2021-10-09,4.0,4.0,0.0,verified,1.0,2.5,1.5,cross_validated_vs_cfbd
+401310714,2021,Air Force,Wyoming,2021-10-09,5.5,5.0,0.5,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401309618,2021,UL Monroe,Georgia State,2021-10-10,16.0,,,single_source,14.5,,,
+401309870,2021,Arizona,UCLA,2021-10-10,16.0,16.0,0.0,verified,16.0,16.5,0.5,cross_validated_vs_cfbd
+401310723,2021,San José State,San Diego State,2021-10-16,9.75,10.0,0.25,verified,8.0,9.0,1.0,cross_validated_vs_cfbd
+401309876,2021,Utah,Arizona State,2021-10-17,1.5,1.0,0.5,verified,1.0,1.5,0.5,cross_validated_vs_cfbd
+401309571,2021,Buffalo,Ohio,2021-10-16,7.5,7.5,0.0,verified,10.5,11.5,1.0,cross_validated_vs_cfbd
+401309569,2021,Central Michigan,Toledo,2021-10-16,5.0,5.0,0.0,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401309570,2021,Northern Illinois,Bowling Green,2021-10-16,9.0,,,single_source,9.5,,,
+401309572,2021,Western Michigan,Kent State,2021-10-16,6.75,7.0,0.25,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401309875,2021,Colorado,Arizona,2021-10-16,6.0,6.0,0.0,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401310721,2021,Wyoming,Fresno State,2021-10-16,3.0,3.0,0.0,verified,3.5,3.0,0.5,cross_validated_vs_cfbd
+401310719,2021,New Mexico,Colorado State,2021-10-16,12.25,13.0,0.75,verified,9.5,10.0,0.5,cross_validated_vs_cfbd
+401310720,2021,UNLV,Utah State,2021-10-16,7.0,7.5,0.5,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401309873,2021,Washington State,Stanford,2021-10-16,1.0,1.0,0.0,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401309874,2021,Washington,UCLA,2021-10-17,1.5,1.5,0.0,verified,1.0,1.5,0.5,cross_validated_vs_cfbd
+401310718,2021,Boise State,Air Force,2021-10-17,3.25,3.0,0.25,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401310722,2021,Nevada,Hawai'i,2021-10-17,14.25,14.0,0.25,verified,16.0,16.0,0.0,cross_validated_vs_cfbd
+401309623,2021,App State,Coastal Carolina,2021-10-20,4.75,4.5,0.25,verified,3.5,2.5,1.0,cross_validated_vs_cfbd
+401301025,2021,SMU,Tulane,2021-10-21,14.0,14.0,0.0,verified,14.0,14.5,0.5,cross_validated_vs_cfbd
+401309624,2021,Arkansas State,Louisiana,2021-10-21,18.0,18.0,0.0,verified,17.0,15.0,2.0,cross_validated_vs_cfbd
+401309614,2021,Coastal Carolina,UL Monroe,2021-10-02,33.75,33.5,0.25,verified,33.5,31.5,2.0,cross_validated_vs_cfbd
+401309612,2021,Georgia State,App State,2021-10-02,10.0,10.0,0.0,verified,9.5,9.0,0.5,cross_validated_vs_cfbd
+401309613,2021,Georgia Southern,Arkansas State,2021-10-02,2.0,2.0,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401309871,2021,USC,Utah,2021-10-10,3.0,3.0,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282770,2021,Maryland,Michigan,2021-11-20,15.75,16.0,0.25,verified,15.0,15.5,0.5,cross_validated_vs_cfbd
+401282262,2021,Florida International,North Texas,2021-11-21,10.25,10.0,0.25,verified,9.5,10.0,0.5,cross_validated_vs_cfbd
+401282721,2021,Iowa,Illinois,2021-11-20,11.75,12.0,0.25,verified,12.0,12.5,0.5,cross_validated_vs_cfbd
+401282698,2021,Pittsburgh,Virginia,2021-11-20,14.5,,,single_source,13.5,,,
+401282695,2021,NC State,Syracuse,2021-11-20,11.5,11.5,0.0,verified,11.5,13.0,1.5,cross_validated_vs_cfbd
+401282267,2021,UTSA,UAB,2021-11-20,4.0,4.0,0.0,verified,5.5,6.0,0.5,cross_validated_vs_cfbd
+401282264,2021,Louisiana Tech,Southern Miss,2021-11-20,15.25,15.5,0.25,verified,17.0,17.5,0.5,cross_validated_vs_cfbd
+401282786,2021,Ohio State,Michigan State,2021-11-20,19.25,19.5,0.25,verified,20.0,17.5,2.5,cross_validated_vs_cfbd
+401282697,2021,Notre Dame,Georgia Tech,2021-11-20,17.75,17.5,0.25,verified,15.5,16.5,1.0,cross_validated_vs_cfbd
+401282693,2021,Clemson,Wake Forest,2021-11-20,3.5,3.5,0.0,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401282803,2021,Wisconsin,Nebraska,2021-11-20,9.75,9.5,0.25,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282144,2021,Texas A&M,Prairie View A&M,2021-11-20,41.5,41.0,0.5,verified,41.5,46.5,5.0,cross_validated_vs_cfbd
+401282263,2021,Western Kentucky,Florida Atlantic,2021-11-20,10.75,11.0,0.25,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401282692,2021,Boston College,Florida State,2021-11-20,3.0,3.0,0.0,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401281946,2021,Clemson,Georgia,2021-09-04,2.5,2.5,0.0,verified,4.5,3.5,1.0,cross_validated_vs_cfbd
+401300998,2021,SMU,Abilene Christian,2021-09-04,32.0,33.5,1.5,verified,32.0,30.5,1.5,cross_validated_vs_cfbd
+401309543,2021,Toledo,Norfolk State,2021-09-04,39.5,39.5,0.0,verified,40.0,37.5,2.5,cross_validated_vs_cfbd
+401281945,2021,Florida,Florida Atlantic,2021-09-04,23.5,23.5,0.0,verified,25.5,24.5,1.0,cross_validated_vs_cfbd
+401281947,2021,Kentucky,UL Monroe,2021-09-04,31.0,31.0,0.0,verified,28.5,28.5,0.0,cross_validated_vs_cfbd
+401282609,2021,Boston College,Colgate,2021-09-04,42.5,42.5,0.0,verified,45.0,45.5,0.5,cross_validated_vs_cfbd
+401282772,2021,Michigan,Western Michigan,2021-09-04,16.5,16.5,0.0,verified,16.5,17.0,0.5,cross_validated_vs_cfbd
+401310861,2021,Air Force,Lafayette,2021-09-04,40.75,40.5,0.25,verified,41.0,42.5,1.5,cross_validated_vs_cfbd
+401310697,2021,Wyoming,Montana State,2021-09-04,19.0,19.5,0.5,verified,19.0,17.5,1.5,cross_validated_vs_cfbd
+401282611,2021,Ohio,Syracuse,2021-09-04,2.0,2.5,0.5,verified,0.0,,,cross_validated_vs_cfbd
+401282819,2021,Purdue,Oregon State,2021-09-04,7.0,7.0,0.0,verified,7.0,6.0,1.0,cross_validated_vs_cfbd
+401287886,2021,Houston,Texas Tech,2021-09-04,2.5,2.5,0.0,verified,4.0,6.5,2.5,cross_validated_vs_cfbd
+401287893,2021,Texas State,Baylor,2021-09-04,13.75,13.5,0.25,verified,12.0,10.5,1.5,cross_validated_vs_cfbd
+401300997,2021,Memphis,Nicholls,2021-09-04,23.0,22.5,0.5,verified,23.5,21.5,2.0,cross_validated_vs_cfbd
+401309598,2021,Arkansas State,Central Arkansas,2021-09-04,13.75,13.5,0.25,verified,13.0,13.5,0.5,cross_validated_vs_cfbd
+401309602,2021,Troy,Southern,2021-09-04,25.0,25.0,0.0,verified,25.0,26.5,1.5,cross_validated_vs_cfbd
+401282175,2021,North Texas,Northwestern State,2021-09-04,20.25,20.0,0.25,verified,20.0,17.5,2.5,cross_validated_vs_cfbd
+401282179,2021,Illinois,UTSA,2021-09-04,4.5,4.5,0.0,verified,6.0,7.5,1.5,cross_validated_vs_cfbd
+401309837,2021,California,Nevada,2021-09-05,3.0,3.0,0.0,verified,3.5,3.0,0.5,cross_validated_vs_cfbd
+401282614,2021,Florida State,Notre Dame,2021-09-05,7.5,7.0,0.5,verified,10.5,11.0,0.5,cross_validated_vs_cfbd
+401282055,2021,Ole Miss,Louisville,2021-09-07,9.0,,,single_source,7.5,,,
+401301022,2021,Memphis,Navy,2021-10-14,10.75,11.0,0.25,verified,8.5,7.5,1.0,cross_validated_vs_cfbd
+401309621,2021,South Alabama,Georgia Southern,2021-10-14,2.5,2.5,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282657,2021,Syracuse,Clemson,2021-10-15,13.5,13.5,0.0,verified,14.0,13.5,0.5,cross_validated_vs_cfbd
+401301023,2021,Cincinnati,UCF,2021-10-16,22.0,21.5,0.5,verified,20.0,19.5,0.5,cross_validated_vs_cfbd
+401287923,2021,Oklahoma,TCU,2021-10-16,13.0,12.5,0.5,verified,12.0,12.0,0.0,cross_validated_vs_cfbd
+401287924,2021,Texas,Oklahoma State,2021-10-16,3.25,3.0,0.25,verified,5.0,6.5,1.5,cross_validated_vs_cfbd
+401287920,2021,Baylor,BYU,2021-10-16,5.25,5.0,0.25,verified,5.0,1.0,4.0,cross_validated_vs_cfbd
+401286192,2021,UConn,Yale,2021-10-16,3.5,3.5,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401301024,2021,South Florida,Tulsa,2021-10-16,7.0,7.5,0.5,verified,8.5,8.5,0.0,cross_validated_vs_cfbd
+401309568,2021,Eastern Michigan,Ball State,2021-10-16,1.0,1.0,0.0,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401308837,2021,Miami (OH),Akron,2021-10-16,20.0,20.0,0.0,verified,20.0,20.0,0.0,cross_validated_vs_cfbd
+401287921,2021,Kansas,Texas Tech,2021-10-16,18.5,18.0,0.5,verified,15.5,17.0,1.5,cross_validated_vs_cfbd
+401286296,2021,UL Monroe,Liberty,2021-10-16,32.75,,,single_source,32.0,,,
+401282113,2021,Ole Miss,LSU,2021-10-23,9.0,,,single_source,10.5,,,
+401282236,2021,Florida International,Western Kentucky,2021-10-23,16.25,16.5,0.25,verified,17.0,17.5,0.5,cross_validated_vs_cfbd
+401282709,2021,Notre Dame,USC,2021-10-23,7.5,8.0,0.5,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401282662,2021,Army,Wake Forest,2021-10-23,3.0,3.0,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282114,2021,Texas A&M,South Carolina,2021-10-23,19.5,19.0,0.5,verified,19.5,17.5,2.0,cross_validated_vs_cfbd
+401282665,2021,Miami,NC State,2021-10-23,3.5,3.5,0.0,verified,3.5,2.5,1.0,cross_validated_vs_cfbd
+401282666,2021,Pittsburgh,Clemson,2021-10-23,3.5,,,single_source,3.0,,,
+401282237,2021,Louisiana Tech,UTSA,2021-10-23,5.75,5.5,0.25,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401282821,2021,Purdue,Wisconsin,2021-10-23,3.5,3.5,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401282112,2021,Arkansas,Arkansas-Pine Bluff,2021-10-23,50.5,50.5,0.0,verified,,51.5,,sbro_heuristic_only_unvalidated
+401282663,2021,Florida State,Massachusetts,2021-10-23,35.5,35.0,0.5,verified,35.5,35.5,0.0,cross_validated_vs_cfbd
+401282668,2021,Virginia Tech,Syracuse,2021-10-23,3.5,3.5,0.0,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401282238,2021,UAB,Rice,2021-10-23,23.75,24.0,0.25,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401282767,2021,Minnesota,Maryland,2021-10-23,4.0,4.0,0.0,verified,5.0,6.0,1.0,cross_validated_vs_cfbd
+401310699,2021,San Diego State,New Mexico State,2021-09-05,31.0,31.0,0.0,verified,28.5,28.5,0.0,cross_validated_vs_cfbd
+401309840,2021,Washington State,Utah State,2021-09-05,17.25,17.0,0.25,verified,15.5,13.0,2.5,cross_validated_vs_cfbd
+401282235,2021,Charlotte,Florida Atlantic,2021-10-21,6.5,6.5,0.0,verified,5.0,5.0,0.0,cross_validated_vs_cfbd
+401282239,2021,UConn,Middle Tennessee,2021-10-22,14.0,14.0,0.0,verified,15.0,14.5,0.5,cross_validated_vs_cfbd
+401301026,2021,UCF,Memphis,2021-10-22,1.25,1.5,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282186,2021,Virginia Tech,Middle Tennessee,2021-09-11,20.0,20.0,0.0,verified,20.0,20.0,0.0,cross_validated_vs_cfbd
+401282193,2021,Army,Western Kentucky,2021-09-11,6.0,6.0,0.0,verified,5.0,5.5,0.5,cross_validated_vs_cfbd
+401282183,2021,Florida Atlantic,Georgia Southern,2021-09-11,7.0,7.0,0.0,verified,7.0,6.0,1.0,cross_validated_vs_cfbd
+401282192,2021,UTSA,Lamar,2021-09-11,38.0,39.0,1.0,verified,37.5,27.5,10.0,cross_validated_vs_cfbd
+401282185,2021,Marshall,North Carolina Central,2021-09-11,43.0,43.0,0.0,verified,43.5,39.5,4.0,cross_validated_vs_cfbd
+401282189,2021,Rice,Houston,2021-09-11,7.75,7.5,0.25,verified,9.0,10.0,1.0,cross_validated_vs_cfbd
+401282184,2021,Louisiana Tech,SE Louisiana,2021-09-11,11.5,11.5,0.0,verified,11.5,10.5,1.0,cross_validated_vs_cfbd
+401282187,2021,SMU,North Texas,2021-09-11,22.5,22.5,0.0,verified,21.5,21.0,0.5,cross_validated_vs_cfbd
+401282188,2021,Old Dominion,Hampton,2021-09-11,21.0,21.5,0.5,verified,20.0,27.5,7.5,cross_validated_vs_cfbd
+401282190,2021,Southern Miss,Grambling,2021-09-11,23.25,23.0,0.25,verified,23.5,24.5,1.0,cross_validated_vs_cfbd
+401301021,2021,Navy,SMU,2021-10-09,13.5,13.5,0.0,verified,14.5,14.5,0.0,cross_validated_vs_cfbd
+401310716,2021,San Diego State,New Mexico,2021-10-10,19.5,19.5,0.0,verified,19.0,18.0,1.0,cross_validated_vs_cfbd
+401308836,2021,Eastern Michigan,Miami (OH),2021-10-09,2.25,3.0,0.75,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401309852,2021,Washington State,USC,2021-09-18,7.25,7.5,0.25,verified,9.0,10.0,1.0,cross_validated_vs_cfbd
+401309553,2021,Toledo,Colorado State,2021-09-18,14.5,14.5,0.0,verified,14.0,13.0,1.0,cross_validated_vs_cfbd
+401309605,2021,Washington,Arkansas State,2021-09-18,17.25,17.5,0.25,verified,16.5,16.0,0.5,cross_validated_vs_cfbd
+401309609,2021,Texas State,Incarnate Word,2021-09-18,10.75,11.0,0.25,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401309607,2021,UL Monroe,Jackson State,2021-09-19,4.5,,,single_source,6.0,,,
+401309608,2021,South Alabama,Alcorn State,2021-09-19,21.25,22.5,1.25,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401309853,2021,Arizona,Northern Arizona,2021-09-19,26.5,26.5,0.0,verified,24.5,23.5,1.0,cross_validated_vs_cfbd
+401309850,2021,Oregon,Stony Brook,2021-09-18,41.75,42.0,0.25,verified,40.5,37.5,3.0,cross_validated_vs_cfbd
+401309604,2021,App State,Elon,2021-09-18,35.25,35.5,0.25,verified,35.0,35.0,0.0,cross_validated_vs_cfbd
+401309849,2021,California,Sacramento State,2021-09-18,24.5,24.0,0.5,verified,24.5,27.0,2.5,cross_validated_vs_cfbd
+401309606,2021,Louisiana,Ohio,2021-09-17,19.0,18.5,0.5,verified,20.0,20.5,0.5,cross_validated_vs_cfbd
+401309854,2021,BYU,Arizona State,2021-09-19,3.25,3.0,0.25,verified,2.5,2.0,0.5,cross_validated_vs_cfbd
+401282078,2021,Tennessee,Tennessee Tech,2021-09-18,38.25,38.5,0.25,verified,40.5,42.5,2.0,cross_validated_vs_cfbd
+401282079,2021,Texas A&M,New Mexico,2021-09-18,30.25,30.0,0.25,verified,28.0,24.5,3.5,cross_validated_vs_cfbd
+401282194,2021,UTSA,Middle Tennessee,2021-09-18,11.25,11.5,0.25,verified,13.0,11.5,1.5,cross_validated_vs_cfbd
+401282195,2021,North Texas,UAB,2021-09-18,12.75,12.0,0.75,verified,13.5,13.0,0.5,cross_validated_vs_cfbd
+401282080,2021,Vanderbilt,Stanford,2021-09-19,12.75,13.0,0.25,verified,11.0,10.5,0.5,cross_validated_vs_cfbd
+401282204,2021,Charlotte,Middle Tennessee,2021-09-24,2.75,2.5,0.25,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401282088,2021,Vanderbilt,Georgia,2021-09-25,36.5,36.0,0.5,verified,34.0,31.5,2.5,cross_validated_vs_cfbd
+401282206,2021,Central Michigan,Florida International,2021-09-25,12.25,12.0,0.25,verified,11.5,11.5,0.0,cross_validated_vs_cfbd
+401282205,2021,Louisiana Tech,North Texas,2021-09-25,10.75,9.5,1.25,verified,12.5,13.0,0.5,cross_validated_vs_cfbd
+401282207,2021,Air Force,Florida Atlantic,2021-09-26,3.75,3.5,0.25,verified,5.0,4.5,0.5,cross_validated_vs_cfbd
+401286305,2021,Army,Massachusetts,2021-11-20,37.0,37.5,0.5,verified,37.5,38.0,0.5,cross_validated_vs_cfbd
+401282209,2021,Old Dominion,Buffalo,2021-09-25,13.0,13.0,0.0,verified,12.5,11.5,1.0,cross_validated_vs_cfbd
+401310711,2021,Boise State,Nevada,2021-10-02,4.0,3.5,0.5,verified,6.5,5.5,1.0,cross_validated_vs_cfbd
+401310712,2021,Hawai'i,Fresno State,2021-10-03,10.75,11.5,0.75,verified,10.0,11.0,1.0,cross_validated_vs_cfbd
+401308835,2021,Miami (OH),Central Michigan,2021-10-02,1.5,1.5,0.0,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282813,2021,Rutgers,Ohio State,2021-10-02,15.0,15.0,0.0,verified,15.5,14.5,1.0,cross_validated_vs_cfbd
+401282224,2021,Florida International,Charlotte,2021-10-08,3.5,3.5,0.0,verified,3.5,4.5,1.0,cross_validated_vs_cfbd
+401309864,2021,Stanford,Oregon,2021-10-02,8.5,8.5,0.0,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401287913,2021,Kansas State,Oklahoma,2021-10-02,12.75,12.5,0.25,verified,10.5,9.5,1.0,cross_validated_vs_cfbd
+401287914,2021,Oklahoma State,Baylor,2021-10-02,4.0,3.5,0.5,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401309866,2021,UCLA,Arizona State,2021-10-03,3.0,3.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401286302,2021,Massachusetts,Toledo,2021-10-02,27.0,26.5,0.5,verified,26.5,26.0,0.5,cross_validated_vs_cfbd
+401287915,2021,TCU,Texas,2021-10-02,4.0,4.0,0.0,verified,4.0,,,cross_validated_vs_cfbd
+401301015,2021,Temple,Memphis,2021-10-02,11.25,11.0,0.25,verified,11.5,11.5,0.0,cross_validated_vs_cfbd
+401309560,2021,Akron,Ohio,2021-10-02,9.5,9.5,0.0,verified,9.0,9.0,0.0,cross_validated_vs_cfbd
+401309561,2021,Buffalo,Western Michigan,2021-10-02,7.0,7.0,0.0,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401309867,2021,Colorado,USC,2021-10-02,9.0,9.0,0.0,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401309558,2021,Northern Illinois,Eastern Michigan,2021-10-02,0.75,,,single_source,1.0,,,
+401287916,2021,West Virginia,Texas Tech,2021-10-02,7.25,7.5,0.25,verified,7.5,7.0,0.5,cross_validated_vs_cfbd
+401301013,2021,Navy,UCF,2021-10-02,15.5,15.0,0.5,verified,16.0,14.0,2.0,cross_validated_vs_cfbd
+401301014,2021,East Carolina,Tulane,2021-10-02,3.0,3.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401309562,2021,Kent State,Bowling Green,2021-10-02,16.5,16.5,0.0,verified,16.0,14.5,1.5,cross_validated_vs_cfbd
+401301016,2021,SMU,South Florida,2021-10-02,21.0,21.0,0.0,verified,20.0,19.5,0.5,cross_validated_vs_cfbd
+401309559,2021,Ball State,Army,2021-10-02,10.25,10.5,0.25,verified,6.0,7.5,1.5,cross_validated_vs_cfbd
+401309863,2021,California,Washington State,2021-10-02,7.5,7.5,0.0,verified,7.5,7.0,0.5,cross_validated_vs_cfbd
+401310710,2021,New Mexico,Air Force,2021-10-02,11.5,11.5,0.0,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401287912,2021,Iowa State,Kansas,2021-10-02,34.5,34.5,0.0,verified,33.5,32.5,1.0,cross_validated_vs_cfbd
+401282800,2021,Nebraska,Northwestern,2021-10-02,11.25,11.0,0.25,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401309615,2021,South Alabama,Louisiana,2021-10-03,12.0,12.0,0.0,verified,11.0,9.5,1.5,cross_validated_vs_cfbd
+401309865,2021,Oregon State,Washington,2021-10-03,2.25,2.5,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401310713,2021,San José State,New Mexico State,2021-10-03,25.5,25.0,0.5,verified,27.5,26.0,1.5,cross_validated_vs_cfbd
+401309616,2021,Arkansas State,Coastal Carolina,2021-10-07,20.25,20.0,0.25,verified,17.5,17.0,0.5,cross_validated_vs_cfbd
+401301017,2021,Tulane,Houston,2021-10-07,6.75,6.5,0.25,verified,4.5,4.0,0.5,cross_validated_vs_cfbd
+401301018,2021,Cincinnati,Temple,2021-10-08,30.0,30.0,0.0,verified,28.0,28.5,0.5,cross_validated_vs_cfbd
+401309868,2021,Arizona State,Stanford,2021-10-09,13.5,13.5,0.0,verified,10.5,8.5,2.0,cross_validated_vs_cfbd
+401282103,2021,Texas A&M,Alabama,2021-10-10,18.5,18.5,0.0,verified,17.5,15.5,2.0,cross_validated_vs_cfbd
+401282097,2021,Auburn,Georgia,2021-10-09,15.0,14.5,0.5,verified,14.5,16.5,2.0,cross_validated_vs_cfbd
+401282100,2021,Ole Miss,Arkansas,2021-10-09,5.0,,,single_source,6.0,,,
+401282656,2021,Virginia Tech,Notre Dame,2021-10-09,0.5,1.0,0.5,verified,1.5,5.0,3.5,cross_validated_vs_cfbd
+401282099,2021,Kentucky,LSU,2021-10-09,2.25,2.0,0.25,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282655,2021,Syracuse,Wake Forest,2021-10-09,6.0,6.0,0.0,verified,6.5,7.5,1.0,cross_validated_vs_cfbd
+401282098,2021,Florida,Vanderbilt,2021-10-09,39.0,39.0,0.0,verified,39.0,37.0,2.0,cross_validated_vs_cfbd
+401309549,2021,Wyoming,Ball State,2021-09-18,6.75,7.0,0.25,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401309856,2021,San Diego State,Utah,2021-09-18,8.0,8.0,0.0,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401310704,2021,Air Force,Utah State,2021-09-18,9.0,9.0,0.0,verified,9.0,9.5,0.5,cross_validated_vs_cfbd
+401309550,2021,Akron,Bryant,2021-09-18,13.5,13.0,0.5,verified,10.5,14.5,4.0,cross_validated_vs_cfbd
+401309551,2021,Bowling Green,Murray State,2021-09-18,2.5,2.5,0.0,verified,1.0,3.5,2.5,cross_validated_vs_cfbd
+401319455,2021,New Mexico State,South Carolina State,2021-09-19,2.25,3.5,1.25,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282208,2021,App State,Marshall,2021-09-23,7.25,7.5,0.25,verified,7.0,5.5,1.5,cross_validated_vs_cfbd
+401282638,2021,Virginia,Wake Forest,2021-09-24,3.5,3.5,0.0,verified,4.0,5.0,1.0,cross_validated_vs_cfbd
+401282081,2021,Alabama,Southern Miss,2021-09-25,45.0,45.0,0.0,verified,45.0,42.5,2.5,cross_validated_vs_cfbd
+401287908,2021,Oklahoma,West Virginia,2021-09-25,17.25,17.5,0.25,verified,15.0,19.5,4.5,cross_validated_vs_cfbd
+401282082,2021,Arkansas,Texas A&M,2021-09-25,4.25,4.5,0.25,verified,5.5,7.5,2.0,cross_validated_vs_cfbd
+401282084,2021,Florida,Tennessee,2021-09-25,19.0,19.0,0.0,verified,20.0,16.5,3.5,cross_validated_vs_cfbd
+401287907,2021,Baylor,Iowa State,2021-09-25,7.0,7.0,0.0,verified,6.5,5.5,1.0,cross_validated_vs_cfbd
+401282083,2021,Auburn,Georgia State,2021-09-25,27.5,27.0,0.5,verified,27.0,26.0,1.0,cross_validated_vs_cfbd
+401282085,2021,Mississippi State,LSU,2021-09-25,1.25,1.5,0.25,verified,3.0,4.0,1.0,cross_validated_vs_cfbd
+401282086,2021,Boston College,Missouri,2021-09-25,1.0,1.0,0.0,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401282087,2021,South Carolina,Kentucky,2021-09-25,4.75,4.0,0.75,verified,6.0,3.5,2.5,cross_validated_vs_cfbd
+401310705,2021,Hawai'i,San José State,2021-09-19,7.5,8.0,0.5,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401282637,2021,Syracuse,Liberty,2021-09-25,6.75,6.5,0.25,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401287925,2021,Iowa State,Oklahoma State,2021-10-23,7.0,7.5,0.5,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401309641,2021,Troy,Louisiana,2021-11-13,6.5,6.0,0.5,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401282139,2021,Ole Miss,Vanderbilt,2021-11-21,36.0,,,single_source,37.0,,,
+401282140,2021,Mississippi State,Tennessee State,2021-11-20,44.0,44.5,0.5,verified,44.0,44.5,0.5,cross_validated_vs_cfbd
+401282141,2021,Missouri,Florida,2021-11-20,9.0,9.5,0.5,verified,7.5,7.0,0.5,cross_validated_vs_cfbd
+401282142,2021,South Carolina,Auburn,2021-11-21,7.25,7.0,0.25,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401282138,2021,LSU,UL Monroe,2021-11-21,29.0,29.0,0.0,verified,29.0,28.5,0.5,cross_validated_vs_cfbd
+401282761,2021,Nebraska,Iowa,2021-11-26,1.0,1.5,0.5,verified,3.5,2.0,1.5,cross_validated_vs_cfbd
+401309595,2021,Central Michigan,Eastern Michigan,2021-11-26,8.5,8.5,0.0,verified,8.5,7.5,1.0,cross_validated_vs_cfbd
+401301050,2021,UCF,South Florida,2021-11-26,17.25,17.0,0.25,verified,18.5,17.0,1.5,cross_validated_vs_cfbd
+401282269,2021,Southern Miss,Florida International,2021-11-27,14.25,14.5,0.25,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282272,2021,Marshall,Western Kentucky,2021-11-27,1.5,1.0,0.5,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282270,2021,Florida Atlantic,Middle Tennessee,2021-11-28,3.5,3.5,0.0,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401287926,2021,Kansas,Oklahoma,2021-10-23,38.75,38.5,0.25,verified,39.0,37.0,2.0,cross_validated_vs_cfbd
+401282271,2021,Rice,Louisiana Tech,2021-11-27,4.0,4.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401310707,2021,Fresno State,UNLV,2021-09-25,30.0,30.0,0.0,verified,31.0,28.0,3.0,cross_validated_vs_cfbd
+401310709,2021,San Diego State,Towson,2021-09-25,23.0,22.5,0.5,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401310708,2021,New Mexico State,Hawai'i,2021-09-26,17.0,17.0,0.0,verified,17.0,16.0,1.0,cross_validated_vs_cfbd
+401282646,2021,Miami,Virginia,2021-09-30,3.5,3.5,0.0,verified,3.0,5.0,2.0,cross_validated_vs_cfbd
+401309912,2021,Utah State,BYU,2021-10-02,8.5,8.0,0.5,verified,8.5,7.5,1.0,cross_validated_vs_cfbd
+401301012,2021,Tulsa,Houston,2021-10-01,3.5,3.0,0.5,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282089,2021,Alabama,Ole Miss,2021-10-02,14.75,15.0,0.25,verified,14.5,16.5,2.0,cross_validated_vs_cfbd
+401282090,2021,Georgia,Arkansas,2021-10-02,16.25,16.5,0.25,verified,19.5,18.5,1.0,cross_validated_vs_cfbd
+401282091,2021,Kentucky,Florida,2021-10-02,7.5,7.5,0.0,verified,8.0,7.5,0.5,cross_validated_vs_cfbd
+401282095,2021,Texas A&M,Mississippi State,2021-10-02,7.0,7.5,0.5,verified,9.5,9.0,0.5,cross_validated_vs_cfbd
+401282092,2021,LSU,Auburn,2021-10-03,3.0,3.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401282093,2021,Missouri,Tennessee,2021-10-02,2.5,2.5,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282094,2021,South Carolina,Troy,2021-10-02,6.5,6.5,0.0,verified,7.0,9.5,2.5,cross_validated_vs_cfbd
+401282096,2021,Vanderbilt,UConn,2021-10-02,14.75,14.5,0.25,verified,14.0,13.5,0.5,cross_validated_vs_cfbd
+401308834,2021,Army,Miami (OH),2021-09-25,7.75,7.5,0.25,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401287906,2021,UNLV,Iowa State,2021-09-19,32.25,32.0,0.25,verified,30.5,30.5,0.0,cross_validated_vs_cfbd
+401287905,2021,Kansas State,Nevada,2021-09-18,1.5,1.5,0.0,verified,2.5,2.0,0.5,cross_validated_vs_cfbd
+401286300,2021,Massachusetts,Eastern Michigan,2021-09-18,22.0,22.0,0.0,verified,18.0,20.5,2.5,cross_validated_vs_cfbd
+401287904,2021,Kansas,Baylor,2021-09-18,17.25,17.0,0.25,verified,17.0,16.5,0.5,cross_validated_vs_cfbd
+401287903,2021,Boise State,Oklahoma State,2021-09-19,3.5,4.0,0.5,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401308843,2021,Miami (OH),Long Island University,2021-09-18,39.0,39.5,0.5,verified,39.5,39.5,0.0,cross_validated_vs_cfbd
+401301005,2021,Houston,Grambling,2021-09-18,40.5,41.0,0.5,verified,40.0,40.5,0.5,cross_validated_vs_cfbd
+401301006,2021,South Florida,Florida A&M,2021-09-18,22.5,23.0,0.5,verified,22.0,21.5,0.5,cross_validated_vs_cfbd
+401309554,2021,Western Michigan,San José State,2021-09-25,2.75,2.5,0.25,verified,2.5,1.5,1.0,cross_validated_vs_cfbd
+401309555,2021,Ball State,Toledo,2021-09-25,4.75,4.5,0.25,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401309557,2021,Eastern Michigan,Texas State,2021-09-25,7.5,7.5,0.0,verified,6.0,5.0,1.0,cross_validated_vs_cfbd
+401309556,2021,Northern Illinois,Maine,2021-09-25,21.25,,,single_source,21.0,,,
+401301011,2021,Tulsa,Arkansas State,2021-09-25,14.5,14.5,0.0,verified,14.0,13.5,0.5,cross_validated_vs_cfbd
+401309610,2021,Georgia Southern,Louisiana,2021-09-25,14.5,14.5,0.0,verified,13.5,11.5,2.0,cross_validated_vs_cfbd
+401310733,2021,San Diego State,Fresno State,2021-10-31,2.0,2.5,0.5,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401310732,2021,San José State,Wyoming,2021-10-30,3.0,3.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401282633,2021,Syracuse,UAlbany,2021-09-18,21.75,21.5,0.25,verified,22.0,26.5,4.5,cross_validated_vs_cfbd
+401282823,2021,Rutgers,Delaware,2021-09-18,20.0,19.5,0.5,verified,21.5,27.5,6.0,cross_validated_vs_cfbd
+401282630,2021,NC State,Furman,2021-09-18,27.5,27.5,0.0,verified,27.5,29.5,2.0,cross_validated_vs_cfbd
+401282715,2021,Illinois,Maryland,2021-09-18,7.25,7.5,0.25,verified,7.5,6.5,1.0,cross_validated_vs_cfbd
+401282798,2021,Oklahoma,Nebraska,2021-09-18,22.75,22.5,0.25,verified,22.0,21.5,0.5,cross_validated_vs_cfbd
+401282755,2021,Iowa,Kent State,2021-09-18,22.75,22.5,0.25,verified,22.0,22.5,0.5,cross_validated_vs_cfbd
+401282627,2021,Clemson,Georgia Tech,2021-09-18,27.75,27.5,0.25,verified,29.0,30.5,1.5,cross_validated_vs_cfbd
+401282725,2021,Indiana,Cincinnati,2021-09-18,4.0,4.0,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401282810,2021,Ohio State,Tulsa,2021-09-18,25.0,24.5,0.5,verified,25.0,26.5,1.5,cross_validated_vs_cfbd
+401282706,2021,Notre Dame,Purdue,2021-09-18,7.5,7.5,0.0,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401282636,2021,West Virginia,Virginia Tech,2021-09-18,2.0,2.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282631,2021,North Carolina,Virginia,2021-09-18,7.5,7.5,0.0,verified,9.0,8.5,0.5,cross_validated_vs_cfbd
+401282629,2021,Miami,Michigan State,2021-09-18,7.0,7.0,0.0,verified,6.5,8.0,1.5,cross_validated_vs_cfbd
+401282774,2021,Michigan,Northern Illinois,2021-09-18,27.5,27.5,0.0,verified,27.0,27.0,0.0,cross_validated_vs_cfbd
+401282632,2021,Pittsburgh,Western Michigan,2021-09-18,14.5,,,single_source,15.0,,,
+401282634,2021,Temple,Boston College,2021-09-18,15.0,14.5,0.5,verified,16.5,16.5,0.0,cross_validated_vs_cfbd
+401282791,2021,Colorado,Minnesota,2021-09-18,2.5,2.5,0.0,verified,1.5,,,cross_validated_vs_cfbd
+401282199,2021,Louisiana Tech,SMU,2021-09-18,11.0,11.0,0.0,verified,13.5,14.5,1.0,cross_validated_vs_cfbd
+401282635,2021,Wake Forest,Florida State,2021-09-18,4.5,4.5,0.0,verified,6.5,7.0,0.5,cross_validated_vs_cfbd
+401282628,2021,Duke,Northwestern,2021-09-18,2.5,2.5,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401282200,2021,Marshall,East Carolina,2021-09-18,10.0,11.0,1.0,verified,9.5,10.5,1.0,cross_validated_vs_cfbd
+401282201,2021,Liberty,Old Dominion,2021-09-18,27.5,27.5,0.0,verified,26.0,24.5,1.5,cross_validated_vs_cfbd
+401282203,2021,Southern Miss,Troy,2021-09-18,11.0,11.0,0.0,verified,8.0,8.0,0.0,cross_validated_vs_cfbd
+401309547,2021,Northern Illinois,Wyoming,2021-09-11,7.0,,,single_source,5.5,,,
+401309753,2021,Ohio,Duquesne,2021-09-11,28.75,29.0,0.25,verified,28.5,29.5,1.0,cross_validated_vs_cfbd
+401309548,2021,Central Michigan,Robert Morris,2021-09-11,37.5,37.0,0.5,verified,37.5,37.5,0.0,cross_validated_vs_cfbd
+401301004,2021,Navy,Air Force,2021-09-11,6.0,6.0,0.0,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401309546,2021,Bowling Green,South Alabama,2021-09-11,14.25,15.0,0.75,verified,15.5,14.5,1.0,cross_validated_vs_cfbd
+401309544,2021,Western Michigan,Illinois State,2021-09-11,12.25,12.5,0.25,verified,11.0,11.5,0.5,cross_validated_vs_cfbd
+401309545,2021,Kent State,VMI,2021-09-11,19.5,19.0,0.5,verified,17.5,17.0,0.5,cross_validated_vs_cfbd
+401309603,2021,Louisiana,Nicholls,2021-09-11,,26.0,,single_source,,21.0,,sbro_heuristic_only_unvalidated
+401282202,2021,Texas,Rice,2021-09-19,26.25,26.0,0.25,verified,25.0,26.0,1.0,cross_validated_vs_cfbd
+401287896,2021,Coastal Carolina,Kansas,2021-09-10,27.0,27.0,0.0,verified,27.0,24.5,2.5,cross_validated_vs_cfbd
+401282616,2021,Duke,North Carolina A&T,2021-09-11,22.75,23.0,0.25,verified,21.0,21.5,0.5,cross_validated_vs_cfbd
+401282759,2021,Maryland,Iowa,2021-10-02,3.0,3.0,0.0,verified,4.0,4.5,0.5,cross_validated_vs_cfbd
+401282729,2021,Penn State,Indiana,2021-10-02,12.5,12.5,0.0,verified,11.5,10.5,1.0,cross_validated_vs_cfbd
+401282708,2021,Notre Dame,Cincinnati,2021-10-02,2.0,2.0,0.0,verified,2.0,1.5,0.5,cross_validated_vs_cfbd
+401282776,2021,Wisconsin,Michigan,2021-10-02,2.0,2.0,0.0,verified,1.0,4.5,3.5,cross_validated_vs_cfbd
+401282651,2021,Wake Forest,Louisville,2021-10-02,7.0,7.0,0.0,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401282793,2021,Purdue,Minnesota,2021-10-02,2.5,2.0,0.5,verified,2.0,2.5,0.5,cross_validated_vs_cfbd
+401282758,2021,Iowa,Penn State,2021-10-09,2.5,2.5,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401282769,2021,Ohio State,Maryland,2021-10-09,21.75,21.5,0.25,verified,20.0,20.5,0.5,cross_validated_vs_cfbd
+401282778,2021,Nebraska,Michigan,2021-10-09,2.75,2.0,0.75,verified,3.0,6.5,3.5,cross_validated_vs_cfbd
+401282788,2021,Rutgers,Michigan State,2021-10-09,4.25,4.0,0.25,verified,5.0,3.5,1.5,cross_validated_vs_cfbd
+401287917,2021,Baylor,West Virginia,2021-10-09,1.0,1.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282718,2021,Illinois,Wisconsin,2021-10-09,12.0,12.0,0.0,verified,9.0,7.5,1.5,cross_validated_vs_cfbd
+401286191,2021,Massachusetts,UConn,2021-10-09,3.0,3.0,0.0,verified,2.0,,,cross_validated_vs_cfbd
+401301010,2021,Temple,Wagner,2021-09-25,36.5,36.0,0.5,verified,35.0,27.5,7.5,cross_validated_vs_cfbd
+401282060,2021,Georgia,UAB,2021-09-11,22.5,22.5,0.0,verified,27.0,27.5,0.5,cross_validated_vs_cfbd
+401282620,2021,Miami,App State,2021-09-11,7.75,7.0,0.75,verified,8.0,7.5,0.5,cross_validated_vs_cfbd
+401282066,2021,Tennessee,Pittsburgh,2021-09-11,3.75,4.0,0.25,verified,2.5,,,cross_validated_vs_cfbd
+401282181,2021,Charlotte,Gardner-Webb,2021-09-11,23.0,23.0,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401282064,2021,Mississippi State,NC State,2021-09-11,1.25,1.5,0.25,verified,2.0,1.5,0.5,cross_validated_vs_cfbd
+401282061,2021,Kentucky,Missouri,2021-09-11,5.5,5.5,0.0,verified,6.0,4.5,1.5,cross_validated_vs_cfbd
+401282062,2021,LSU,McNeese,2021-09-12,39.0,39.0,0.0,verified,39.0,37.5,1.5,cross_validated_vs_cfbd
+401282617,2021,Florida State,Jacksonville State,2021-09-12,27.25,27.5,0.25,verified,26.5,25.5,1.0,cross_validated_vs_cfbd
+401282251,2021,Western Kentucky,Middle Tennessee,2021-11-06,17.75,17.5,0.25,verified,15.0,14.0,1.0,cross_validated_vs_cfbd
+401310746,2021,San Diego State,Nevada,2021-11-14,2.75,2.5,0.25,verified,0.0,3.0,3.0,cross_validated_vs_cfbd
+401301051,2021,East Carolina,Cincinnati,2021-11-26,14.25,14.5,0.25,verified,14.0,14.0,0.0,cross_validated_vs_cfbd
+401287952,2021,Texas,Kansas State,2021-11-26,2.75,3.0,0.25,verified,2.0,1.0,1.0,cross_validated_vs_cfbd
+401301052,2021,UConn,Houston,2021-11-27,32.25,32.5,0.25,verified,32.5,32.5,0.0,cross_validated_vs_cfbd
+401301053,2021,Memphis,Tulane,2021-11-28,5.75,5.5,0.25,verified,5.5,6.0,0.5,cross_validated_vs_cfbd
+401282068,2021,Colorado State,Vanderbilt,2021-09-12,6.75,6.5,0.25,verified,5.5,,,cross_validated_vs_cfbd
+401282809,2021,Ohio State,Oregon,2021-09-11,14.75,14.5,0.25,verified,14.0,12.5,1.5,cross_validated_vs_cfbd
+401287898,2021,Oklahoma,Western Carolina,2021-09-11,51.5,52.5,1.0,verified,50.5,47.0,3.5,cross_validated_vs_cfbd
+401301002,2021,Cincinnati,Murray State,2021-09-11,36.5,36.5,0.0,verified,36.5,34.5,2.0,cross_validated_vs_cfbd
+401282705,2021,Notre Dame,Toledo,2021-09-11,16.75,16.5,0.25,verified,18.5,19.5,1.0,cross_validated_vs_cfbd
+401282754,2021,Iowa State,Iowa,2021-09-11,4.25,4.5,0.25,verified,3.5,6.0,2.5,cross_validated_vs_cfbd
+401282816,2021,Penn State,Ball State,2021-09-11,22.5,22.5,0.0,verified,22.5,20.5,2.0,cross_validated_vs_cfbd
+401282825,2021,Wisconsin,Eastern Michigan,2021-09-11,26.25,26.0,0.25,verified,24.5,31.0,6.5,cross_validated_vs_cfbd
+401282624,2021,Virginia,Illinois,2021-09-11,10.5,10.5,0.0,verified,10.5,12.5,2.0,cross_validated_vs_cfbd
+401282625,2021,Wake Forest,Norfolk State,2021-09-11,43.0,43.0,0.0,verified,43.0,45.0,2.0,cross_validated_vs_cfbd
+401282783,2021,Michigan State,Youngstown State,2021-09-11,28.25,28.5,0.25,verified,27.0,28.5,1.5,cross_validated_vs_cfbd
+401282790,2021,Minnesota,Miami (OH),2021-09-11,19.0,18.5,0.5,verified,21.0,20.5,0.5,cross_validated_vs_cfbd
+401282804,2021,Northwestern,Indiana State,2021-09-11,28.5,28.5,0.0,verified,28.5,29.5,1.0,cross_validated_vs_cfbd
+401287899,2021,Oklahoma State,Tulsa,2021-09-11,12.0,11.0,1.0,verified,12.5,12.0,0.5,cross_validated_vs_cfbd
+401301000,2021,Tulane,Morgan State,2021-09-11,47.75,47.5,0.25,verified,47.0,40.5,6.5,cross_validated_vs_cfbd
+401282820,2021,UConn,Purdue,2021-09-11,35.0,35.0,0.0,verified,33.5,32.5,1.0,cross_validated_vs_cfbd
+401282623,2021,Massachusetts,Boston College,2021-09-11,38.5,39.0,0.5,verified,37.0,35.5,1.5,cross_validated_vs_cfbd
+401282797,2021,Nebraska,Buffalo,2021-09-11,13.75,13.5,0.25,verified,12.0,13.5,1.5,cross_validated_vs_cfbd
+401287900,2021,TCU,California,2021-09-11,11.5,11.5,0.0,verified,9.5,9.5,0.0,cross_validated_vs_cfbd
+401300999,2021,Akron,Temple,2021-09-11,6.75,6.5,0.25,verified,7.0,4.5,2.5,cross_validated_vs_cfbd
+401287902,2021,West Virginia,Long Island University,2021-09-11,49.0,49.0,0.0,verified,48.5,47.5,1.0,cross_validated_vs_cfbd
+401301001,2021,UCF,Bethune-Cookman,2021-09-11,46.0,46.0,0.0,verified,,39.5,,sbro_heuristic_only_unvalidated
+401286295,2021,Troy,Liberty,2021-09-11,3.75,3.0,0.75,verified,5.5,5.0,0.5,cross_validated_vs_cfbd
+401287895,2021,Baylor,Texas Southern,2021-09-11,44.5,44.5,0.0,verified,44.5,47.5,3.0,cross_validated_vs_cfbd
+401287897,2021,Kansas State,Southern Illinois,2021-09-11,17.0,17.0,0.0,verified,17.0,21.0,4.0,cross_validated_vs_cfbd
+401282063,2021,Ole Miss,Austin Peay,2021-09-11,36.25,,,single_source,34.5,,,
+401282621,2021,North Carolina,Georgia State,2021-09-11,26.0,26.0,0.0,verified,25.5,24.5,1.0,cross_validated_vs_cfbd
+401282622,2021,Syracuse,Rutgers,2021-09-11,2.5,3.0,0.5,verified,2.0,1.0,1.0,cross_validated_vs_cfbd
+401309914,2021,BYU,Idaho State,2021-11-06,36.25,36.5,0.25,verified,36.0,33.5,2.5,cross_validated_vs_cfbd
+401310735,2021,Fresno State,Boise State,2021-11-06,4.5,4.5,0.0,verified,5.5,2.5,3.0,cross_validated_vs_cfbd
+401310739,2021,Hawai'i,San Diego State,2021-11-07,7.0,7.5,0.5,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401310736,2021,Wyoming,Colorado State,2021-11-06,3.25,3.0,0.25,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401310738,2021,New Mexico State,Utah State,2021-11-06,18.5,18.5,0.0,verified,17.0,18.5,1.5,cross_validated_vs_cfbd
+401310737,2021,New Mexico,UNLV,2021-11-06,1.5,1.5,0.0,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401310740,2021,Nevada,San José State,2021-11-07,11.25,11.5,0.25,verified,10.0,11.5,1.5,cross_validated_vs_cfbd
+401308840,2021,Miami (OH),Buffalo,2021-11-10,7.0,7.5,0.5,verified,7.0,6.5,0.5,cross_validated_vs_cfbd
+401309584,2021,Western Michigan,Akron,2021-11-10,24.25,26.5,2.25,source_variance,26.0,24.5,1.5,cross_validated_vs_cfbd
+401309583,2021,Eastern Michigan,Ohio,2021-11-10,6.25,6.0,0.25,verified,7.5,9.5,2.0,cross_validated_vs_cfbd
+401309585,2021,Bowling Green,Toledo,2021-11-11,10.5,10.5,0.0,verified,9.5,10.0,0.5,cross_validated_vs_cfbd
+401309586,2021,Central Michigan,Kent State,2021-11-11,2.5,2.5,0.0,verified,3.0,2.0,1.0,cross_validated_vs_cfbd
+401282067,2021,Colorado,Texas A&M,2021-09-11,17.0,17.5,0.5,verified,17.0,16.5,0.5,cross_validated_vs_cfbd
+401282619,2021,Louisville,Eastern Kentucky,2021-09-11,30.0,30.0,0.0,verified,30.0,28.5,1.5,cross_validated_vs_cfbd
+401282182,2021,Florida International,Texas State,2021-09-11,2.0,2.0,0.0,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401286189,2021,Army,UConn,2021-09-18,34.75,34.5,0.25,verified,33.0,31.5,1.5,cross_validated_vs_cfbd
+401282065,2021,East Carolina,South Carolina,2021-09-11,2.75,3.0,0.25,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401282133,2021,Tennessee,Georgia,2021-11-13,19.75,19.5,0.25,verified,20.5,21.5,1.0,cross_validated_vs_cfbd
+401282131,2021,Ole Miss,Texas A&M,2021-11-14,1.75,,,single_source,1.5,,,
+401282128,2021,Auburn,Mississippi State,2021-11-13,5.75,6.0,0.25,verified,5.5,6.0,0.5,cross_validated_vs_cfbd
+401282130,2021,LSU,Arkansas,2021-11-14,3.0,3.0,0.0,verified,1.5,,,cross_validated_vs_cfbd
+401282129,2021,Florida,Samford,2021-11-13,36.5,36.5,0.0,verified,35.5,31.5,4.0,cross_validated_vs_cfbd
+401282254,2021,Louisiana Tech,Charlotte,2021-11-13,7.0,7.0,0.0,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401282255,2021,Middle Tennessee,Florida International,2021-11-13,10.25,10.5,0.25,verified,10.0,11.0,1.0,cross_validated_vs_cfbd
+401282132,2021,Missouri,South Carolina,2021-11-13,1.5,,,single_source,1.5,1.5,0.0,cross_validated_vs_cfbd
+401282134,2021,Vanderbilt,Kentucky,2021-11-14,21.5,21.5,0.0,verified,21.5,22.5,1.0,cross_validated_vs_cfbd
+401282274,2021,UAB,UTEP,2021-11-26,13.5,13.5,0.0,verified,13.0,13.5,0.5,cross_validated_vs_cfbd
+401301054,2021,Temple,Navy,2021-11-27,13.5,13.5,0.0,verified,13.0,13.0,0.0,cross_validated_vs_cfbd
+401301055,2021,SMU,Tulsa,2021-11-27,6.5,6.5,0.0,verified,6.5,7.0,0.5,cross_validated_vs_cfbd
+401309859,2021,Oregon,Arizona,2021-09-26,29.5,30.0,0.5,verified,28.0,27.5,0.5,cross_validated_vs_cfbd
+401309858,2021,Stanford,UCLA,2021-09-25,4.0,4.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401310706,2021,Utah State,Boise State,2021-09-25,9.5,9.5,0.0,verified,9.0,9.0,0.0,cross_validated_vs_cfbd
+401309861,2021,Utah,Washington State,2021-09-25,15.0,15.0,0.0,verified,14.0,13.5,0.5,cross_validated_vs_cfbd
+401309611,2021,UL Monroe,Troy,2021-09-26,23.75,,,single_source,23.0,,,
+401309857,2021,Washington,California,2021-09-26,7.25,7.5,0.25,verified,7.5,9.5,2.0,cross_validated_vs_cfbd
+401309860,2021,USC,Oregon State,2021-09-26,11.0,10.0,1.0,verified,12.5,10.5,2.0,cross_validated_vs_cfbd
+401309862,2021,Arizona State,Colorado,2021-09-26,14.0,14.0,0.0,verified,14.0,13.0,1.0,cross_validated_vs_cfbd
+401282649,2021,Georgia Tech,Pittsburgh,2021-10-02,3.0,3.0,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401282650,2021,North Carolina,Duke,2021-10-02,19.5,19.5,0.0,verified,18.0,16.0,2.0,cross_validated_vs_cfbd
+401309896,2021,Arizona,Utah,2021-11-13,24.25,24.0,0.25,verified,24.0,23.5,0.5,cross_validated_vs_cfbd
+401310254,2021,Army,Bucknell,2021-11-13,51.25,51.5,0.25,verified,51.0,54.5,3.5,cross_validated_vs_cfbd
+401309897,2021,Washington,Arizona State,2021-11-14,6.0,6.0,0.0,verified,5.0,4.0,1.0,cross_validated_vs_cfbd
+401310741,2021,Colorado State,Air Force,2021-11-14,2.75,3.5,0.75,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401310743,2021,Fresno State,New Mexico,2021-11-14,24.25,24.0,0.25,verified,24.5,24.0,0.5,cross_validated_vs_cfbd
+401309898,2021,UCLA,Colorado,2021-11-14,18.0,18.0,0.0,verified,15.0,14.5,0.5,cross_validated_vs_cfbd
+401310742,2021,Boise State,Wyoming,2021-11-13,13.75,14.0,0.25,verified,14.5,15.0,0.5,cross_validated_vs_cfbd
+401282152,2021,South Carolina,Clemson,2021-11-28,11.25,11.5,0.25,verified,11.0,11.5,0.5,cross_validated_vs_cfbd
+401282268,2021,Old Dominion,Charlotte,2021-11-27,9.0,8.5,0.5,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401309855,2021,UCLA,Fresno State,2021-09-19,11.0,11.0,0.0,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282817,2021,Penn State,Villanova,2021-09-25,29.75,29.5,0.25,verified,30.0,33.5,3.5,cross_validated_vs_cfbd
+401301046,2021,Cincinnati,SMU,2021-11-20,10.0,9.5,0.5,verified,12.5,14.0,1.5,cross_validated_vs_cfbd
+401287947,2021,West Virginia,Texas,2021-11-20,2.25,2.5,0.25,verified,2.5,,,cross_validated_vs_cfbd
+401301048,2021,Tulane,South Florida,2021-11-20,5.75,5.5,0.25,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401301047,2021,Navy,East Carolina,2021-11-20,3.5,3.5,0.0,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401301049,2021,Tulsa,Temple,2021-11-20,21.75,22.0,0.25,verified,22.0,21.5,0.5,cross_validated_vs_cfbd
+401287946,2021,Texas Tech,Oklahoma State,2021-11-21,10.0,10.0,0.0,verified,10.5,11.5,1.0,cross_validated_vs_cfbd
+401287944,2021,Oklahoma,Iowa State,2021-11-20,3.0,3.0,0.0,verified,4.0,7.5,3.5,cross_validated_vs_cfbd
+401287945,2021,TCU,Kansas,2021-11-20,21.0,21.0,0.0,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401309647,2021,Arkansas State,Texas State,2021-11-27,2.0,2.5,0.5,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401309646,2021,App State,Georgia Southern,2021-11-27,24.5,24.5,0.0,verified,24.5,24.0,0.5,cross_validated_vs_cfbd
+401309890,2021,Washington,Oregon,2021-11-06,7.0,7.0,0.0,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401309889,2021,Arizona,California,2021-11-06,7.75,7.0,0.75,verified,12.0,13.0,1.0,cross_validated_vs_cfbd
+401309891,2021,Colorado,Oregon State,2021-11-06,11.5,12.0,0.5,verified,10.5,10.0,0.5,cross_validated_vs_cfbd
+401282127,2021,Alabama,New Mexico State,2021-11-13,50.25,50.0,0.25,verified,51.5,50.5,1.0,cross_validated_vs_cfbd
+401309597,2021,Toledo,Akron,2021-11-27,28.75,28.5,0.25,verified,28.0,27.5,0.5,cross_validated_vs_cfbd
+401301040,2021,South Florida,Cincinnati,2021-11-12,23.75,24.5,0.75,verified,23.5,23.5,0.0,cross_validated_vs_cfbd
+401309622,2021,Texas State,Troy,2021-10-16,7.5,7.5,0.0,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401282250,2021,UAB,Louisiana Tech,2021-11-06,13.5,14.0,0.5,verified,13.0,11.0,2.0,cross_validated_vs_cfbd
+401301039,2021,Memphis,SMU,2021-11-06,3.5,3.5,0.0,verified,6.5,7.0,0.5,cross_validated_vs_cfbd
+401309633,2021,Arkansas State,App State,2021-11-06,21.5,21.5,0.0,verified,20.5,21.0,0.5,cross_validated_vs_cfbd
+401309635,2021,Texas State,UL Monroe,2021-11-06,3.25,3.0,0.25,verified,3.5,2.5,1.0,cross_validated_vs_cfbd
+401309636,2021,Troy,South Alabama,2021-11-06,3.75,4.0,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282249,2021,Florida Atlantic,Marshall,2021-11-06,1.5,1.5,0.0,verified,1.5,1.0,0.5,cross_validated_vs_cfbd
+401309634,2021,Georgia Southern,Coastal Carolina,2021-11-06,16.0,16.0,0.0,verified,19.0,18.5,0.5,cross_validated_vs_cfbd
+401301038,2021,South Florida,Houston,2021-11-06,13.25,13.5,0.25,verified,13.0,13.5,0.5,cross_validated_vs_cfbd
+401309882,2021,California,Oregon State,2021-10-30,2.0,2.5,0.5,verified,1.5,1.5,0.0,cross_validated_vs_cfbd
+401301037,2021,Cincinnati,Tulsa,2021-11-06,22.5,22.5,0.0,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401287937,2021,West Virginia,Oklahoma State,2021-11-06,3.5,3.5,0.0,verified,3.0,4.0,1.0,cross_validated_vs_cfbd
+401287936,2021,TCU,Baylor,2021-11-06,7.25,7.5,0.25,verified,5.0,7.0,2.0,cross_validated_vs_cfbd
+401287935,2021,Kansas,Kansas State,2021-11-06,24.0,24.0,0.0,verified,23.5,24.5,1.0,cross_validated_vs_cfbd
+401282768,2021,Maryland,Penn State,2021-11-06,10.0,10.0,0.0,verified,11.0,11.5,0.5,cross_validated_vs_cfbd
+401286303,2021,Massachusetts,Rhode Island,2021-11-06,1.75,2.5,0.75,verified,1.0,2.0,1.0,cross_validated_vs_cfbd
+401301036,2021,UCF,Tulane,2021-11-06,12.75,12.5,0.25,verified,13.0,14.5,1.5,cross_validated_vs_cfbd
+401287934,2021,Iowa State,Texas,2021-11-06,6.25,6.0,0.25,verified,6.5,5.0,1.5,cross_validated_vs_cfbd
+401282728,2021,Indiana,Rutgers,2021-11-13,6.25,6.5,0.25,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401287943,2021,Kansas State,Baylor,2021-11-20,2.5,2.5,0.0,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282151,2021,Mississippi State,Ole Miss,2021-11-26,2.0,2.0,0.0,verified,1.0,3.0,2.0,cross_validated_vs_cfbd
+401308842,2021,Kent State,Miami (OH),2021-11-27,1.25,,,single_source,1.0,1.5,0.5,cross_validated_vs_cfbd
+401331170,2021,Oregon State,Utah State,2021-12-19,6.75,6.5,0.25,verified,7.5,6.5,1.0,cross_validated_vs_cfbd
+401331172,2021,Tulsa,Old Dominion,2021-12-20,7.5,8.0,0.5,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401331214,2021,San Diego State,UTSA,2021-12-22,3.0,3.0,0.0,verified,2.5,3.5,1.0,cross_validated_vs_cfbd
+401331213,2021,Wyoming,Kent State,2021-12-21,3.0,3.0,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401331215,2021,Army,Missouri,2021-12-23,7.0,7.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401391158,2021,Miami (OH),North Texas,2021-12-23,2.0,2.0,0.0,verified,4.5,4.5,0.0,cross_validated_vs_cfbd
+401331216,2021,Florida,UCF,2021-12-24,7.0,7.0,0.0,verified,7.0,6.5,0.5,cross_validated_vs_cfbd
+401331219,2021,Nevada,Western Michigan,2021-12-27,6.75,6.5,0.25,verified,6.5,7.5,1.0,cross_validated_vs_cfbd
+401331221,2021,Auburn,Houston,2021-12-28,1.75,1.0,0.75,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401331222,2021,Louisville,Air Force,2021-12-28,1.0,1.5,0.5,verified,1.0,,,cross_validated_vs_cfbd
+401331223,2021,Texas Tech,Mississippi State,2021-12-28,10.0,10.0,0.0,verified,9.5,9.5,0.0,cross_validated_vs_cfbd
+401331224,2021,Minnesota,West Virginia,2021-12-29,5.5,6.0,0.5,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401331228,2021,Oklahoma,Oregon,2021-12-30,7.0,7.5,0.5,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401331227,2021,Iowa State,Clemson,2021-12-29,1.75,2.0,0.25,verified,1.0,,,cross_validated_vs_cfbd
+401331226,2021,Virginia Tech,Maryland,2021-12-29,4.25,4.5,0.25,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401331231,2021,Michigan State,Pittsburgh,2021-12-31,3.5,3.5,0.0,verified,4.0,4.5,0.5,cross_validated_vs_cfbd
+401331229,2021,South Carolina,North Carolina,2021-12-30,12.5,13.0,0.5,verified,5.0,5.0,0.0,cross_validated_vs_cfbd
+401331230,2021,Purdue,Tennessee,2021-12-30,7.75,7.5,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401331232,2021,Arizona State,Wisconsin,2021-12-31,8.0,8.0,0.0,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401331235,2021,Alabama,Cincinnati,2021-12-31,13.0,13.0,0.0,verified,14.0,7.0,7.0,cross_validated_vs_cfbd
+401331234,2021,Michigan,Georgia,2022-01-01,7.5,7.5,0.0,verified,7.5,13.5,6.0,cross_validated_vs_cfbd
+401331233,2021,Rutgers,Wake Forest,2021-12-31,16.75,16.5,0.25,verified,5.5,11.5,6.0,cross_validated_vs_cfbd
+401331654,2021,Central Michigan,Washington State,2021-12-31,5.5,5.5,0.0,verified,6.5,4.5,2.0,cross_validated_vs_cfbd
+401331238,2021,Notre Dame,Oklahoma State,2022-01-01,1.25,1.0,0.25,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401331239,2021,Ohio State,Utah,2022-01-01,4.25,4.0,0.25,verified,7.0,9.5,2.5,cross_validated_vs_cfbd
+401331240,2021,Ole Miss,Baylor,2022-01-02,1.0,,,single_source,1.0,,,
+401331237,2021,Kentucky,Iowa,2022-01-01,3.0,3.0,0.0,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401331236,2021,Arkansas,Penn State,2022-01-01,3.5,3.0,0.5,verified,3.0,4.5,1.5,cross_validated_vs_cfbd
+401282057,2021,Arkansas,Texas,2021-09-11,6.5,5.5,1.0,verified,6.0,4.5,1.5,cross_validated_vs_cfbd
+401282058,2021,Auburn,Alabama State,2021-09-11,49.5,49.5,0.0,verified,49.5,51.5,2.0,cross_validated_vs_cfbd
+401282789,2021,Minnesota,Ohio State,2021-09-03,14.0,14.0,0.0,verified,14.0,14.0,0.0,cross_validated_vs_cfbd
+401328545,2021,Coastal Carolina,The Citadel,2021-09-02,33.5,33.0,0.5,verified,35.0,31.5,3.5,cross_validated_vs_cfbd
+401309540,2021,Ball State,Western Illinois,2021-09-02,31.25,31.5,0.25,verified,32.5,25.5,7.0,cross_validated_vs_cfbd
+401282607,2021,NC State,South Florida,2021-09-02,19.5,20.0,0.5,verified,16.5,16.5,0.0,cross_validated_vs_cfbd
+401300993,2021,App State,East Carolina,2021-09-02,9.25,9.0,0.25,verified,13.0,13.5,0.5,cross_validated_vs_cfbd
+401300994,2021,Tulsa,UC Davis,2021-09-02,22.0,22.5,0.5,verified,22.5,,,cross_validated_vs_cfbd
+401281952,2021,Tennessee,Bowling Green,2021-09-03,37.0,37.0,0.0,verified,30.5,28.5,2.0,cross_validated_vs_cfbd
+401282180,2021,Western Kentucky,UT Martin,2021-09-03,24.0,24.0,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401282822,2021,Rutgers,Temple,2021-09-04,14.0,14.5,0.5,verified,13.0,14.5,1.5,cross_validated_vs_cfbd
+401309542,2021,Buffalo,Wagner,2021-09-02,43.75,43.5,0.25,verified,43.5,45.5,2.0,cross_validated_vs_cfbd
+401300995,2021,UCF,Boise State,2021-09-02,6.5,6.5,0.0,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401282051,2021,Florida International,Long Island University,2021-09-03,35.0,35.0,0.0,verified,33.5,33.5,0.0,cross_validated_vs_cfbd
+401281942,2021,Miami,Alabama,2021-09-04,19.5,19.5,0.0,verified,18.5,18.5,0.0,cross_validated_vs_cfbd
+401287894,2021,Oklahoma,Tulane,2021-09-04,31.25,31.0,0.25,verified,22.0,31.0,9.0,cross_validated_vs_cfbd
+401300996,2021,Cincinnati,Miami (OH),2021-09-04,22.5,23.0,0.5,verified,21.5,19.5,2.0,cross_validated_vs_cfbd
+401282815,2021,Wisconsin,Penn State,2021-09-04,5.5,5.5,0.0,verified,4.0,4.5,0.5,cross_validated_vs_cfbd
+401282723,2021,Iowa,Indiana,2021-09-04,3.5,3.5,0.0,verified,4.0,6.5,2.5,cross_validated_vs_cfbd
+401286188,2021,UConn,Holy Cross,2021-09-04,3.0,3.0,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401287889,2021,Kansas State,Stanford,2021-09-04,3.25,3.0,0.25,verified,0.0,1.5,1.5,cross_validated_vs_cfbd
+401309601,2021,Georgia State,Army,2021-09-04,2.5,2.5,0.0,verified,3.0,4.0,1.0,cross_validated_vs_cfbd
+401327913,2021,Nebraska,Fordham,2021-09-04,41.75,42.0,0.25,verified,43.5,42.5,1.0,cross_validated_vs_cfbd
+401281943,2021,Arkansas,Rice,2021-09-04,19.75,20.0,0.25,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401309838,2021,Oregon,Fresno State,2021-09-04,19.75,18.0,1.75,verified,20.5,20.5,0.0,cross_validated_vs_cfbd
+401282764,2021,Maryland,West Virginia,2021-09-04,2.5,2.5,0.0,verified,4.0,4.5,0.5,cross_validated_vs_cfbd
+401281949,2021,Mississippi State,Louisiana Tech,2021-09-04,21.0,20.5,0.5,verified,27.5,27.5,0.0,cross_validated_vs_cfbd
+401281950,2021,Missouri,Central Michigan,2021-09-04,14.0,14.0,0.0,verified,11.0,12.5,1.5,cross_validated_vs_cfbd
+401282612,2021,Pittsburgh,Massachusetts,2021-09-04,37.5,,,single_source,35.5,,,
+401286294,2021,Liberty,Campbell,2021-09-04,35.0,35.0,0.0,verified,35.0,27.5,7.5,cross_validated_vs_cfbd
+401309600,2021,Georgia Southern,Gardner-Webb,2021-09-04,27.5,27.5,0.0,verified,,32.5,,sbro_heuristic_only_unvalidated
+401281944,2021,Auburn,Akron,2021-09-04,37.0,37.5,0.5,verified,35.5,35.5,0.0,cross_validated_vs_cfbd
+401281951,2021,South Carolina,Eastern Illinois,2021-09-04,31.5,31.0,0.5,verified,31.5,40.5,9.0,cross_validated_vs_cfbd
+401282173,2021,Middle Tennessee,Monmouth,2021-09-04,8.5,9.0,0.5,verified,8.0,7.5,0.5,cross_validated_vs_cfbd
+401301033,2021,East Carolina,South Florida,2021-10-28,9.5,9.5,0.0,verified,9.0,7.5,1.5,cross_validated_vs_cfbd
+401301027,2021,Navy,Cincinnati,2021-10-23,29.0,29.0,0.0,verified,27.0,26.5,0.5,cross_validated_vs_cfbd
+401287928,2021,Texas Tech,Kansas State,2021-10-23,1.0,1.0,0.0,verified,1.0,2.5,1.5,cross_validated_vs_cfbd
+401308838,2021,Ball State,Miami (OH),2021-10-23,3.5,3.5,0.0,verified,6.5,7.5,1.0,cross_validated_vs_cfbd
+401309573,2021,Toledo,Western Michigan,2021-10-23,1.5,1.5,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401301028,2021,Houston,East Carolina,2021-10-23,13.5,13.5,0.0,verified,13.0,12.5,0.5,cross_validated_vs_cfbd
+401301029,2021,South Florida,Temple,2021-10-23,1.5,1.5,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401287927,2021,TCU,West Virginia,2021-10-23,4.5,5.0,0.5,verified,4.5,5.5,1.0,cross_validated_vs_cfbd
+401301034,2021,Houston,SMU,2021-10-30,0.5,1.0,0.5,verified,1.0,3.0,2.0,cross_validated_vs_cfbd
+401309578,2021,Buffalo,Bowling Green,2021-10-30,13.5,13.5,0.0,verified,12.5,13.5,1.0,cross_validated_vs_cfbd
+401309628,2021,App State,UL Monroe,2021-10-30,27.0,27.0,0.0,verified,27.0,24.5,2.5,cross_validated_vs_cfbd
+401309629,2021,South Alabama,Arkansas State,2021-10-30,9.0,9.0,0.0,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401309630,2021,Georgia Southern,Georgia State,2021-10-30,6.0,6.0,0.0,verified,5.5,5.0,0.5,cross_validated_vs_cfbd
+401310753,2021,San Diego State,Boise State,2021-11-26,3.25,3.0,0.25,verified,3.0,4.0,1.0,cross_validated_vs_cfbd
+401310755,2021,New Mexico,Utah State,2021-11-26,17.0,17.0,0.0,verified,15.5,15.5,0.0,cross_validated_vs_cfbd
+401282714,2021,Illinois,Nebraska,2021-08-28,6.75,7.0,0.25,verified,8.5,9.5,1.0,cross_validated_vs_cfbd
+401282052,2021,Charlotte,Duke,2021-09-03,6.5,6.5,0.0,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401281948,2021,UCLA,LSU,2021-09-05,2.25,1.5,0.75,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401309833,2021,UCLA,Hawai'i,2021-08-28,17.75,18.0,0.25,verified,14.0,9.5,4.5,cross_validated_vs_cfbd
+401282049,2021,New Mexico State,UTEP,2021-08-29,9.75,9.5,0.25,verified,8.0,9.0,1.0,cross_validated_vs_cfbd
+401282610,2021,Georgia Tech,Northern Illinois,2021-09-04,19.0,19.0,0.0,verified,15.5,13.0,2.5,cross_validated_vs_cfbd
+401309841,2021,Arizona,BYU,2021-09-05,13.0,13.5,0.5,verified,10.0,9.5,0.5,cross_validated_vs_cfbd
+401309937,2021,Virginia Tech,North Carolina,2021-09-03,5.75,5.0,0.75,verified,5.5,6.0,0.5,cross_validated_vs_cfbd
+401282782,2021,Northwestern,Michigan State,2021-09-04,3.0,3.0,0.0,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401282608,2021,Wake Forest,Old Dominion,2021-09-03,32.75,32.5,0.25,verified,32.0,33.5,1.5,cross_validated_vs_cfbd
+401309834,2021,Utah,Weber State,2021-09-02,29.5,29.0,0.5,verified,30.5,27.5,3.0,cross_validated_vs_cfbd
+401309836,2021,Colorado,Northern Colorado,2021-09-04,37.5,37.5,0.0,verified,38.0,35.5,2.5,cross_validated_vs_cfbd
+401282050,2021,Jacksonville State,UAB,2021-09-01,16.25,16.5,0.25,verified,16.5,14.5,2.0,cross_validated_vs_cfbd
+401310695,2021,Colorado State,South Dakota State,2021-09-04,2.5,2.5,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401286187,2021,Fresno State,UConn,2021-08-28,27.75,27.5,0.25,verified,27.5,25.5,2.0,cross_validated_vs_cfbd
+401287888,2021,Kansas,South Dakota,2021-09-04,11.5,11.5,0.0,verified,13.0,15.5,2.5,cross_validated_vs_cfbd
+401282053,2021,Texas A&M,Kent State,2021-09-05,29.5,29.5,0.0,verified,28.5,28.5,0.0,cross_validated_vs_cfbd
+401310693,2021,San José State,Southern Utah,2021-08-29,28.25,28.0,0.25,verified,22.5,24.0,1.5,cross_validated_vs_cfbd
+401282177,2021,South Alabama,Southern Miss,2021-09-05,2.0,2.5,0.5,verified,2.5,,,cross_validated_vs_cfbd
+401287890,2021,Oklahoma State,Missouri State,2021-09-04,38.0,33.5,4.5,source_variance,38.0,36.5,1.5,cross_validated_vs_cfbd
+401287891,2021,TCU,Duquesne,2021-09-05,42.5,42.0,0.5,verified,43.0,49.5,6.5,cross_validated_vs_cfbd
+401282054,2021,Vanderbilt,East Tennessee State,2021-09-05,21.0,21.0,0.0,verified,21.0,21.5,0.5,cross_validated_vs_cfbd
+401309839,2021,Washington,Montana,2021-09-05,22.75,22.5,0.25,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401282613,2021,Virginia,William & Mary,2021-09-04,30.75,30.5,0.25,verified,31.5,33.5,2.0,cross_validated_vs_cfbd
+401310698,2021,Hawai'i,Portland State,2021-09-05,26.0,25.5,0.5,verified,24.5,21.5,3.0,cross_validated_vs_cfbd
+401282191,2021,Boise State,UTEP,2021-09-11,25.0,25.0,0.0,verified,27.0,27.5,0.5,cross_validated_vs_cfbd
+401282059,2021,South Florida,Florida,2021-09-11,28.75,29.0,0.25,verified,29.0,29.0,0.0,cross_validated_vs_cfbd
+401282618,2021,Georgia Tech,Kennesaw State,2021-09-11,20.0,20.0,0.0,verified,18.0,21.5,3.5,cross_validated_vs_cfbd
+401286207,2021,Maryland,Howard,2021-09-11,48.25,48.5,0.25,verified,48.0,45.0,3.0,cross_validated_vs_cfbd
+401287901,2021,Texas Tech,Stephen F. Austin,2021-09-11,31.75,32.0,0.25,verified,31.5,31.0,0.5,cross_validated_vs_cfbd
+401282773,2021,Michigan,Washington,2021-09-12,6.5,6.5,0.0,verified,6.0,2.5,3.5,cross_validated_vs_cfbd
+401309844,2021,Oregon State,Hawai'i,2021-09-12,11.0,11.0,0.0,verified,11.0,12.5,1.5,cross_validated_vs_cfbd
+401301003,2021,Arkansas State,Memphis,2021-09-11,5.5,5.0,0.5,verified,5.5,4.5,1.0,cross_validated_vs_cfbd
+401310703,2021,Nevada,Idaho State,2021-09-12,34.5,35.0,0.5,verified,35.0,27.0,8.0,cross_validated_vs_cfbd
+401282615,2021,Clemson,South Carolina State,2021-09-11,50.25,50.5,0.25,verified,49.0,48.5,0.5,cross_validated_vs_cfbd
+401282724,2021,Indiana,Idaho,2021-09-11,31.5,31.0,0.5,verified,30.5,28.5,2.0,cross_validated_vs_cfbd
+401282056,2021,Alabama,Mercer,2021-09-11,54.0,55.0,1.0,verified,54.0,55.0,1.0,cross_validated_vs_cfbd
+401309552,2021,Buffalo,Coastal Carolina,2021-09-18,14.0,14.0,0.0,verified,10.5,9.5,1.0,cross_validated_vs_cfbd
+401282076,2021,Memphis,Mississippi State,2021-09-18,3.5,3.0,0.5,verified,3.0,4.0,1.0,cross_validated_vs_cfbd
+401282075,2021,Ole Miss,Tulane,2021-09-19,14.25,,,single_source,14.0,,,
+401282196,2021,Georgia State,Charlotte,2021-09-18,4.5,4.5,0.0,verified,2.5,1.0,1.5,cross_validated_vs_cfbd
+401282074,2021,LSU,Central Michigan,2021-09-18,19.5,19.5,0.0,verified,20.5,20.5,0.0,cross_validated_vs_cfbd
+401282073,2021,Kentucky,Chattanooga,2021-09-18,33.5,33.0,0.5,verified,32.0,30.5,1.5,cross_validated_vs_cfbd
+401309851,2021,Oregon State,Idaho,2021-09-18,28.0,28.0,0.0,verified,28.0,24.5,3.5,cross_validated_vs_cfbd
+401282197,2021,Texas Tech,Florida International,2021-09-18,20.25,20.5,0.25,verified,21.0,21.0,0.0,cross_validated_vs_cfbd
+401282198,2021,Florida Atlantic,Fordham,2021-09-18,31.0,31.5,0.5,verified,32.0,33.0,1.0,cross_validated_vs_cfbd
+401282716,2021,Purdue,Illinois,2021-09-25,10.75,10.5,0.25,verified,11.0,10.0,1.0,cross_validated_vs_cfbd
+401282643,2021,NC State,Clemson,2021-09-25,10.5,10.5,0.0,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401282811,2021,Ohio State,Akron,2021-09-25,48.25,48.5,0.25,verified,50.0,48.5,1.5,cross_validated_vs_cfbd
+401282641,2021,Georgia Tech,North Carolina,2021-09-25,14.25,14.5,0.25,verified,12.0,12.5,0.5,cross_validated_vs_cfbd
+401282792,2021,Minnesota,Bowling Green,2021-09-25,30.75,30.5,0.25,verified,31.0,31.5,0.5,cross_validated_vs_cfbd
+401282784,2021,Michigan State,Nebraska,2021-09-25,3.75,3.5,0.25,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401282765,2021,Maryland,Kent State,2021-09-25,13.25,13.0,0.25,verified,14.5,13.5,1.0,cross_validated_vs_cfbd
+401282214,2021,Western Kentucky,Indiana,2021-09-26,9.25,9.0,0.25,verified,9.5,9.5,0.0,cross_validated_vs_cfbd
+401282213,2021,Memphis,UTSA,2021-09-25,3.0,3.0,0.0,verified,3.5,5.0,1.5,cross_validated_vs_cfbd
+401286301,2021,Coastal Carolina,Massachusetts,2021-09-25,36.0,36.0,0.0,verified,35.5,34.0,1.5,cross_validated_vs_cfbd
+401282707,2021,Wisconsin,Notre Dame,2021-09-25,6.0,6.5,0.5,verified,5.5,3.0,2.5,cross_validated_vs_cfbd
+401282775,2021,Michigan,Rutgers,2021-09-25,20.25,20.0,0.25,verified,18.5,18.0,0.5,cross_validated_vs_cfbd
+401287910,2021,TCU,SMU,2021-09-25,9.5,9.5,0.0,verified,10.0,9.5,0.5,cross_validated_vs_cfbd
+401282639,2021,Duke,Kansas,2021-09-25,16.25,16.0,0.25,verified,15.0,11.5,3.5,cross_validated_vs_cfbd
+401282805,2021,Northwestern,Ohio,2021-09-25,13.75,13.5,0.25,verified,15.0,15.5,0.5,cross_validated_vs_cfbd
+401282642,2021,Miami,Central Connecticut,2021-09-25,46.25,46.0,0.25,verified,44.0,51.5,7.5,cross_validated_vs_cfbd
+401282210,2021,Rice,Texas Southern,2021-09-25,37.25,37.0,0.25,verified,34.0,24.5,9.5,cross_validated_vs_cfbd
+401282756,2021,Iowa,Colorado State,2021-09-25,23.5,23.5,0.0,verified,22.5,23.5,1.0,cross_validated_vs_cfbd
+401282640,2021,Florida State,Louisville,2021-09-25,1.25,1.0,0.25,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401287911,2021,Texas,Texas Tech,2021-09-25,9.0,9.0,0.0,verified,10.0,11.5,1.5,cross_validated_vs_cfbd
+401282212,2021,UTEP,New Mexico,2021-09-26,2.25,2.5,0.25,verified,1.5,3.0,1.5,cross_validated_vs_cfbd
+401301008,2021,Houston,Navy,2021-09-25,19.5,20.0,0.5,verified,20.0,21.0,1.0,cross_validated_vs_cfbd
+401286190,2021,UConn,Wyoming,2021-09-25,31.5,31.5,0.0,verified,30.0,30.0,0.0,cross_validated_vs_cfbd
+401282645,2021,Virginia Tech,Richmond,2021-09-25,29.0,29.0,0.0,verified,29.5,31.5,2.0,cross_validated_vs_cfbd
+401282211,2021,Tulane,UAB,2021-09-26,2.75,2.5,0.25,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401282644,2021,Pittsburgh,New Hampshire,2021-09-25,29.0,,,single_source,29.0,,,
+401287909,2021,Oklahoma State,Kansas State,2021-09-25,5.5,6.0,0.5,verified,7.5,7.5,0.0,cross_validated_vs_cfbd
+401301009,2021,BYU,South Florida,2021-09-26,23.5,23.0,0.5,verified,23.5,23.5,0.0,cross_validated_vs_cfbd
+401301007,2021,East Carolina,Charleston Southern,2021-09-25,24.25,24.5,0.25,verified,25.5,27.5,2.0,cross_validated_vs_cfbd
+401282648,2021,Florida State,Syracuse,2021-10-02,5.5,5.5,0.0,verified,4.5,3.5,1.0,cross_validated_vs_cfbd
+401282220,2021,NC State,Louisiana Tech,2021-10-02,17.75,18.5,0.75,verified,19.5,19.5,0.0,cross_validated_vs_cfbd
+401282219,2021,Illinois,Charlotte,2021-10-02,10.25,10.0,0.25,verified,9.5,9.0,0.5,cross_validated_vs_cfbd
+401282216,2021,Middle Tennessee,Marshall,2021-10-02,11.0,11.0,0.0,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401282217,2021,UTEP,Old Dominion,2021-10-03,5.5,5.5,0.0,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401282222,2021,UTSA,UNLV,2021-10-02,21.5,21.5,0.0,verified,20.0,19.0,1.0,cross_validated_vs_cfbd
+401282218,2021,Rice,Southern Miss,2021-10-02,1.25,1.5,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282647,2021,Clemson,Boston College,2021-10-02,14.5,15.0,0.5,verified,16.0,14.5,1.5,cross_validated_vs_cfbd
+401282223,2021,Michigan State,Western Kentucky,2021-10-02,10.75,10.5,0.25,verified,10.0,8.0,2.0,cross_validated_vs_cfbd
+401282215,2021,Florida Atlantic,Florida International,2021-10-02,10.5,10.5,0.0,verified,10.5,10.0,0.5,cross_validated_vs_cfbd
+401282102,2021,Tennessee,South Carolina,2021-10-09,10.75,11.0,0.25,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282101,2021,Missouri,North Texas,2021-10-09,18.75,18.5,0.25,verified,20.0,18.5,1.5,cross_validated_vs_cfbd
+401282225,2021,UAB,Florida Atlantic,2021-10-09,3.5,3.5,0.0,verified,6.0,4.0,2.0,cross_validated_vs_cfbd
+401282229,2021,Liberty,Middle Tennessee,2021-10-09,19.75,20.0,0.25,verified,19.5,17.5,2.0,cross_validated_vs_cfbd
+401282653,2021,Louisville,Virginia,2021-10-09,2.5,2.5,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401282654,2021,North Carolina,Florida State,2021-10-09,17.5,17.5,0.0,verified,16.5,17.0,0.5,cross_validated_vs_cfbd
+401282652,2021,Duke,Georgia Tech,2021-10-09,4.5,4.5,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401282228,2021,Western Kentucky,UTSA,2021-10-09,3.5,3.0,0.5,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401309563,2021,Western Michigan,Ball State,2021-10-09,12.5,13.0,0.5,verified,11.0,12.0,1.0,cross_validated_vs_cfbd
+401310717,2021,Nevada,New Mexico State,2021-10-10,28.25,28.5,0.25,verified,33.5,33.5,0.0,cross_validated_vs_cfbd
+401287919,2021,Texas Tech,TCU,2021-10-09,2.5,2.5,0.0,verified,2.0,1.5,0.5,cross_validated_vs_cfbd
+401301020,2021,Tulsa,Memphis,2021-10-10,3.0,3.0,0.0,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401282227,2021,Southern Miss,UTEP,2021-10-09,1.75,1.0,0.75,verified,1.0,,,cross_validated_vs_cfbd
+401282226,2021,Marshall,Old Dominion,2021-10-09,21.0,21.0,0.0,verified,19.5,16.5,3.0,cross_validated_vs_cfbd
+401287918,2021,Texas,Oklahoma,2021-10-09,4.0,4.0,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401301019,2021,UCF,East Carolina,2021-10-09,10.0,10.0,0.0,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282660,2021,Virginia,Duke,2021-10-16,10.5,10.5,0.0,verified,11.5,11.5,0.0,cross_validated_vs_cfbd
+401309620,2021,Louisiana,App State,2021-10-12,4.25,4.5,0.25,verified,3.5,2.5,1.0,cross_validated_vs_cfbd
+401282661,2021,Virginia Tech,Pittsburgh,2021-10-16,6.5,6.0,0.5,verified,4.5,,,cross_validated_vs_cfbd
+401282731,2021,Indiana,Michigan State,2021-10-16,3.75,3.5,0.25,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282796,2021,Minnesota,Nebraska,2021-10-16,4.5,4.5,0.0,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401282108,2021,Missouri,Texas A&M,2021-10-16,11.5,11.5,0.0,verified,9.0,10.0,1.0,cross_validated_vs_cfbd
+401309872,2021,Oregon,California,2021-10-16,13.5,13.5,0.0,verified,15.0,16.5,1.5,cross_validated_vs_cfbd
+401282233,2021,UTSA,Rice,2021-10-16,17.0,17.0,0.0,verified,18.5,18.5,0.0,cross_validated_vs_cfbd
+401282110,2021,Tennessee,Ole Miss,2021-10-16,1.0,1.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282232,2021,Old Dominion,Western Kentucky,2021-10-16,13.5,13.5,0.0,verified,13.0,12.5,0.5,cross_validated_vs_cfbd
+401287922,2021,Kansas State,Iowa State,2021-10-16,6.5,6.5,0.0,verified,4.5,4.0,0.5,cross_validated_vs_cfbd
+401282807,2021,Northwestern,Rutgers,2021-10-16,2.5,2.5,0.0,verified,0.0,,,cross_validated_vs_cfbd
+401282659,2021,North Carolina,Miami,2021-10-16,7.5,7.5,0.0,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401282231,2021,North Texas,Marshall,2021-10-15,11.0,11.0,0.0,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401282109,2021,South Carolina,Vanderbilt,2021-10-16,18.5,19.0,0.5,verified,20.0,20.0,0.0,cross_validated_vs_cfbd
+401282760,2021,Iowa,Purdue,2021-10-16,11.25,11.0,0.25,verified,12.5,13.5,1.0,cross_validated_vs_cfbd
+401282826,2021,Wisconsin,Army,2021-10-17,14.0,14.0,0.0,verified,11.5,10.5,1.0,cross_validated_vs_cfbd
+401282105,2021,Georgia,Kentucky,2021-10-16,21.5,21.5,0.0,verified,23.5,25.5,2.0,cross_validated_vs_cfbd
+401282230,2021,UTEP,Louisiana Tech,2021-10-17,6.5,6.5,0.0,verified,9.0,9.0,0.0,cross_validated_vs_cfbd
+401282104,2021,Arkansas,Auburn,2021-10-16,4.5,4.5,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401282107,2021,Mississippi State,Alabama,2021-10-16,17.5,17.0,0.5,verified,17.0,20.5,3.5,cross_validated_vs_cfbd
+401282658,2021,Boston College,NC State,2021-10-16,3.0,3.0,0.0,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401282234,2021,Southern Miss,UAB,2021-10-16,16.75,17.0,0.25,verified,16.0,16.5,0.5,cross_validated_vs_cfbd
+401282106,2021,LSU,Florida,2021-10-16,12.75,12.5,0.25,verified,10.0,5.0,5.0,cross_validated_vs_cfbd
+401310725,2021,Utah State,Colorado State,2021-10-23,3.0,3.0,0.0,verified,2.5,,,cross_validated_vs_cfbd
+401282667,2021,Virginia,Georgia Tech,2021-10-23,6.5,6.5,0.0,verified,7.0,6.0,1.0,cross_validated_vs_cfbd
+401282779,2021,Michigan,Northwestern,2021-10-23,23.5,23.5,0.0,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401309576,2021,Ohio,Kent State,2021-10-23,5.25,5.0,0.25,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401282730,2021,Indiana,Ohio State,2021-10-23,21.0,21.5,0.5,verified,19.5,17.5,2.0,cross_validated_vs_cfbd
+401309879,2021,UCLA,Oregon,2021-10-23,1.0,1.0,0.0,verified,1.5,3.0,1.5,cross_validated_vs_cfbd
+401309577,2021,Central Michigan,Northern Illinois,2021-10-23,6.0,6.0,0.0,verified,5.0,4.0,1.0,cross_validated_vs_cfbd
+401309877,2021,Arizona,Washington,2021-10-23,17.25,17.0,0.25,verified,16.0,16.5,0.5,cross_validated_vs_cfbd
+401309574,2021,Bowling Green,Eastern Michigan,2021-10-23,4.0,4.0,0.0,verified,3.5,3.0,0.5,cross_validated_vs_cfbd
+401309878,2021,California,Colorado,2021-10-23,8.25,8.5,0.25,verified,10.0,9.5,0.5,cross_validated_vs_cfbd
+401282717,2021,Penn State,Illinois,2021-10-23,24.5,24.5,0.0,verified,24.0,23.5,0.5,cross_validated_vs_cfbd
+401309575,2021,Akron,Buffalo,2021-10-23,13.0,13.5,0.5,verified,11.0,12.5,1.5,cross_validated_vs_cfbd
+401282664,2021,Louisville,Boston College,2021-10-23,4.5,4.0,0.5,verified,7.0,6.5,0.5,cross_validated_vs_cfbd
+401310729,2021,UNLV,San José State,2021-10-22,5.75,6.0,0.25,verified,4.5,3.0,1.5,cross_validated_vs_cfbd
+401310724,2021,Air Force,San Diego State,2021-10-23,2.75,3.0,0.25,verified,4.5,5.5,1.0,cross_validated_vs_cfbd
+401310726,2021,Wyoming,New Mexico,2021-10-23,20.0,19.5,0.5,verified,19.0,20.5,1.5,cross_validated_vs_cfbd
+401282240,2021,North Texas,Liberty,2021-10-23,21.0,21.5,0.5,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401310727,2021,Fresno State,Nevada,2021-10-23,3.5,3.5,0.0,verified,4.0,1.0,3.0,cross_validated_vs_cfbd
+401309625,2021,Georgia State,Texas State,2021-10-23,10.5,10.5,0.0,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401309880,2021,Oregon State,Utah,2021-10-23,3.0,3.0,0.0,verified,3.5,3.0,0.5,cross_validated_vs_cfbd
+401309626,2021,UL Monroe,South Alabama,2021-10-23,13.5,,,single_source,13.5,,,
+401282111,2021,Alabama,Tennessee,2021-10-23,25.5,25.5,0.0,verified,27.5,23.5,4.0,cross_validated_vs_cfbd
+401282115,2021,Vanderbilt,Mississippi State,2021-10-23,20.5,20.5,0.0,verified,23.0,23.0,0.0,cross_validated_vs_cfbd
+401309881,2021,Washington State,BYU,2021-10-23,3.75,3.5,0.25,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282726,2021,Maryland,Indiana,2021-10-30,3.75,4.0,0.25,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401309631,2021,Louisiana,Texas State,2021-10-30,21.0,21.0,0.0,verified,20.0,20.0,0.0,cross_validated_vs_cfbd
+401282763,2021,Wisconsin,Iowa,2021-10-30,3.0,3.0,0.0,verified,3.5,2.5,1.0,cross_validated_vs_cfbd
+401310728,2021,Hawai'i,New Mexico State,2021-10-24,19.0,19.0,0.0,verified,18.0,17.5,0.5,cross_validated_vs_cfbd
+401282244,2021,Old Dominion,Louisiana Tech,2021-10-30,4.0,4.0,0.0,verified,5.5,4.5,1.0,cross_validated_vs_cfbd
+401287930,2021,Kansas State,TCU,2021-10-30,3.5,3.5,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401301032,2021,Tulane,Cincinnati,2021-10-30,28.25,27.5,0.75,verified,25.0,25.5,0.5,cross_validated_vs_cfbd
+401282669,2021,BYU,Virginia,2021-10-31,2.5,1.5,1.0,verified,2.5,1.5,1.0,cross_validated_vs_cfbd
+401310734,2021,Nevada,UNLV,2021-10-30,19.0,18.0,1.0,verified,20.5,20.0,0.5,cross_validated_vs_cfbd
+401282671,2021,Georgia Tech,Virginia Tech,2021-10-30,3.5,3.5,0.0,verified,3.5,3.5,0.0,cross_validated_vs_cfbd
+401282241,2021,Western Kentucky,Charlotte,2021-10-30,18.5,19.5,1.0,verified,18.5,19.5,1.0,cross_validated_vs_cfbd
+401282814,2021,Ohio State,Penn State,2021-10-30,19.0,18.5,0.5,verified,17.5,12.5,5.0,cross_validated_vs_cfbd
+401309887,2021,Utah,UCLA,2021-10-31,6.5,6.5,0.0,verified,4.5,3.0,1.5,cross_validated_vs_cfbd
+401310731,2021,Utah State,Hawai'i,2021-10-30,4.75,4.0,0.75,verified,6.5,7.5,1.0,cross_validated_vs_cfbd
+401309627,2021,Coastal Carolina,Troy,2021-10-28,17.0,17.0,0.0,verified,18.5,17.5,1.0,cross_validated_vs_cfbd
+401282672,2021,NC State,Louisville,2021-10-30,6.0,6.0,0.0,verified,7.0,7.0,0.0,cross_validated_vs_cfbd
+401282117,2021,Florida,Georgia,2021-10-30,14.25,14.0,0.25,verified,14.5,13.0,1.5,cross_validated_vs_cfbd
+401287932,2021,Oklahoma State,Kansas,2021-10-30,29.0,28.5,0.5,verified,31.0,30.5,0.5,cross_validated_vs_cfbd
+401282246,2021,Rice,North Texas,2021-10-30,1.5,1.5,0.0,verified,2.0,2.5,0.5,cross_validated_vs_cfbd
+401301031,2021,Temple,UCF,2021-10-30,11.75,12.0,0.25,verified,10.5,11.5,1.0,cross_validated_vs_cfbd
+401301030,2021,Tulsa,Navy,2021-10-29,11.0,11.0,0.0,verified,10.0,9.5,0.5,cross_validated_vs_cfbd
+401282673,2021,Notre Dame,North Carolina,2021-10-30,3.5,3.5,0.0,verified,3.5,6.0,2.5,cross_validated_vs_cfbd
+401282777,2021,Michigan State,Michigan,2021-10-30,4.0,4.5,0.5,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401282245,2021,Middle Tennessee,Southern Miss,2021-10-30,12.75,13.0,0.25,verified,14.0,16.5,2.5,cross_validated_vs_cfbd
+401286297,2021,Liberty,Massachusetts,2021-10-30,35.5,35.5,0.0,verified,36.5,35.5,1.0,cross_validated_vs_cfbd
+401287931,2021,Oklahoma,Texas Tech,2021-10-30,19.0,18.5,0.5,verified,19.0,20.0,1.0,cross_validated_vs_cfbd
+401287929,2021,Baylor,Texas,2021-10-30,2.5,2.0,0.5,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401310730,2021,Colorado State,Boise State,2021-10-30,2.25,2.0,0.25,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401282118,2021,Mississippi State,Kentucky,2021-10-30,1.25,1.5,0.25,verified,1.0,1.0,0.0,cross_validated_vs_cfbd
+401282719,2021,Illinois,Rutgers,2021-10-30,1.5,1.5,0.0,verified,0.0,,,cross_validated_vs_cfbd
+401282243,2021,Florida Atlantic,UTEP,2021-10-30,10.75,11.0,0.25,verified,12.0,13.5,1.5,cross_validated_vs_cfbd
+401282674,2021,Pittsburgh,Miami,2021-10-30,9.75,,,single_source,11.5,,,
+401287933,2021,West Virginia,Iowa State,2021-10-30,7.5,8.5,1.0,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401282116,2021,Auburn,Ole Miss,2021-10-30,3.0,3.0,0.0,verified,1.0,,,cross_validated_vs_cfbd
+401282119,2021,Vanderbilt,Missouri,2021-10-30,16.25,16.0,0.25,verified,17.0,16.5,0.5,cross_validated_vs_cfbd
+401309885,2021,Arizona State,Washington State,2021-10-30,16.25,16.5,0.25,verified,15.0,14.5,0.5,cross_validated_vs_cfbd
+401282675,2021,Syracuse,Boston College,2021-10-30,6.5,6.5,0.0,verified,4.5,4.0,0.5,cross_validated_vs_cfbd
+401309884,2021,Oregon,Colorado,2021-10-30,24.5,24.5,0.0,verified,26.0,26.5,0.5,cross_validated_vs_cfbd
+401282676,2021,Wake Forest,Duke,2021-10-30,16.5,16.0,0.5,verified,16.0,15.0,1.0,cross_validated_vs_cfbd
+401282242,2021,Marshall,Florida International,2021-10-30,21.5,21.5,0.0,verified,22.0,22.5,0.5,cross_validated_vs_cfbd
+401282795,2021,Northwestern,Minnesota,2021-10-30,7.5,7.5,0.0,verified,7.5,6.5,1.0,cross_validated_vs_cfbd
+401282801,2021,Nebraska,Purdue,2021-10-30,7.5,7.5,0.0,verified,7.0,5.5,1.5,cross_validated_vs_cfbd
+401309883,2021,Stanford,Washington,2021-10-31,2.75,2.5,0.25,verified,2.5,2.0,0.5,cross_validated_vs_cfbd
+401309886,2021,USC,Arizona,2021-10-30,21.5,21.5,0.0,verified,20.5,20.5,0.0,cross_validated_vs_cfbd
+401282670,2021,Clemson,Florida State,2021-10-30,9.25,9.5,0.25,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401308839,2021,Ohio,Miami (OH),2021-11-02,7.0,7.0,0.0,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401309632,2021,Louisiana,Georgia State,2021-11-04,13.5,13.5,0.0,verified,10.5,11.5,1.0,cross_validated_vs_cfbd
+401282757,2021,Northwestern,Iowa,2021-11-06,12.0,11.5,0.5,verified,11.5,13.0,1.5,cross_validated_vs_cfbd
+401282125,2021,South Carolina,Florida,2021-11-06,20.75,20.5,0.25,verified,18.5,17.5,1.0,cross_validated_vs_cfbd
+401282247,2021,Charlotte,Rice,2021-11-06,6.5,6.5,0.0,verified,3.5,4.5,1.0,cross_validated_vs_cfbd
+401309582,2021,Kent State,Northern Illinois,2021-11-03,3.5,3.0,0.5,verified,5.5,3.5,2.0,cross_validated_vs_cfbd
+401282727,2021,Michigan,Indiana,2021-11-06,20.75,20.5,0.25,verified,19.0,19.5,0.5,cross_validated_vs_cfbd
+401309579,2021,Akron,Ball State,2021-11-02,20.0,20.0,0.0,verified,19.5,20.0,0.5,cross_validated_vs_cfbd
+401309892,2021,Arizona State,USC,2021-11-07,9.75,9.5,0.25,verified,8.0,7.5,0.5,cross_validated_vs_cfbd
+401309888,2021,Stanford,Utah,2021-11-06,10.5,10.5,0.0,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401282679,2021,Florida State,NC State,2021-11-06,3.0,3.0,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401282680,2021,Louisville,Clemson,2021-11-06,3.5,3.5,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282252,2021,Southern Miss,North Texas,2021-11-06,5.25,5.5,0.25,verified,4.5,4.0,0.5,cross_validated_vs_cfbd
+401282121,2021,Arkansas,Mississippi State,2021-11-06,4.0,4.0,0.0,verified,5.5,4.0,1.5,cross_validated_vs_cfbd
+401282787,2021,Purdue,Michigan State,2021-11-06,2.75,2.5,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401301035,2021,East Carolina,Temple,2021-11-06,15.5,15.5,0.0,verified,15.0,16.5,1.5,cross_validated_vs_cfbd
+401282710,2021,Notre Dame,Navy,2021-11-06,21.0,21.0,0.0,verified,21.0,21.5,0.5,cross_validated_vs_cfbd
+401282124,2021,Ole Miss,Liberty,2021-11-06,8.25,,,single_source,10.0,,,
+401309580,2021,Toledo,Eastern Michigan,2021-11-02,9.25,9.0,0.25,verified,9.0,8.0,1.0,cross_validated_vs_cfbd
+401309581,2021,Western Michigan,Central Michigan,2021-11-03,9.0,9.0,0.0,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401282720,2021,Minnesota,Illinois,2021-11-06,14.75,14.5,0.25,verified,14.5,14.5,0.0,cross_validated_vs_cfbd
+401282678,2021,Duke,Pittsburgh,2021-11-06,21.25,21.0,0.25,verified,20.5,21.0,0.5,cross_validated_vs_cfbd
+401282824,2021,Rutgers,Wisconsin,2021-11-06,13.25,13.0,0.25,verified,11.5,11.0,0.5,cross_validated_vs_cfbd
+401282799,2021,Nebraska,Ohio State,2021-11-06,14.25,14.0,0.25,verified,14.5,15.5,1.0,cross_validated_vs_cfbd
+401310253,2021,Air Force,Army,2021-11-06,2.5,2.5,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282120,2021,Alabama,LSU,2021-11-06,29.0,29.5,0.5,verified,28.5,24.5,4.0,cross_validated_vs_cfbd
+401282681,2021,Miami,Georgia Tech,2021-11-06,10.0,10.0,0.0,verified,9.0,9.0,0.0,cross_validated_vs_cfbd
+401282682,2021,North Carolina,Wake Forest,2021-11-06,2.5,2.5,0.0,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401282248,2021,Florida International,Old Dominion,2021-11-06,3.0,3.0,0.0,verified,1.5,3.0,1.5,cross_validated_vs_cfbd
+401282253,2021,UTEP,UTSA,2021-11-07,11.5,11.5,0.0,verified,12.5,12.0,0.5,cross_validated_vs_cfbd
+401282677,2021,Boston College,Virginia Tech,2021-11-05,1.75,1.0,0.75,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282123,2021,Kentucky,Tennessee,2021-11-06,1.0,1.0,0.0,verified,3.0,3.5,0.5,cross_validated_vs_cfbd
+401282122,2021,Georgia,Missouri,2021-11-06,40.0,40.0,0.0,verified,37.5,38.5,1.0,cross_validated_vs_cfbd
+401282126,2021,Texas A&M,Auburn,2021-11-06,4.5,4.5,0.0,verified,4.5,5.0,0.5,cross_validated_vs_cfbd
+401301043,2021,Temple,Houston,2021-11-13,25.25,25.5,0.25,verified,25.5,24.5,1.0,cross_validated_vs_cfbd
+401282780,2021,Penn State,Michigan,2021-11-13,2.5,2.5,0.0,verified,0.0,2.5,2.5,cross_validated_vs_cfbd
+401287939,2021,Kansas State,West Virginia,2021-11-13,6.0,6.0,0.0,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401309587,2021,Northern Illinois,Ball State,2021-11-11,2.75,,,single_source,2.5,,,
+401282687,2021,Louisville,Syracuse,2021-11-13,3.25,3.0,0.25,verified,3.0,1.5,1.5,cross_validated_vs_cfbd
+401282771,2021,Michigan State,Maryland,2021-11-13,11.75,11.5,0.25,verified,13.5,14.0,0.5,cross_validated_vs_cfbd
+401282762,2021,Iowa,Minnesota,2021-11-13,4.0,4.0,0.0,verified,7.0,6.5,0.5,cross_validated_vs_cfbd
+401282690,2021,Wake Forest,NC State,2021-11-14,1.25,1.0,0.25,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282684,2021,Clemson,UConn,2021-11-13,40.25,40.5,0.25,verified,39.5,40.5,1.0,cross_validated_vs_cfbd
+401282686,2021,Georgia Tech,Boston College,2021-11-13,1.25,2.0,0.75,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401287938,2021,Baylor,Oklahoma,2021-11-13,3.75,4.0,0.25,verified,6.0,6.5,0.5,cross_validated_vs_cfbd
+401309639,2021,Coastal Carolina,Georgia State,2021-11-13,12.75,12.5,0.25,verified,9.0,8.5,0.5,cross_validated_vs_cfbd
+401282689,2021,Virginia Tech,Duke,2021-11-13,12.0,13.5,1.5,verified,10.5,9.5,1.0,cross_validated_vs_cfbd
+401287940,2021,Oklahoma State,TCU,2021-11-14,11.5,11.0,0.5,verified,13.0,14.5,1.5,cross_validated_vs_cfbd
+401309638,2021,UL Monroe,Arkansas State,2021-11-13,3.0,,,single_source,3.0,,,
+401301041,2021,SMU,UCF,2021-11-13,7.0,7.0,0.0,verified,7.5,7.0,0.5,cross_validated_vs_cfbd
+401287941,2021,Texas,Kansas,2021-11-14,31.0,31.0,0.0,verified,30.0,30.5,0.5,cross_validated_vs_cfbd
+401301042,2021,Memphis,East Carolina,2021-11-13,4.0,4.0,0.0,verified,6.0,5.0,1.0,cross_validated_vs_cfbd
+401282256,2021,Old Dominion,Florida Atlantic,2021-11-13,6.5,7.0,0.5,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401282259,2021,Rice,Western Kentucky,2021-11-13,19.0,19.0,0.0,verified,19.0,20.0,1.0,cross_validated_vs_cfbd
+401309894,2021,Oregon State,Stanford,2021-11-13,12.75,12.5,0.25,verified,10.0,10.5,0.5,cross_validated_vs_cfbd
+401287942,2021,Texas Tech,Iowa State,2021-11-13,11.5,13.0,1.5,verified,10.5,11.0,0.5,cross_validated_vs_cfbd
+401282683,2021,Pittsburgh,North Carolina,2021-11-12,6.5,,,single_source,6.0,,,
+401282685,2021,Florida State,Miami,2021-11-13,2.75,2.5,0.25,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401309637,2021,App State,South Alabama,2021-11-13,21.5,21.5,0.0,verified,23.0,23.5,0.5,cross_validated_vs_cfbd
+401282812,2021,Ohio State,Purdue,2021-11-13,19.25,19.0,0.25,verified,20.5,19.5,1.0,cross_validated_vs_cfbd
+401282806,2021,Wisconsin,Northwestern,2021-11-13,25.75,25.5,0.25,verified,24.0,23.5,0.5,cross_validated_vs_cfbd
+401310745,2021,UNLV,Hawai'i,2021-11-13,3.5,3.5,0.0,verified,1.5,1.5,0.0,cross_validated_vs_cfbd
+401282257,2021,Marshall,UAB,2021-11-13,4.5,4.5,0.0,verified,6.0,5.5,0.5,cross_validated_vs_cfbd
+401310744,2021,San José State,Utah State,2021-11-14,4.5,3.5,1.0,verified,4.5,3.5,1.0,cross_validated_vs_cfbd
+401286304,2021,Massachusetts,Maine,2021-11-13,5.5,5.0,0.5,verified,4.5,1.0,3.5,cross_validated_vs_cfbd
+401309895,2021,Oregon,Washington State,2021-11-14,13.25,13.5,0.25,verified,13.5,13.5,0.0,cross_validated_vs_cfbd
+401282260,2021,UTSA,Southern Miss,2021-11-13,32.75,32.5,0.25,verified,32.5,33.0,0.5,cross_validated_vs_cfbd
+401301044,2021,Tulane,Tulsa,2021-11-13,3.0,3.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401282258,2021,North Texas,UTEP,2021-11-13,1.0,,,single_source,2.0,1.5,0.5,cross_validated_vs_cfbd
+401309640,2021,Texas State,Georgia Southern,2021-11-13,2.0,2.0,0.0,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401282688,2021,Virginia,Notre Dame,2021-11-14,8.0,8.0,0.0,verified,5.0,4.5,0.5,cross_validated_vs_cfbd
+401282143,2021,Tennessee,South Alabama,2021-11-21,28.25,28.5,0.25,verified,27.5,27.5,0.0,cross_validated_vs_cfbd
+401309902,2021,Oregon State,Arizona State,2021-11-21,3.0,3.0,0.0,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401310747,2021,Nevada,Air Force,2021-11-20,1.75,2.0,0.25,verified,1.5,1.0,0.5,cross_validated_vs_cfbd
+401282691,2021,Duke,Louisville,2021-11-19,20.25,20.0,0.25,verified,19.5,18.5,1.0,cross_validated_vs_cfbd
+401308841,2021,Miami (OH),Bowling Green,2021-11-17,17.0,17.0,0.0,verified,16.0,15.5,0.5,cross_validated_vs_cfbd
+401310750,2021,Utah State,Wyoming,2021-11-21,5.75,5.5,0.25,verified,6.5,7.0,0.5,cross_validated_vs_cfbd
+401282135,2021,Alabama,Arkansas,2021-11-20,20.75,21.0,0.25,verified,20.5,21.5,1.0,cross_validated_vs_cfbd
+401282265,2021,Middle Tennessee,Old Dominion,2021-11-20,3.0,3.0,0.0,verified,3.5,4.0,0.5,cross_validated_vs_cfbd
+401282694,2021,Miami,Virginia Tech,2021-11-21,7.0,7.0,0.0,verified,7.0,6.5,0.5,cross_validated_vs_cfbd
+401309591,2021,Ball State,Central Michigan,2021-11-18,2.5,2.5,0.0,verified,2.5,2.0,0.5,cross_validated_vs_cfbd
+401282261,2021,Charlotte,Marshall,2021-11-20,14.5,14.5,0.0,verified,14.5,14.5,0.0,cross_validated_vs_cfbd
+401309901,2021,Utah,Oregon,2021-11-21,3.0,3.0,0.0,verified,3.0,1.0,2.0,cross_validated_vs_cfbd
+401282696,2021,North Carolina,Wofford,2021-11-20,37.0,37.5,0.5,verified,37.0,40.5,3.5,cross_validated_vs_cfbd
+401309590,2021,Buffalo,Northern Illinois,2021-11-18,1.75,2.0,0.25,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401282136,2021,Georgia,Charleston Southern,2021-11-20,52.75,52.5,0.25,verified,51.0,54.5,3.5,cross_validated_vs_cfbd
+401310748,2021,Boise State,New Mexico,2021-11-21,27.25,27.0,0.25,verified,27.5,27.5,0.0,cross_validated_vs_cfbd
+401286298,2021,Liberty,Louisiana,2021-11-20,4.5,4.5,0.0,verified,4.0,3.5,0.5,cross_validated_vs_cfbd
+401309903,2021,Colorado,Washington,2021-11-20,6.5,7.0,0.5,verified,5.5,6.5,1.0,cross_validated_vs_cfbd
+401282732,2021,Indiana,Minnesota,2021-11-20,7.5,7.5,0.0,verified,6.5,7.0,0.5,cross_validated_vs_cfbd
+401310749,2021,Hawai'i,Colorado State,2021-11-21,3.0,3.0,0.0,verified,2.0,2.5,0.5,cross_validated_vs_cfbd
+401310751,2021,UNLV,San Diego State,2021-11-20,11.0,11.0,0.0,verified,12.0,11.5,0.5,cross_validated_vs_cfbd
+401282137,2021,Kentucky,New Mexico State,2021-11-20,35.75,35.5,0.25,verified,36.0,36.0,0.0,cross_validated_vs_cfbd
+401282818,2021,Penn State,Rutgers,2021-11-20,14.0,14.0,0.0,verified,17.5,16.0,1.5,cross_validated_vs_cfbd
+401309588,2021,Eastern Michigan,Western Michigan,2021-11-17,6.0,5.5,0.5,verified,5.0,6.5,1.5,cross_validated_vs_cfbd
+401309589,2021,Ohio,Toledo,2021-11-17,7.5,7.5,0.0,verified,6.0,7.0,1.0,cross_validated_vs_cfbd
+401309904,2021,USC,UCLA,2021-11-20,3.5,4.5,1.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401301045,2021,Houston,Memphis,2021-11-20,9.5,9.5,0.0,verified,9.5,10.5,1.0,cross_validated_vs_cfbd
+401282808,2021,Northwestern,Purdue,2021-11-20,11.0,11.0,0.0,verified,11.5,11.5,0.0,cross_validated_vs_cfbd
+401309899,2021,Washington State,Arizona,2021-11-20,14.75,14.5,0.25,verified,15.0,14.5,0.5,cross_validated_vs_cfbd
+401286293,2021,UCF,UConn,2021-11-20,30.25,30.0,0.25,verified,30.0,30.5,0.5,cross_validated_vs_cfbd
+401282266,2021,UTEP,Rice,2021-11-20,9.0,9.5,0.5,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401282146,2021,Auburn,Alabama,2021-11-27,20.5,21.0,0.5,verified,19.5,17.5,2.0,cross_validated_vs_cfbd
+401282711,2021,Stanford,Notre Dame,2021-11-28,20.5,21.0,0.5,verified,17.5,17.0,0.5,cross_validated_vs_cfbd
+401309594,2021,Northern Illinois,Western Michigan,2021-11-24,7.0,,,single_source,3.5,,,
+401282148,2021,Georgia Tech,Georgia,2021-11-27,35.75,35.5,0.25,verified,35.0,35.0,0.0,cross_validated_vs_cfbd
+401287949,2021,Iowa State,TCU,2021-11-26,15.25,15.5,0.25,verified,14.5,14.5,0.0,cross_validated_vs_cfbd
+401282149,2021,Louisville,Kentucky,2021-11-28,3.0,3.0,0.0,verified,2.5,1.0,1.5,cross_validated_vs_cfbd
+401309908,2021,Oregon,Oregon State,2021-11-27,7.25,8.5,1.25,verified,7.0,12.5,5.5,cross_validated_vs_cfbd
+401309650,2021,Louisiana,UL Monroe,2021-11-27,21.5,21.5,0.0,verified,21.5,21.5,0.0,cross_validated_vs_cfbd
+401309649,2021,Georgia State,Troy,2021-11-27,6.5,7.0,0.5,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401282781,2021,Michigan,Ohio State,2021-11-27,6.75,6.5,0.25,verified,7.5,6.0,1.5,cross_validated_vs_cfbd
+401282766,2021,Rutgers,Maryland,2021-11-27,1.75,2.0,0.25,verified,1.5,1.0,0.5,cross_validated_vs_cfbd
+401282273,2021,North Texas,UTSA,2021-11-27,8.5,8.5,0.0,verified,12.0,13.0,1.0,cross_validated_vs_cfbd
+401282153,2021,Tennessee,Vanderbilt,2021-11-27,31.75,33.0,1.25,verified,31.0,30.5,0.5,cross_validated_vs_cfbd
+401282702,2021,Syracuse,Pittsburgh,2021-11-28,12.5,11.5,1.0,verified,11.0,11.0,0.0,cross_validated_vs_cfbd
+401282722,2021,Illinois,Northwestern,2021-11-27,6.75,7.5,0.75,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401282700,2021,Boston College,Wake Forest,2021-11-27,6.5,5.0,1.5,verified,4.5,6.0,1.5,cross_validated_vs_cfbd
+401287951,2021,Oklahoma State,Oklahoma,2021-11-28,4.25,4.0,0.25,verified,3.5,1.0,2.5,cross_validated_vs_cfbd
+401282753,2021,Purdue,Indiana,2021-11-27,16.25,18.0,1.75,verified,15.0,15.0,0.0,cross_validated_vs_cfbd
+401282150,2021,LSU,Texas A&M,2021-11-28,6.5,6.0,0.5,verified,6.5,6.0,0.5,cross_validated_vs_cfbd
+401286306,2021,New Mexico State,Massachusetts,2021-11-27,7.0,7.0,0.0,verified,6.0,6.0,0.0,cross_validated_vs_cfbd
+401282785,2021,Michigan State,Penn State,2021-11-27,5.0,3.5,1.5,verified,0.0,1.0,1.0,cross_validated_vs_cfbd
+401309593,2021,Ball State,Buffalo,2021-11-24,6.0,6.0,0.0,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401282703,2021,Virginia,Virginia Tech,2021-11-27,7.0,7.0,0.0,verified,7.5,7.0,0.5,cross_validated_vs_cfbd
+401310757,2021,San José State,Fresno State,2021-11-25,7.0,7.5,0.5,verified,7.5,9.0,1.5,cross_validated_vs_cfbd
+401287948,2021,Baylor,Texas Tech,2021-11-27,14.0,14.0,0.0,verified,14.5,15.0,0.5,cross_validated_vs_cfbd
+401282701,2021,Duke,Miami,2021-11-27,20.75,20.5,0.25,verified,21.0,20.5,0.5,cross_validated_vs_cfbd
+401287950,2021,Kansas,West Virginia,2021-11-28,15.5,15.5,0.0,verified,15.0,16.5,1.5,cross_validated_vs_cfbd
+401282147,2021,Florida,Florida State,2021-11-27,4.0,4.5,0.5,verified,1.5,8.5,7.0,cross_validated_vs_cfbd
+401309909,2021,Arizona State,Arizona,2021-11-27,20.0,19.5,0.5,verified,20.0,20.0,0.0,cross_validated_vs_cfbd
+401282794,2021,Minnesota,Wisconsin,2021-11-27,7.0,7.0,0.0,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401282699,2021,NC State,North Carolina,2021-11-27,6.5,5.0,1.5,verified,7.0,6.0,1.0,cross_validated_vs_cfbd
+401309907,2021,UCLA,California,2021-11-28,6.5,6.0,0.5,verified,7.0,7.5,0.5,cross_validated_vs_cfbd
+401286299,2021,Liberty,Army,2021-11-27,3.25,3.5,0.25,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401331163,2021,Wake Forest,Pittsburgh,2021-12-05,3.5,2.5,1.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401282156,2021,UTSA,Western Kentucky,2021-12-04,3.5,3.5,0.0,verified,1.0,2.5,1.5,cross_validated_vs_cfbd
+401387250,2021,California,USC,2021-12-05,4.5,4.5,0.0,verified,2.5,,,cross_validated_vs_cfbd
+401331160,2021,Northern Illinois,Kent State,2021-12-04,4.0,,,single_source,2.0,,,
+401282154,2021,Alabama,Georgia,2021-12-04,6.5,6.0,0.5,verified,4.0,4.0,0.0,cross_validated_vs_cfbd
+401331161,2021,Louisiana,App State,2021-12-04,2.5,2.5,0.0,verified,2.0,2.0,0.0,cross_validated_vs_cfbd
+401287953,2021,Oklahoma State,Baylor,2021-12-04,7.0,7.0,0.0,verified,6.5,6.5,0.0,cross_validated_vs_cfbd
+401310676,2021,San Diego State,Utah State,2021-12-04,6.25,6.5,0.25,verified,4.0,3.0,1.0,cross_validated_vs_cfbd
+401331162,2021,Cincinnati,Houston,2021-12-04,10.5,10.5,0.0,verified,10.0,10.0,0.0,cross_validated_vs_cfbd
+401331159,2021,Utah,Oregon,2021-12-04,3.0,3.0,0.0,verified,3.0,3.0,0.0,cross_validated_vs_cfbd
+401331169,2021,Liberty,Eastern Michigan,2021-12-18,9.5,10.0,0.5,verified,8.0,7.0,1.0,cross_validated_vs_cfbd
+401331447,2021,Iowa,Michigan,2021-12-05,12.0,12.0,0.0,verified,10.5,10.5,0.0,cross_validated_vs_cfbd
+401331165,2021,Coastal Carolina,Northern Illinois,2021-12-17,11.5,12.5,1.0,verified,9.5,7.5,2.0,cross_validated_vs_cfbd
+401301056,2021,Army,Navy,2021-12-11,7.0,7.0,0.0,verified,8.5,9.5,1.0,cross_validated_vs_cfbd
+401331164,2021,Toledo,Middle Tennessee,2021-12-17,10.25,10.5,0.25,verified,9.5,7.0,2.5,cross_validated_vs_cfbd
+401331218,2021,Ball State,Georgia State,2021-12-25,6.0,6.5,0.5,verified,3.5,1.5,2.0,cross_validated_vs_cfbd
+401331167,2021,Fresno State,UTEP,2021-12-18,12.25,13.5,1.25,verified,13.0,17.5,4.5,cross_validated_vs_cfbd
+401331166,2021,App State,Western Kentucky,2021-12-18,2.0,1.0,1.0,verified,2.5,3.0,0.5,cross_validated_vs_cfbd
+401331171,2021,Marshall,Louisiana,2021-12-19,4.0,3.5,0.5,verified,5.0,6.0,1.0,cross_validated_vs_cfbd
+401331168,2021,BYU,UAB,2021-12-18,6.5,5.5,1.0,verified,8.0,8.5,0.5,cross_validated_vs_cfbd
+401331241,2021,Kansas State,LSU,2022-01-05,9.5,10.0,0.5,verified,2.5,2.5,0.0,cross_validated_vs_cfbd
+401331242,2021,Alabama,Georgia,2022-01-11,3.0,3.0,0.0,verified,3.0,2.5,0.5,cross_validated_vs_cfbd
+401309541,2021,Eastern Michigan,Saint Francis,2021-09-03,34.0,34.5,0.5,verified,,30.5,,sbro_heuristic_only_unvalidated
+401282077,2021,Missouri,Southeast Missouri State,2021-09-18,34.5,35.5,1.0,verified,,35.5,,sbro_heuristic_only_unvalidated
+401282178,2021,UTEP,Bethune-Cookman,2021-09-05,20.5,20.5,0.0,verified,,19.5,,sbro_heuristic_only_unvalidated

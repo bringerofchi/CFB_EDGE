@@ -1,0 +1,885 @@
+game_id,season,home_team,away_team,date,cfbd_closing_spread,sbro_closing_spread,closing_spread_difference,market_data_quality_flag,cfbd_opening_spread,sbro_opening_spread,opening_spread_difference,opening_line_confidence
+401013129,2018,Wake Forest,Notre Dame,2018-09-22,6.5,6.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012251,2018,Kentucky,Central Michigan,2018-09-01,17.5,17.0,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013448,2018,Liberty,Old Dominion,2018-09-01,5.0,5.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401014974,2018,South Alabama,Louisiana Tech,2018-09-01,10.5,11.0,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401021654,2018,Louisiana,Grambling,2018-09-01,14.0,13.5,0.5,verified,,,,
+401012259,2018,Vanderbilt,Middle Tennessee,2018-09-01,3.0,3.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401032056,2018,Eastern Michigan,Georgia Southern,2018-12-15,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401020677,2018,Kent State,Howard,2018-09-08,9.5,7.5,2.0,verified,,,,
+401020678,2018,Akron,Morgan State,2018-09-08,42.5,42.5,0.0,verified,,,,
+401012269,2018,Tennessee,East Tennessee State,2018-09-08,37.0,36.5,0.5,verified,,,,
+401012873,2018,Bowling Green,Maryland,2018-09-08,14.0,14.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401014990,2018,Coastal Carolina,UAB,2018-09-08,9.0,8.5,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401021657,2018,Texas State,Texas Southern,2018-09-08,34.0,33.5,0.5,verified,,,,
+401012254,2018,Mississippi State,Stephen F. Austin,2018-09-01,47.5,47.5,0.0,verified,,,,
+401021652,2018,Arkansas State,Southeast Missouri State,2018-09-01,32.5,32.5,0.0,verified,,,,
+401020676,2018,Toledo,VMI,2018-09-01,48.5,48.5,0.0,verified,,,,
+401012281,2018,Tennessee,UTEP,2018-09-15,33.5,33.5,0.0,verified,,30.0,,sbro_heuristic_only_unvalidated
+401020679,2018,Northern Illinois,Central Michigan,2018-09-15,13.75,,,single_source,,,,
+401020681,2018,Bowling Green,Eastern Kentucky,2018-09-15,14.0,14.0,0.0,verified,,,,
+401012278,2018,Mississippi State,Louisiana,2018-09-15,34.0,34.0,0.0,verified,,32.5,,sbro_heuristic_only_unvalidated
+401020682,2018,Buffalo,Eastern Michigan,2018-09-15,3.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020680,2018,Western Michigan,Delaware State,2018-09-15,47.0,47.0,0.0,verified,,,,
+401021660,2018,South Alabama,Texas State,2018-09-15,9.5,9.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401020686,2018,Georgia State,Western Michigan,2018-09-22,8.25,8.5,0.25,verified,,6.5,,sbro_heuristic_only_unvalidated
+401015000,2018,Ball State,Western Kentucky,2018-09-22,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020811,2018,Bowling Green,Miami (OH),2018-09-22,6.5,6.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401013360,2018,Massachusetts,Charlotte,2018-09-22,6.0,5.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401021661,2018,App State,Gardner-Webb,2018-09-22,45.0,45.0,0.0,verified,,,,
+401012291,2018,Vanderbilt,South Carolina,2018-09-22,1.5,1.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013450,2018,Liberty,North Texas,2018-09-22,11.0,10.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401021663,2018,Louisiana,Coastal Carolina,2018-09-22,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401021666,2018,Georgia Southern,Arkansas State,2018-09-29,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012279,2018,Purdue,Missouri,2018-09-15,5.5,5.0,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013063,2018,TCU,Kansas State,2018-11-03,10.0,10.0,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401013074,2018,TCU,Ohio State,2018-09-16,12.5,13.0,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401013156,2018,Pittsburgh,Duke,2018-10-27,3.0,,,single_source,,,,
+401021671,2018,Texas State,Louisiana,2018-10-06,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013441,2018,New Mexico State,Liberty,2018-10-07,3.0,3.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012762,2018,Oregon State,Washington State,2018-10-07,18.5,19.0,0.5,verified,,16.0,,sbro_heuristic_only_unvalidated
+401021673,2018,Texas State,Georgia Southern,2018-10-11,17.5,17.0,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+401020756,2018,Buffalo,Akron,2018-10-13,12.0,11.5,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401020759,2018,Eastern Michigan,Toledo,2018-10-13,2.0,2.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401020810,2018,Miami (OH),Kent State,2018-10-13,11.0,11.5,0.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+401020757,2018,Central Michigan,Ball State,2018-10-13,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401020760,2018,Bowling Green,Western Michigan,2018-10-13,14.5,15.0,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+401020758,2018,Northern Illinois,Ohio,2018-10-13,5.5,,,single_source,,,,
+401013442,2018,Louisiana,New Mexico State,2018-10-13,7.5,7.0,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+401021674,2018,Coastal Carolina,UL Monroe,2018-10-13,7.0,7.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401016408,2018,BYU,Hawai'i,2018-10-14,10.5,10.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401020763,2018,Toledo,Buffalo,2018-10-20,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020762,2018,Ohio,Bowling Green,2018-10-20,16.5,16.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401020764,2018,Ball State,Eastern Michigan,2018-10-20,3.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020765,2018,Central Michigan,Western Michigan,2018-10-20,5.0,6.5,1.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013363,2018,Massachusetts,Coastal Carolina,2018-10-20,2.5,2.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401020761,2018,Kent State,Akron,2018-10-20,4.5,4.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401021677,2018,App State,Louisiana,2018-10-20,25.5,25.0,0.5,verified,,25.0,,sbro_heuristic_only_unvalidated
+401013443,2018,New Mexico State,Georgia Southern,2018-10-20,9.5,10.0,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401020766,2018,Ohio,Ball State,2018-10-25,10.5,10.5,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401020767,2018,Western Michigan,Toledo,2018-10-25,4.5,4.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401012319,2018,Arkansas,Vanderbilt,2018-10-27,1.0,1.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401013364,2018,UConn,Massachusetts,2018-10-27,3.5,3.0,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401020768,2018,Akron,Central Michigan,2018-10-27,5.5,4.5,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401021682,2018,Georgia State,Coastal Carolina,2018-10-27,2.5,2.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013444,2018,Texas State,New Mexico State,2018-10-27,1.0,,,single_source,,2.5,,sbro_heuristic_only_unvalidated
+401021681,2018,Louisiana,Arkansas State,2018-10-27,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012323,2018,South Carolina,Tennessee,2018-10-27,10.0,10.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401020769,2018,Bowling Green,Kent State,2018-10-31,1.5,1.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401020770,2018,Buffalo,Miami (OH),2018-10-31,7.0,8.0,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401020772,2018,Akron,Northern Illinois,2018-11-01,6.0,6.0,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401020773,2018,Western Michigan,Ohio,2018-11-01,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012329,2018,Mississippi State,Louisiana Tech,2018-11-03,23.5,23.0,0.5,verified,,,,
+401020774,2018,Eastern Michigan,Central Michigan,2018-11-03,14.0,14.0,0.0,verified,,,,
+401021686,2018,Georgia State,Texas State,2018-11-03,7.0,7.0,0.0,verified,,,,
+401021685,2018,UL Monroe,Georgia Southern,2018-11-03,7.0,,,single_source,,,,
+401013365,2018,Massachusetts,Liberty,2018-11-03,1.0,1.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401012330,2018,Tennessee,Charlotte,2018-11-03,21.0,21.0,0.0,verified,,22.5,,sbro_heuristic_only_unvalidated
+401013445,2018,New Mexico State,Alcorn State,2018-11-03,13.0,13.0,0.0,verified,,,,
+401021683,2018,Coastal Carolina,App State,2018-11-03,13.5,13.5,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401020775,2018,Buffalo,Kent State,2018-11-07,17.0,17.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401020776,2018,Miami (OH),Ohio,2018-11-08,4.5,5.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020777,2018,Northern Illinois,Toledo,2018-11-08,3.5,,,single_source,,,,
+401012335,2018,Missouri,Vanderbilt,2018-11-10,14.5,14.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401020778,2018,Eastern Michigan,Akron,2018-11-10,11.5,11.5,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401020779,2018,Central Michigan,Bowling Green,2018-11-10,7.5,7.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401021702,2018,Texas State,App State,2018-11-10,19.0,20.0,1.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401021690,2018,Louisiana,Georgia State,2018-11-10,14.0,13.5,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401021691,2018,South Alabama,UL Monroe,2018-11-10,7.5,7.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401015043,2018,UAB,Southern Miss,2018-11-11,13.0,13.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401020783,2018,Kent State,Toledo,2018-11-15,11.5,11.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012342,2018,Kentucky,Middle Tennessee,2018-11-17,16.0,16.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401012344,2018,Mississippi State,Arkansas,2018-11-17,23.0,23.0,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401021692,2018,App State,Georgia State,2018-11-17,27.75,28.0,0.25,verified,,27.5,,sbro_heuristic_only_unvalidated
+401020784,2018,Akron,Bowling Green,2018-11-17,6.5,5.5,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401021694,2018,Coastal Carolina,Georgia Southern,2018-11-17,7.5,7.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401021695,2018,Louisiana,South Alabama,2018-11-17,20.0,20.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401015049,2018,Western Kentucky,UTEP,2018-11-18,6.5,6.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401020785,2018,Miami (OH),Ball State,2018-11-21,15.0,15.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401020786,2018,Western Michigan,Northern Illinois,2018-11-21,6.5,6.0,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401020787,2018,Ohio,Akron,2018-11-23,24.0,24.0,0.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+401020788,2018,Bowling Green,Buffalo,2018-11-23,15.75,15.5,0.25,verified,,13.0,,sbro_heuristic_only_unvalidated
+401020789,2018,Toledo,Central Michigan,2018-11-23,19.0,19.5,0.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+401020790,2018,Kent State,Eastern Michigan,2018-11-23,13.5,13.0,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401021699,2018,South Alabama,Coastal Carolina,2018-11-23,1.0,1.5,0.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+401021700,2018,Georgia State,Georgia Southern,2018-11-24,10.0,10.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401012357,2018,Vanderbilt,Tennessee,2018-11-24,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401081953,2018,Liberty,Norfolk State,2018-12-01,30.5,30.5,0.0,verified,,,,
+401021675,2018,South Alabama,Alabama State,2018-10-13,27.5,27.5,0.0,verified,,,,
+401012880,2018,Michigan State,Utah State,2018-08-31,23.5,23.5,0.0,verified,,25.0,,sbro_heuristic_only_unvalidated
+401022512,2018,Stanford,San Diego State,2018-09-01,14.0,14.5,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+401020673,2018,Western Michigan,Syracuse,2018-08-31,5.0,4.5,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401013089,2018,Duke,Army,2018-08-31,14.0,13.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401012680,2018,Colorado State,Colorado,2018-09-01,7.0,7.0,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401012872,2018,Maryland,Texas,2018-09-01,13.0,12.0,1.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401012260,2018,Alabama,Arkansas State,2018-09-08,37.0,37.0,0.0,verified,,36.0,,sbro_heuristic_only_unvalidated
+401012270,2018,Texas A&M,Clemson,2018-09-08,12.5,12.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401013355,2018,Wisconsin,New Mexico,2018-09-08,35.5,35.5,0.0,verified,,34.5,,sbro_heuristic_only_unvalidated
+401013140,2018,Wake Forest,Clemson,2018-10-06,20.5,20.5,0.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401013067,2018,Oklahoma,Texas,2018-10-06,7.0,7.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401012304,2018,Mississippi State,Auburn,2018-10-06,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012760,2018,UCLA,Washington,2018-10-06,21.0,21.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401013158,2018,Virginia,North Carolina,2018-10-27,8.0,8.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401012777,2018,Colorado,Oregon State,2018-10-27,23.5,25.5,2.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401019473,2018,Temple,Villanova,2018-09-01,15.0,14.5,0.5,verified,,,,
+401014980,2018,UTEP,Northern Arizona,2018-09-01,7.0,7.0,0.0,verified,,,,
+401021653,2018,Georgia Southern,South Carolina State,2018-09-01,28.0,27.5,0.5,verified,,,,
+401013167,2018,NC State,Wake Forest,2018-11-09,19.0,19.0,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401088766,2018,NC State,East Carolina,2018-12-01,25.5,25.0,0.5,verified,,25.0,,sbro_heuristic_only_unvalidated
+401100159,2018,Virginia Tech,Marshall,2018-12-01,3.5,3.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401056703,2018,Middle Tennessee,UAB,2018-12-01,1.0,1.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013376,2018,Army,Navy,2018-12-08,7.0,7.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401032055,2018,Fresno State,Arizona State,2018-12-15,6.0,6.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401032057,2018,App State,Middle Tennessee,2018-12-16,6.5,6.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401032059,2018,Ohio,San Diego State,2018-12-20,2.0,2.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401032061,2018,Toledo,Florida International,2018-12-21,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401032063,2018,Wake Forest,Memphis,2018-12-22,2.5,1.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401032064,2018,Army,Houston,2018-12-22,6.5,6.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401032065,2018,Troy,Buffalo,2018-12-23,2.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401032066,2018,Louisiana Tech,Hawai'i,2018-12-23,1.0,1.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401032068,2018,Georgia Tech,Minnesota,2018-12-26,6.0,6.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401032069,2018,TCU,California,2018-12-27,1.5,1.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401032070,2018,Duke,Temple,2018-12-27,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401032071,2018,Wisconsin,Miami,2018-12-27,2.5,3.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401032072,2018,Vanderbilt,Baylor,2018-12-28,4.0,4.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401032075,2018,Washington State,Iowa State,2018-12-29,3.0,2.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401032074,2018,Syracuse,West Virginia,2018-12-28,1.5,3.0,1.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401032073,2018,Auburn,Purdue,2018-12-28,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401032078,2018,Alabama,Oklahoma,2018-12-30,14.166666666666666,15.0,0.83,verified,,13.5,,sbro_heuristic_only_unvalidated
+401032079,2018,Clemson,Notre Dame,2018-12-29,11.0,10.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401032076,2018,Michigan,Florida,2018-12-29,6.0,4.5,1.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401032077,2018,Virginia,South Carolina,2018-12-29,5.5,3.5,2.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401035250,2018,Utah,Northwestern,2019-01-01,7.0,6.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401035251,2018,Pittsburgh,Stanford,2018-12-31,5.5,,,single_source,,,,
+401035254,2018,Oregon,Michigan State,2018-12-31,2.5,1.0,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+401013120,2018,Georgia Tech,Clemson,2018-09-22,16.5,16.5,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401013076,2018,TCU,Texas Tech,2018-10-11,7.5,7.0,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401012892,2018,Northwestern,Michigan,2018-09-29,14.5,15.5,1.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401015006,2018,East Carolina,Old Dominion,2018-09-29,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012331,2018,Alabama,Mississippi State,2018-11-10,22.5,22.5,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401012820,2018,Rutgers,Texas State,2018-09-01,16.5,16.5,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401014994,2018,Florida Atlantic,Bethune-Cookman,2018-09-15,41.0,40.5,0.5,verified,,,,
+401012772,2018,Washington,Colorado,2018-10-20,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013160,2018,Virginia,Pittsburgh,2018-11-02,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401022517,2018,Nevada,Portland State,2018-09-01,28.0,28.0,0.0,verified,,,,
+401012355,2018,Clemson,South Carolina,2018-11-25,26.0,25.5,0.5,verified,,25.0,,sbro_heuristic_only_unvalidated
+401013374,2018,Army,Lafayette,2018-11-10,46.0,47.0,1.0,verified,,,,
+401012338,2018,Alabama,The Citadel,2018-11-17,54.5,54.5,0.0,verified,,,,
+401012336,2018,Tennessee,Kentucky,2018-11-10,5.0,4.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013361,2018,Ohio,Massachusetts,2018-09-29,11.5,11.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401020687,2018,Ball State,Kent State,2018-09-29,7.5,7.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401020750,2018,Miami (OH),Western Michigan,2018-09-29,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401021665,2018,App State,South Alabama,2018-09-29,25.5,25.5,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401021667,2018,Troy,Coastal Carolina,2018-09-29,14.0,14.0,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401012299,2018,Vanderbilt,Tennessee State,2018-09-29,28.0,28.0,0.0,verified,,,,
+401013451,2018,New Mexico,Liberty,2018-09-29,7.0,7.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401020688,2018,Eastern Michigan,Northern Illinois,2018-09-29,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401015004,2018,North Texas,Louisiana Tech,2018-09-29,7.0,7.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012761,2018,Colorado,Arizona State,2018-10-06,2.5,1.5,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401020752,2018,Central Michigan,Buffalo,2018-10-06,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401020753,2018,Western Michigan,Eastern Michigan,2018-10-06,4.5,4.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401020754,2018,Ball State,Northern Illinois,2018-10-06,3.0,3.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401020751,2018,Toledo,Bowling Green,2018-10-06,22.0,22.5,0.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+401020755,2018,Kent State,Ohio,2018-10-06,12.0,12.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401020812,2018,Akron,Miami (OH),2018-10-06,5.0,4.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401021670,2018,Georgia Southern,South Alabama,2018-10-06,12.5,12.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012736,2018,Stanford,USC,2018-09-09,4.5,5.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401019483,2018,Boise State,UConn,2018-09-09,33.5,33.5,0.0,verified,,34.0,,sbro_heuristic_only_unvalidated
+401013352,2018,Purdue,Eastern Michigan,2018-09-08,15.5,16.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013367,2018,Army,Liberty,2018-09-08,7.5,7.5,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401013104,2018,NC State,Georgia State,2018-09-08,24.75,25.5,0.75,verified,,24.5,,sbro_heuristic_only_unvalidated
+401013049,2018,Central Michigan,Kansas,2018-09-08,3.0,3.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401014981,2018,Charlotte,App State,2018-09-08,15.0,15.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013027,2018,UTSA,Baylor,2018-09-08,17.0,17.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013099,2018,Florida State,Samford,2018-09-08,33.0,33.0,0.0,verified,,,,
+401012730,2018,Northern Illinois,Utah,2018-09-08,12.0,,,single_source,,,,
+401014992,2018,Western Kentucky,Maine,2018-09-08,10.0,10.0,0.0,verified,,,,
+401012732,2018,Oregon State,Southern Utah,2018-09-09,11.0,13.5,2.5,source_variance,,,,
+401013438,2018,Utah State,New Mexico State,2018-09-09,23.25,21.5,1.75,verified,,21.0,,sbro_heuristic_only_unvalidated
+401014991,2018,UNLV,UTEP,2018-09-09,23.0,23.0,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401012734,2018,Washington State,San José State,2018-09-09,32.25,30.0,2.25,source_variance,,35.0,,sbro_heuristic_only_unvalidated
+401012277,2018,Ole Miss,Alabama,2018-09-15,22.5,,,single_source,,,,
+401012275,2018,Georgia,Middle Tennessee,2018-09-15,34.0,34.0,0.0,verified,,30.5,,sbro_heuristic_only_unvalidated
+401013356,2018,Wisconsin,BYU,2018-09-15,23.5,23.5,0.0,verified,,22.0,,sbro_heuristic_only_unvalidated
+401012273,2018,Auburn,LSU,2018-09-15,10.0,10.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013491,2018,Oklahoma State,Boise State,2018-09-15,2.0,1.0,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012738,2018,San Diego State,Arizona State,2018-09-16,5.0,5.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401013111,2018,Syracuse,Florida State,2018-09-15,3.5,3.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401013368,2018,Army,Hawai'i,2018-09-15,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013112,2018,Pittsburgh,Georgia Tech,2018-09-15,3.5,,,single_source,,,,
+401012806,2018,Illinois,South Florida,2018-09-15,14.0,14.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013028,2018,Baylor,Duke,2018-09-15,2.5,2.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401012272,2018,Arkansas,North Texas,2018-09-15,5.5,5.5,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401012274,2018,Florida,Colorado State,2018-09-15,21.0,21.5,0.5,verified,,19.0,,sbro_heuristic_only_unvalidated
+401022520,2018,Wyoming,Wofford,2018-09-15,14.0,14.0,0.0,verified,,,,
+401013323,2018,Texas Tech,Houston,2018-09-15,1.0,1.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401013343,2018,Northwestern,Akron,2018-09-15,21.0,21.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401013439,2018,New Mexico State,New Mexico,2018-09-16,3.0,3.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401012737,2018,Arizona,Southern Utah,2018-09-16,26.5,26.5,0.0,verified,,,,
+401012289,2018,Missouri,Georgia,2018-09-22,15.0,15.5,0.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012287,2018,LSU,Louisiana Tech,2018-09-22,19.5,19.0,0.5,verified,,22.0,,sbro_heuristic_only_unvalidated
+401012749,2018,Oregon,Stanford,2018-09-23,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013128,2018,Old Dominion,Virginia Tech,2018-09-22,28.5,29.0,0.5,verified,,28.0,,sbro_heuristic_only_unvalidated
+401012286,2018,Kentucky,Mississippi State,2018-09-22,10.0,10.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401013324,2018,Oklahoma State,Texas Tech,2018-09-22,14.5,15.0,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401013075,2018,Texas,TCU,2018-09-22,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012865,2018,Iowa,Wisconsin,2018-09-23,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012891,2018,Michigan,Nebraska,2018-09-22,18.0,18.0,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401013119,2018,Purdue,Boston College,2018-09-22,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401016406,2018,BYU,McNeese,2018-09-22,24.5,24.0,0.5,verified,,,,
+401012875,2018,Maryland,Minnesota,2018-09-22,1.5,1.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013040,2018,Iowa State,Akron,2018-09-22,19.5,19.0,0.5,verified,,19.5,,sbro_heuristic_only_unvalidated
+401019491,2018,Cincinnati,Ohio,2018-09-22,7.0,7.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401019495,2018,SMU,Navy,2018-09-22,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013125,2018,North Carolina,Pittsburgh,2018-09-22,3.0,3.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401022523,2018,Colorado State,Illinois State,2018-09-22,4.0,4.5,0.5,verified,,,,
+401013121,2018,Duke,North Carolina Central,2018-09-22,46.0,44.0,2.0,verified,,,,
+401012290,2018,Tennessee,Florida,2018-09-22,3.5,4.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013126,2018,Marshall,NC State,2018-09-22,6.0,6.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401014999,2018,UTSA,Texas State,2018-09-22,7.0,7.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401019492,2018,South Florida,East Carolina,2018-09-23,20.0,20.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401019494,2018,Memphis,South Alabama,2018-09-23,31.5,31.5,0.0,verified,,26.0,,sbro_heuristic_only_unvalidated
+401020683,2018,San Diego State,Eastern Michigan,2018-09-23,10.5,10.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401022522,2018,Utah State,Air Force,2018-09-23,10.0,9.0,1.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401022524,2018,Hawai'i,Duquesne,2018-09-23,39.0,40.0,1.0,verified,,,,
+401012752,2018,Colorado,UCLA,2018-09-29,9.0,9.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401012292,2018,Alabama,Louisiana,2018-09-29,49.0,48.5,0.5,verified,,51.5,,sbro_heuristic_only_unvalidated
+401013131,2018,Clemson,Syracuse,2018-09-29,24.5,24.5,0.0,verified,,19.5,,sbro_heuristic_only_unvalidated
+401013347,2018,Penn State,Ohio State,2018-09-29,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401013030,2018,Oklahoma,Baylor,2018-09-29,22.5,21.5,1.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401012758,2018,Notre Dame,Stanford,2018-09-29,4.5,4.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012294,2018,Auburn,Southern Miss,2018-09-29,27.0,27.0,0.0,verified,,29.5,,sbro_heuristic_only_unvalidated
+401013325,2018,Texas Tech,West Virginia,2018-09-29,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401013136,2018,UCF,Pittsburgh,2018-09-29,13.0,13.5,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401012296,2018,Kentucky,South Carolina,2018-09-29,1.0,,,single_source,,1.0,,sbro_heuristic_only_unvalidated
+401013060,2018,Kansas State,Texas,2018-09-29,8.5,8.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012757,2018,California,Oregon,2018-09-30,1.5,2.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012881,2018,Michigan State,Central Michigan,2018-09-29,27.75,27.5,0.25,verified,,28.0,,sbro_heuristic_only_unvalidated
+401013132,2018,Duke,Virginia Tech,2018-09-29,6.5,6.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401012824,2018,Rutgers,Indiana,2018-09-29,15.0,14.5,0.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+401013050,2018,Kansas,Oklahoma State,2018-09-29,17.5,17.5,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013130,2018,Boston College,Temple,2018-09-29,13.0,13.0,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401013134,2018,Georgia Tech,Bowling Green,2018-09-29,28.0,28.0,0.0,verified,,25.5,,sbro_heuristic_only_unvalidated
+401013135,2018,NC State,Virginia,2018-09-29,6.5,6.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401019497,2018,UConn,Cincinnati,2018-09-29,16.25,17.0,0.75,verified,,17.5,,sbro_heuristic_only_unvalidated
+401022525,2018,Air Force,Nevada,2018-09-29,3.5,3.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013041,2018,TCU,Iowa State,2018-09-29,11.0,11.5,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401015007,2018,UTSA,UTEP,2018-09-29,10.0,10.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401015002,2018,Florida International,Arkansas-Pine Bluff,2018-09-29,59.0,58.0,1.0,verified,,,,
+401012754,2018,Arizona State,Oregon State,2018-09-30,21.5,22.0,0.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+401020689,2018,Fresno State,Toledo,2018-09-30,10.0,10.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401019499,2018,Houston,Tulsa,2018-10-05,18.0,17.0,1.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401013138,2018,Louisville,Georgia Tech,2018-10-05,5.5,5.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401015010,2018,Marshall,Middle Tennessee,2018-10-05,3.0,3.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401016407,2018,BYU,Utah State,2018-10-06,1.0,1.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012302,2018,Georgia,Vanderbilt,2018-10-06,26.5,25.5,1.0,verified,,26.0,,sbro_heuristic_only_unvalidated
+401012855,2018,Ohio State,Indiana,2018-10-06,27.0,27.0,0.0,verified,,25.5,,sbro_heuristic_only_unvalidated
+401019500,2018,UCF,SMU,2018-10-06,25.25,25.5,0.25,verified,,25.0,,sbro_heuristic_only_unvalidated
+401012306,2018,Texas A&M,Kentucky,2018-10-06,5.5,4.5,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012876,2018,Michigan,Maryland,2018-10-06,17.5,17.5,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401013141,2018,Miami,Florida State,2018-10-06,14.0,14.0,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401012882,2018,Michigan State,Northwestern,2018-10-06,10.5,11.0,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401013139,2018,NC State,Boston College,2018-10-06,6.5,6.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013042,2018,Oklahoma State,Iowa State,2018-10-06,10.0,10.0,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401012305,2018,South Carolina,Missouri,2018-10-06,1.0,1.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401019501,2018,Cincinnati,Tulane,2018-10-06,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401019503,2018,Temple,East Carolina,2018-10-06,10.0,10.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401013142,2018,Pittsburgh,Syracuse,2018-10-06,3.5,,,single_source,,,,
+401012866,2018,Minnesota,Iowa,2018-10-06,7.0,7.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401022528,2018,Boise State,San Diego State,2018-10-06,13.5,13.5,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401012303,2018,Ole Miss,UL Monroe,2018-10-06,23.0,,,single_source,,,,
+401022530,2018,UNLV,New Mexico,2018-10-06,8.0,8.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401015008,2018,Florida Atlantic,Old Dominion,2018-10-06,13.5,13.5,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401015012,2018,Rice,UTSA,2018-10-06,1.0,,,single_source,,1.5,,sbro_heuristic_only_unvalidated
+401015011,2018,UTEP,North Texas,2018-10-06,26.5,26.5,0.0,verified,,25.5,,sbro_heuristic_only_unvalidated
+401012759,2018,Arizona,California,2018-10-07,2.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022529,2018,San José State,Colorado State,2018-10-07,2.75,3.0,0.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+401022532,2018,Nevada,Fresno State,2018-10-07,16.0,16.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401022531,2018,Hawai'i,Wyoming,2018-10-07,3.5,2.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401019505,2018,Tulsa,South Florida,2018-10-12,9.5,8.5,1.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401022533,2018,San Diego State,Air Force,2018-10-13,11.0,11.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401012764,2018,Utah,Arizona,2018-10-13,14.0,13.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012310,2018,LSU,Georgia,2018-10-13,7.0,6.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401013148,2018,Notre Dame,Pittsburgh,2018-10-13,21.0,21.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401012766,2018,Oregon,Washington,2018-10-13,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012883,2018,Penn State,Michigan State,2018-10-13,13.5,13.5,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401013032,2018,Texas,Baylor,2018-10-13,14.0,14.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013146,2018,Virginia,Miami,2018-10-13,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012765,2018,USC,Colorado,2018-10-14,7.0,6.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012309,2018,Auburn,Tennessee,2018-10-13,15.5,15.5,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401012311,2018,South Carolina,Texas A&M,2018-10-13,2.5,2.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013061,2018,Kansas State,Oklahoma State,2018-10-13,9.0,9.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013340,2018,Northwestern,Nebraska,2018-10-13,3.5,3.5,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401013145,2018,Georgia Tech,Duke,2018-10-13,2.0,2.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013144,2018,Boston College,Louisville,2018-10-13,12.0,11.5,0.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+401015018,2018,Rice,UAB,2018-10-13,17.0,17.0,0.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401015017,2018,North Texas,Southern Miss,2018-10-13,7.0,7.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401013370,2018,San José State,Army,2018-10-13,17.5,17.5,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401015013,2018,Charlotte,Western Kentucky,2018-10-13,9.5,8.5,1.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401015016,2018,Old Dominion,Marshall,2018-10-13,3.5,3.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401019508,2018,Navy,Temple,2018-10-13,6.5,6.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401022536,2018,Utah State,UNLV,2018-10-13,27.0,27.0,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401013147,2018,North Carolina,Virginia Tech,2018-10-13,6.5,6.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401015015,2018,UTSA,Louisiana Tech,2018-10-13,12.5,12.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401022534,2018,Nevada,Boise State,2018-10-14,14.0,14.5,0.5,verified,,19.5,,sbro_heuristic_only_unvalidated
+401022537,2018,Fresno State,Wyoming,2018-10-14,18.0,18.0,0.0,verified,,19.5,,sbro_heuristic_only_unvalidated
+401021676,2018,Arkansas State,Georgia State,2018-10-18,13.0,13.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401012768,2018,Arizona State,Stanford,2018-10-19,2.0,2.5,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401022538,2018,Boise State,Colorado State,2018-10-20,23.5,23.5,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401013149,2018,Clemson,NC State,2018-10-20,18.5,18.5,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012315,2018,LSU,Mississippi State,2018-10-20,5.5,5.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012884,2018,Michigan State,Michigan,2018-10-20,7.5,7.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013068,2018,TCU,Oklahoma,2018-10-20,8.0,8.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401012773,2018,Washington State,Oregon,2018-10-20,3.0,3.5,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012314,2018,Kentucky,Vanderbilt,2018-10-20,10.5,11.0,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401019510,2018,Temple,Cincinnati,2018-10-20,2.5,2.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401019511,2018,South Florida,UConn,2018-10-20,31.5,33.0,1.5,verified,,31.0,,sbro_heuristic_only_unvalidated
+401012313,2018,Arkansas,Tulsa,2018-10-20,6.0,7.0,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012316,2018,Ole Miss,Auburn,2018-10-20,4.5,,,single_source,,,,
+401012846,2018,Rutgers,Northwestern,2018-10-20,20.5,20.5,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401013371,2018,Army,Miami (OH),2018-10-20,6.5,6.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401013152,2018,Syracuse,North Carolina,2018-10-20,10.0,9.5,0.5,verified,,12.0,,sbro_heuristic_only_unvalidated
+401013150,2018,Duke,Virginia,2018-10-20,6.5,6.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401015019,2018,Middle Tennessee,Charlotte,2018-10-20,15.5,15.0,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013052,2018,Texas Tech,Kansas,2018-10-20,17.5,18.0,0.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+401013151,2018,Florida State,Wake Forest,2018-10-20,10.5,10.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401013332,2018,Nebraska,Minnesota,2018-10-20,5.0,4.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401019512,2018,Navy,Houston,2018-10-20,11.5,11.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401019513,2018,Tulane,SMU,2018-10-20,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012317,2018,Missouri,Memphis,2018-10-20,9.5,8.0,1.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401015025,2018,Southern Miss,UTSA,2018-10-20,15.5,15.5,0.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401015023,2018,UAB,North Texas,2018-10-20,1.5,1.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401015024,2018,Western Kentucky,Old Dominion,2018-10-20,4.0,4.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012770,2018,Utah,USC,2018-10-21,6.5,7.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012769,2018,UCLA,Arizona,2018-10-21,10.0,9.5,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401022542,2018,Hawai'i,Nevada,2018-10-21,2.5,1.5,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401021679,2018,South Alabama,Troy,2018-10-24,11.0,11.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401013033,2018,West Virginia,Baylor,2018-10-25,14.5,14.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401021680,2018,Georgia Southern,App State,2018-10-25,11.0,11.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013153,2018,Virginia Tech,Georgia Tech,2018-10-25,3.0,3.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401012774,2018,UCLA,Utah,2018-10-27,10.0,11.5,1.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401012858,2018,Minnesota,Indiana,2018-10-27,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022546,2018,Colorado State,Wyoming,2018-10-27,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013189,2018,Navy,Notre Dame,2018-10-28,22.0,22.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401012320,2018,Georgia,Florida,2018-10-27,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013062,2018,Oklahoma,Kansas State,2018-10-27,24.0,24.0,0.0,verified,,22.0,,sbro_heuristic_only_unvalidated
+401012322,2018,Missouri,Kentucky,2018-10-27,7.5,7.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012779,2018,Stanford,Washington State,2018-10-27,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012321,2018,Mississippi State,Texas A&M,2018-10-27,1.0,,,single_source,,2.5,,sbro_heuristic_only_unvalidated
+401012868,2018,Penn State,Iowa,2018-10-27,4.5,4.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401012775,2018,Arizona,Oregon,2018-10-28,8.0,8.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013344,2018,Northwestern,Wisconsin,2018-10-27,4.0,4.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401019515,2018,Houston,South Florida,2018-10-27,10.0,10.0,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401013159,2018,Syracuse,NC State,2018-10-27,2.0,2.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012885,2018,Michigan State,Purdue,2018-10-27,2.5,2.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013044,2018,Iowa State,Texas Tech,2018-10-27,5.5,5.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401013157,2018,Louisville,Wake Forest,2018-10-27,2.5,3.0,0.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+401013372,2018,Eastern Michigan,Army,2018-10-27,1.5,1.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401085385,2018,Nebraska,Bethune-Cookman,2018-10-27,48.0,47.0,1.0,verified,,,,
+401013053,2018,Kansas,TCU,2018-10-27,13.5,13.0,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401012776,2018,USC,Arizona State,2018-10-27,3.0,3.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401015029,2018,Old Dominion,Middle Tennessee,2018-10-27,4.0,4.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401016409,2018,BYU,Northern Illinois,2018-10-27,6.5,6.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401019514,2018,SMU,Cincinnati,2018-10-27,9.0,8.5,0.5,verified,,8.5,,sbro_heuristic_only_unvalidated
+401015030,2018,North Texas,Rice,2018-10-27,30.0,30.0,0.0,verified,,29.0,,sbro_heuristic_only_unvalidated
+401022549,2018,San José State,UNLV,2018-10-27,2.5,2.0,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401019516,2018,Tulsa,Tulane,2018-10-27,2.5,1.5,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022544,2018,Air Force,Boise State,2018-10-27,10.0,10.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401015027,2018,Western Kentucky,Florida International,2018-10-27,3.0,3.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401015031,2018,UTEP,UAB,2018-10-27,14.5,14.5,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+401022547,2018,Fresno State,Hawai'i,2018-10-28,25.5,24.5,1.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401020771,2018,Toledo,Ball State,2018-10-31,19.5,21.0,1.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401015034,2018,Middle Tennessee,Western Kentucky,2018-11-03,13.5,12.5,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012780,2018,Arizona,Colorado,2018-11-03,3.5,3.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012327,2018,LSU,Alabama,2018-11-04,14.0,14.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013345,2018,Northwestern,Notre Dame,2018-11-03,10.0,10.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401012894,2018,Michigan,Penn State,2018-11-03,13.0,12.0,1.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401012326,2018,Kentucky,Georgia,2018-11-03,9.5,9.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401013341,2018,Ohio State,Nebraska,2018-11-03,17.5,17.5,0.0,verified,,19.0,,sbro_heuristic_only_unvalidated
+401012781,2018,Arizona State,Utah,2018-11-03,7.5,7.0,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401012869,2018,Purdue,Iowa,2018-11-03,2.0,1.0,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012324,2018,Auburn,Texas A&M,2018-11-03,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013164,2018,NC State,Florida State,2018-11-03,9.5,9.5,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401013161,2018,Virginia Tech,Boston College,2018-11-03,2.0,2.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401022553,2018,UNLV,Fresno State,2018-11-04,27.0,27.0,0.0,verified,,,,
+401013045,2018,Kansas,Iowa State,2018-11-03,18.0,18.0,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401012847,2018,Wisconsin,Rutgers,2018-11-03,29.0,29.0,0.0,verified,,30.0,,sbro_heuristic_only_unvalidated
+401012877,2018,Maryland,Michigan State,2018-11-03,3.5,3.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401013034,2018,Baylor,Oklahoma State,2018-11-03,6.0,5.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401019520,2018,East Carolina,Memphis,2018-11-03,11.0,10.5,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401022552,2018,Wyoming,San José State,2018-11-03,17.5,17.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401015033,2018,Southern Miss,Marshall,2018-11-03,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401021684,2018,Arkansas State,South Alabama,2018-11-03,14.0,14.0,0.0,verified,,,,
+401012812,2018,Illinois,Minnesota,2018-11-03,8.5,9.5,1.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401015035,2018,Rice,UTEP,2018-11-03,1.5,1.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401019518,2018,Cincinnati,Navy,2018-11-03,12.0,13.0,1.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401019521,2018,South Florida,Tulane,2018-11-03,6.0,6.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401021687,2018,Troy,Louisiana,2018-11-03,8.0,7.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401013163,2018,Miami,Duke,2018-11-03,9.5,9.5,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401019519,2018,Tulsa,UConn,2018-11-03,18.5,19.0,0.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+401019522,2018,SMU,Houston,2018-11-03,14.0,14.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012782,2018,Oregon,UCLA,2018-11-03,10.5,10.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401015032,2018,Florida International,Florida Atlantic,2018-11-03,2.0,2.0,0.0,verified,,,,
+401015036,2018,UAB,UTSA,2018-11-03,21.5,21.5,0.0,verified,,22.5,,sbro_heuristic_only_unvalidated
+401012784,2018,Washington,Stanford,2018-11-04,9.5,9.5,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401012783,2018,Oregon State,USC,2018-11-04,14.75,15.0,0.25,verified,,16.5,,sbro_heuristic_only_unvalidated
+401016410,2018,Boise State,BYU,2018-11-04,13.0,11.5,1.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401022551,2018,Hawai'i,Utah State,2018-11-04,17.5,17.5,0.0,verified,,19.0,,sbro_heuristic_only_unvalidated
+401013168,2018,Syracuse,Louisville,2018-11-10,20.5,20.5,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401022556,2018,Boise State,Fresno State,2018-11-10,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401013169,2018,Boston College,Clemson,2018-11-11,17.5,18.0,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013171,2018,Notre Dame,Florida State,2018-11-11,17.0,17.5,0.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+401012848,2018,Rutgers,Michigan,2018-11-10,37.5,37.5,0.0,verified,,37.0,,sbro_heuristic_only_unvalidated
+401013070,2018,Oklahoma,Oklahoma State,2018-11-10,22.0,21.5,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+401012332,2018,Arkansas,LSU,2018-11-11,12.5,13.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012886,2018,Michigan State,Ohio State,2018-11-10,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013321,2018,Texas Tech,Texas,2018-11-11,2.0,2.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013351,2018,Penn State,Wisconsin,2018-11-10,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012870,2018,Iowa,Northwestern,2018-11-10,11.0,11.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401013035,2018,Iowa State,Baylor,2018-11-10,17.0,17.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012337,2018,Texas A&M,Ole Miss,2018-11-10,13.0,13.5,0.5,verified,,12.0,,sbro_heuristic_only_unvalidated
+401012813,2018,Nebraska,Illinois,2018-11-10,17.5,17.5,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012859,2018,Indiana,Maryland,2018-11-10,1.0,1.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013054,2018,Kansas State,Kansas,2018-11-10,9.0,9.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401013366,2018,Massachusetts,BYU,2018-11-10,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401019525,2018,UConn,SMU,2018-11-10,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401019528,2018,Memphis,Tulsa,2018-11-10,15.5,16.5,1.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013170,2018,Duke,North Carolina,2018-11-10,7.5,7.5,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401021689,2018,Georgia Southern,Troy,2018-11-10,2.5,2.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401015037,2018,Marshall,Charlotte,2018-11-10,12.5,13.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401013174,2018,Virginia,Liberty,2018-11-10,24.0,24.0,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401015041,2018,UTEP,Middle Tennessee,2018-11-10,13.5,13.5,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401013173,2018,Pittsburgh,Virginia Tech,2018-11-10,3.5,,,single_source,,,,
+401015042,2018,Old Dominion,North Texas,2018-11-10,14.5,14.5,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401022554,2018,Air Force,New Mexico,2018-11-10,13.5,13.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401019526,2018,Tulane,East Carolina,2018-11-10,10.5,10.5,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401022557,2018,Utah State,San José State,2018-11-10,31.0,31.0,0.0,verified,,29.5,,sbro_heuristic_only_unvalidated
+401012789,2018,Utah,Oregon,2018-11-10,3.5,5.5,2.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013172,2018,Georgia Tech,Miami,2018-11-11,1.0,,,single_source,,4.5,,sbro_heuristic_only_unvalidated
+401015038,2018,UTSA,Florida International,2018-11-11,10.5,10.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401015040,2018,Louisiana Tech,Rice,2018-11-11,24.0,24.0,0.0,verified,,25.0,,sbro_heuristic_only_unvalidated
+401019524,2018,Cincinnati,South Florida,2018-11-11,14.0,16.0,2.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401019527,2018,Houston,Temple,2018-11-11,3.5,3.5,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012790,2018,Stanford,Oregon State,2018-11-11,23.75,24.0,0.25,verified,,22.5,,sbro_heuristic_only_unvalidated
+401022555,2018,Nevada,Colorado State,2018-11-11,14.0,14.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401022558,2018,San Diego State,UNLV,2018-11-11,24.0,24.0,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401020780,2018,Ball State,Western Michigan,2018-11-13,9.5,9.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401020781,2018,Ohio,Buffalo,2018-11-15,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401020782,2018,Northern Illinois,Miami (OH),2018-11-15,6.0,,,single_source,,,,
+401015045,2018,North Texas,Florida Atlantic,2018-11-16,4.0,4.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022560,2018,New Mexico,Boise State,2018-11-17,21.5,21.5,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401019530,2018,SMU,Memphis,2018-11-17,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401013176,2018,Clemson,Duke,2018-11-18,28.0,29.5,1.5,verified,,27.0,,sbro_heuristic_only_unvalidated
+401013182,2018,Notre Dame,Syracuse,2018-11-17,10.0,10.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012341,2018,Georgia,Massachusetts,2018-11-17,41.5,41.0,0.5,verified,,44.0,,sbro_heuristic_only_unvalidated
+401012795,2018,Washington State,Arizona,2018-11-18,10.5,10.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012878,2018,Maryland,Ohio State,2018-11-17,14.0,14.0,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+401019531,2018,UCF,Cincinnati,2018-11-18,7.25,7.0,0.25,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012849,2018,Rutgers,Penn State,2018-11-17,27.0,28.0,1.0,verified,,26.0,,sbro_heuristic_only_unvalidated
+401013046,2018,Texas,Iowa State,2018-11-18,2.0,1.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012794,2018,Washington,Oregon State,2018-11-17,32.5,32.5,0.0,verified,,31.0,,sbro_heuristic_only_unvalidated
+401013175,2018,Florida State,Boston College,2018-11-17,3.0,3.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013334,2018,Minnesota,Northwestern,2018-11-17,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012887,2018,Nebraska,Michigan State,2018-11-17,1.0,,,single_source,,2.0,,sbro_heuristic_only_unvalidated
+401013036,2018,Baylor,TCU,2018-11-17,,0.0,,single_source,,1.0,,sbro_heuristic_only_unvalidated
+401013181,2018,Wake Forest,Pittsburgh,2018-11-17,5.5,5.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401019533,2018,Temple,South Florida,2018-11-17,14.0,13.0,1.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013178,2018,Louisville,NC State,2018-11-17,16.0,16.5,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401015044,2018,Charlotte,Florida International,2018-11-17,4.0,3.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401015047,2018,Marshall,UTSA,2018-11-17,27.5,27.5,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401021693,2018,Arkansas State,UL Monroe,2018-11-17,8.0,7.5,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401022562,2018,San José State,Nevada,2018-11-17,14.5,15.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012346,2018,Tennessee,Missouri,2018-11-17,6.0,6.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012791,2018,UCLA,USC,2018-11-17,3.0,3.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012814,2018,Illinois,Iowa,2018-11-17,16.0,16.0,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401013064,2018,Kansas State,Texas Tech,2018-11-17,6.5,7.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401013177,2018,Georgia Tech,Virginia,2018-11-17,6.5,6.0,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401013353,2018,Purdue,Wisconsin,2018-11-17,4.0,4.0,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401015046,2018,Southern Miss,Louisiana Tech,2018-11-17,2.0,1.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401019534,2018,Navy,Tulsa,2018-11-17,6.0,4.5,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012339,2018,Auburn,Liberty,2018-11-17,29.5,29.0,0.5,verified,,28.5,,sbro_heuristic_only_unvalidated
+401022559,2018,Wyoming,Air Force,2018-11-17,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012347,2018,Texas A&M,UAB,2018-11-18,17.0,17.5,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+401019532,2018,East Carolina,UConn,2018-11-18,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012348,2018,Vanderbilt,Ole Miss,2018-11-18,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401013446,2018,BYU,New Mexico State,2018-11-18,25.5,25.5,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401012793,2018,Oregon,Arizona State,2018-11-18,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401022563,2018,Fresno State,San Diego State,2018-11-18,10.5,10.0,0.5,verified,,16.0,,sbro_heuristic_only_unvalidated
+401022564,2018,Hawai'i,UNLV,2018-11-18,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012340,2018,Florida,Idaho,2018-11-17,43.0,41.5,1.5,verified,,,,
+401012349,2018,Ole Miss,Mississippi State,2018-11-23,12.5,,,single_source,,,,
+401022565,2018,Air Force,Colorado State,2018-11-22,14.5,14.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013071,2018,West Virginia,Oklahoma,2018-11-24,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012798,2018,Washington State,Washington,2018-11-24,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401019535,2018,South Florida,UCF,2018-11-23,16.25,14.5,1.75,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012871,2018,Iowa,Nebraska,2018-11-23,8.5,8.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401019537,2018,Memphis,Houston,2018-11-23,9.5,10.0,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012354,2018,Missouri,Arkansas,2018-11-23,24.0,24.0,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401012797,2018,Oregon State,Oregon,2018-11-23,17.5,18.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401012350,2018,Alabama,Auburn,2018-11-24,26.5,26.5,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401012895,2018,Ohio State,Michigan,2018-11-24,4.5,4.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012352,2018,Georgia,Georgia Tech,2018-11-24,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012356,2018,Texas A&M,LSU,2018-11-25,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012351,2018,Florida State,Florida,2018-11-24,8.0,7.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012879,2018,Penn State,Maryland,2018-11-24,13.0,11.5,1.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012802,2018,Utah,BYU,2018-11-25,10.5,10.5,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012815,2018,Northwestern,Illinois,2018-11-24,16.0,14.5,1.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+401013184,2018,Boston College,Syracuse,2018-11-24,5.0,5.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401022566,2018,Boise State,Utah State,2018-11-25,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013186,2018,Miami,Pittsburgh,2018-11-24,6.0,5.0,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013047,2018,Iowa State,Kansas State,2018-11-25,10.5,10.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012861,2018,Indiana,Purdue,2018-11-24,3.5,3.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401015051,2018,Florida International,Marshall,2018-11-24,3.5,3.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401013187,2018,North Carolina,NC State,2018-11-24,7.0,7.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401013185,2018,Duke,Wake Forest,2018-11-24,10.0,9.5,0.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+401015055,2018,Rice,Old Dominion,2018-11-24,7.5,8.5,1.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401013447,2018,Liberty,New Mexico State,2018-11-24,7.0,6.0,1.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401021697,2018,App State,Troy,2018-11-24,11.0,11.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401022567,2018,New Mexico,Wyoming,2018-11-24,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012801,2018,UCLA,Stanford,2018-11-24,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401015053,2018,Middle Tennessee,UAB,2018-11-24,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401015056,2018,UTEP,Southern Miss,2018-11-24,13.5,14.0,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401021701,2018,UL Monroe,Louisiana,2018-11-24,1.5,,,single_source,,,,
+401013335,2018,Wisconsin,Minnesota,2018-11-24,12.5,11.0,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401019540,2018,Tulsa,SMU,2018-11-24,2.5,2.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012850,2018,Michigan State,Rutgers,2018-11-24,24.5,24.0,0.5,verified,,28.0,,sbro_heuristic_only_unvalidated
+401021698,2018,Texas State,Arkansas State,2018-11-24,13.5,14.0,0.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+401015050,2018,Florida Atlantic,Charlotte,2018-11-24,17.0,16.5,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012803,2018,California,Colorado,2018-11-25,10.5,11.5,1.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401022570,2018,Fresno State,San José State,2018-11-25,31.5,32.5,1.0,verified,,31.0,,sbro_heuristic_only_unvalidated
+401013078,2018,TCU,Oklahoma State,2018-11-25,5.5,6.0,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401022569,2018,UNLV,Nevada,2018-11-25,14.0,14.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401022568,2018,San Diego State,Hawai'i,2018-11-25,17.5,18.5,1.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401056704,2018,Washington,Utah,2018-12-01,4.5,4.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401056696,2018,Buffalo,Northern Illinois,2018-12-01,3.25,3.0,0.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401056705,2018,Georgia,Alabama,2018-12-01,12.0,11.5,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401056697,2018,Pittsburgh,Clemson,2018-12-02,28.0,,,single_source,,,,
+401056702,2018,Ohio State,Northwestern,2018-12-02,16.5,16.5,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401056699,2018,UCF,Memphis,2018-12-01,2.25,,,single_source,,4.5,,sbro_heuristic_only_unvalidated
+401056700,2018,Boise State,Fresno State,2018-12-02,1.5,1.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401056701,2018,App State,Louisiana,2018-12-01,17.0,17.0,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401032086,2018,Georgia,Texas,2019-01-02,13.0,13.5,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401032084,2018,UCF,LSU,2019-01-01,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401032083,2018,Iowa,Mississippi State,2019-01-01,7.0,7.0,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401032085,2018,Ohio State,Washington,2019-01-01,6.5,6.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401032058,2018,Northern Illinois,UAB,2018-12-19,,,,missing,,,,
+401012800,2018,USC,Notre Dame,2018-11-25,14.0,14.0,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012262,2018,Auburn,Alabama State,2018-09-08,62.0,61.5,0.5,verified,,,,
+401012264,2018,LSU,SE Louisiana,2018-09-08,42.0,42.0,0.0,verified,,,,
+401013102,2018,Miami,Savannah State,2018-09-08,62.0,60.5,1.5,verified,,,,
+401013108,2018,Wake Forest,Towson,2018-09-08,34.0,34.0,0.0,verified,,,,
+401012265,2018,Ole Miss,Southern Illinois,2018-09-08,28.0,,,single_source,,,,
+401019480,2018,Tulane,Nicholls,2018-09-09,17.0,17.0,0.0,verified,,,,
+401013058,2018,Kansas State,UTSA,2018-09-15,21.0,21.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+401013117,2018,Virginia,Ohio,2018-09-15,5.0,4.0,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012740,2018,UCLA,Fresno State,2018-09-16,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401013124,2018,Miami,Florida International,2018-09-22,26.0,26.0,0.0,verified,,26.5,,sbro_heuristic_only_unvalidated
+401021662,2018,Arkansas State,UNLV,2018-09-22,8.0,7.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401019493,2018,Houston,Texas Southern,2018-09-23,55.0,54.5,0.5,verified,,,,
+401012300,2018,Arkansas,Alabama,2018-10-06,35.0,35.0,0.0,verified,,34.0,,sbro_heuristic_only_unvalidated
+401013031,2018,Baylor,Kansas State,2018-10-06,4.0,4.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401015014,2018,Florida International,Middle Tennessee,2018-10-13,2.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012857,2018,Indiana,Penn State,2018-10-20,14.0,14.5,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401015022,2018,Louisiana Tech,UTEP,2018-10-20,22.0,21.5,0.5,verified,,26.5,,sbro_heuristic_only_unvalidated
+401022541,2018,New Mexico,Fresno State,2018-10-20,14.0,13.5,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401013320,2018,Oklahoma State,Texas,2018-10-28,2.5,1.5,1.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401022550,2018,New Mexico,San Diego State,2018-11-04,12.5,12.5,0.0,verified,,,,
+401012334,2018,Georgia,Auburn,2018-11-11,13.0,13.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401019489,2018,Temple,Tulsa,2018-09-20,6.5,6.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401022539,2018,UNLV,Air Force,2018-10-20,9.5,9.5,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401012811,2018,Maryland,Illinois,2018-10-27,16.5,16.5,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401013077,2018,West Virginia,TCU,2018-11-10,13.5,12.0,1.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401012787,2018,USC,California,2018-11-11,5.0,4.0,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013179,2018,Virginia Tech,Miami,2018-11-17,6.5,6.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012297,2018,LSU,Ole Miss,2018-09-30,11.0,11.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012301,2018,Florida,LSU,2018-10-06,1.0,1.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022540,2018,Wyoming,Utah State,2018-10-20,13.5,13.5,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401019517,2018,UCF,Temple,2018-11-01,10.5,10.0,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401019523,2018,UCF,Navy,2018-11-10,24.0,24.0,0.0,verified,,25.0,,sbro_heuristic_only_unvalidated
+401015039,2018,Florida Atlantic,Western Kentucky,2018-11-10,18.0,17.5,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401013055,2018,Oklahoma,Kansas,2018-11-18,35.0,35.0,0.0,verified,,34.5,,sbro_heuristic_only_unvalidated
+401022561,2018,Colorado State,Utah State,2018-11-17,28.5,30.0,1.5,verified,,26.0,,sbro_heuristic_only_unvalidated
+401019502,2018,Memphis,UConn,2018-10-06,36.0,36.5,0.5,verified,,31.0,,sbro_heuristic_only_unvalidated
+401013155,2018,Florida State,Clemson,2018-10-27,18.0,18.5,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+401012333,2018,Florida,South Carolina,2018-11-10,6.5,6.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401082044,2018,Iowa State,Drake,2018-12-01,41.0,41.0,0.0,verified,,,,
+401032080,2018,Virginia Tech,Cincinnati,2018-12-31,5.5,5.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401022521,2018,UNLV,Prairie View A&M,2018-09-16,32.0,32.0,0.0,verified,,,,
+401012756,2018,Washington State,Utah,2018-09-29,1.5,1.0,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401019506,2018,Memphis,UCF,2018-10-13,5.25,5.5,0.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401013333,2018,Minnesota,Purdue,2018-11-10,10.0,10.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401021688,2018,Coastal Carolina,Arkansas State,2018-11-10,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012799,2018,Arizona,Arizona State,2018-11-24,1.0,1.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401099853,2018,California,Stanford,2018-12-01,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401032088,2018,Penn State,Kentucky,2019-01-01,6.5,4.5,2.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401012748,2018,USC,Washington State,2018-09-22,4.5,5.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401022545,2018,Utah State,New Mexico,2018-10-27,20.0,19.0,1.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401012792,2018,Colorado,Utah,2018-11-17,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012312,2018,Vanderbilt,Florida,2018-10-13,9.5,9.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401019509,2018,East Carolina,UCF,2018-10-20,21.5,22.0,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401015001,2018,UAB,Charlotte,2018-09-29,15.5,15.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401012343,2018,LSU,Rice,2018-11-18,42.0,42.0,0.0,verified,,44.0,,sbro_heuristic_only_unvalidated
+401019539,2018,Tulane,Navy,2018-11-24,6.5,6.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401035253,2018,Louisiana,Tulane,2018-12-15,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401032082,2018,Texas A&M,NC State,2019-01-01,7.0,7.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401012853,2018,Indiana,Ball State,2018-09-15,15.5,16.5,1.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401012741,2018,Colorado,New Hampshire,2018-09-15,37.0,37.5,0.5,verified,,,,
+401013338,2018,Nebraska,Purdue,2018-09-29,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012808,2018,Rutgers,Illinois,2018-10-06,4.5,4.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401012771,2018,Oregon State,California,2018-10-20,6.5,9.0,2.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+401021678,2018,UL Monroe,Texas State,2018-10-20,10.5,,,single_source,,,,
+401015020,2018,Florida International,Rice,2018-10-20,23.5,24.0,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401012785,2018,Washington State,California,2018-11-04,7.5,7.5,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013329,2018,Minnesota,Fresno State,2018-09-08,1.0,,,single_source,,2.0,,sbro_heuristic_only_unvalidated
+401014987,2018,North Texas,Incarnate Word,2018-09-08,43.5,44.5,1.0,verified,,,,
+401013113,2018,Louisville,Western Kentucky,2018-09-15,23.5,23.5,0.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+401013123,2018,Virginia,Louisville,2018-09-22,5.0,5.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012809,2018,Illinois,Purdue,2018-10-13,10.5,10.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012318,2018,Tennessee,Alabama,2018-10-20,29.0,29.5,0.5,verified,,28.5,,sbro_heuristic_only_unvalidated
+401013348,2018,Purdue,Ohio State,2018-10-20,12.5,12.5,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401021669,2018,Troy,Georgia State,2018-10-04,17.0,17.0,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401012763,2018,Stanford,Utah,2018-10-07,4.0,4.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401013339,2018,Wisconsin,Nebraska,2018-10-06,18.0,18.5,0.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+401022535,2018,Colorado State,New Mexico,2018-10-13,1.0,1.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+401012810,2018,Wisconsin,Illinois,2018-10-20,24.0,24.0,0.0,verified,,25.5,,sbro_heuristic_only_unvalidated
+401098253,2018,South Carolina,Akron,2018-12-01,29.0,28.5,0.5,verified,,28.0,,sbro_heuristic_only_unvalidated
+401035252,2018,Nevada,Arkansas State,2018-12-29,1.5,1.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401012683,2018,Wyoming,Washington State,2018-09-01,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012271,2018,Vanderbilt,Nevada,2018-09-08,10.0,10.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401014988,2018,Hawai'i,Rice,2018-09-09,17.5,17.5,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401013350,2018,Penn State,Kent State,2018-09-15,35.5,35.5,0.0,verified,,37.0,,sbro_heuristic_only_unvalidated
+401014998,2018,Southern Miss,Rice,2018-09-22,13.5,13.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401021668,2018,Georgia State,UL Monroe,2018-09-29,6.0,6.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013143,2018,Virginia Tech,Notre Dame,2018-10-07,6.5,6.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401013452,2018,Liberty,Troy,2018-10-13,11.0,11.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401013162,2018,Clemson,Louisville,2018-11-03,38.5,38.5,0.0,verified,,38.5,,sbro_heuristic_only_unvalidated
+401012267,2018,Missouri,Wyoming,2018-09-08,19.5,19.5,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401021658,2018,Troy,Florida A&M,2018-09-08,34.5,34.0,0.5,verified,,,,
+401014993,2018,Charlotte,Old Dominion,2018-09-13,1.5,1.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013039,2018,Iowa State,Oklahoma,2018-09-15,18.5,18.5,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401032087,2018,Alabama,Clemson,2019-01-08,5.5,5.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401022527,2018,San José State,Hawai'i,2018-09-29,9.25,9.5,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401012888,2018,Notre Dame,Michigan,2018-09-01,3.0,3.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013059,2018,West Virginia,Kansas State,2018-09-22,16.0,15.0,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401013137,2018,Wake Forest,Rice,2018-09-29,28.0,28.0,0.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+401012788,2018,Colorado,Washington State,2018-11-10,5.5,5.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401012889,2018,Michigan,Western Michigan,2018-09-08,28.0,27.5,0.5,verified,,24.5,,sbro_heuristic_only_unvalidated
+401013326,2018,West Virginia,Youngstown State,2018-09-08,33.5,33.5,0.0,verified,,,,
+401012864,2018,Iowa,Northern Iowa,2018-09-15,21.0,21.0,0.0,verified,,,,
+401013066,2018,Oklahoma,Army,2018-09-22,29.5,29.0,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+401013122,2018,Florida State,Northern Illinois,2018-09-22,10.0,9.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401013107,2018,Virginia Tech,William & Mary,2018-09-08,42.0,42.0,0.0,verified,,,,
+401019479,2018,Navy,Memphis,2018-09-08,7.0,7.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012293,2018,Texas A&M,Arkansas,2018-09-29,20.5,20.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401012893,2018,Michigan,Wisconsin,2018-10-13,10.0,10.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012681,2018,Oregon,Bowling Green,2018-09-02,34.0,32.5,1.5,verified,,26.5,,sbro_heuristic_only_unvalidated
+401012261,2018,Colorado State,Arkansas,2018-09-08,14.0,14.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401012276,2018,Kentucky,Murray State,2018-09-15,41.0,39.0,2.0,verified,,,,
+401014996,2018,UAB,Tulane,2018-09-15,3.5,3.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012729,2018,Nebraska,Colorado,2018-09-08,3.5,3.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401014982,2018,Old Dominion,Florida International,2018-09-08,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401014984,2018,Louisiana Tech,Southern,2018-09-08,34.0,34.0,0.0,verified,,,,
+401013110,2018,Clemson,Georgia Southern,2018-09-15,32.0,32.0,0.0,verified,,34.0,,sbro_heuristic_only_unvalidated
+401019504,2018,Air Force,Navy,2018-10-06,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401014989,2018,Southern Miss,UL Monroe,2018-09-08,5.5,6.0,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401012256,2018,South Carolina,Coastal Carolina,2018-09-01,30.5,30.5,0.0,verified,,29.5,,sbro_heuristic_only_unvalidated
+401012298,2018,Mississippi State,Florida,2018-09-29,6.5,7.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012874,2018,Maryland,Temple,2018-09-15,16.0,16.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401019488,2018,Tulsa,Arkansas State,2018-09-15,1.5,1.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401012285,2018,Auburn,Arkansas,2018-09-22,30.0,29.5,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401014977,2018,Rice,Houston,2018-09-01,26.0,25.0,1.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401012821,2018,Ohio State,Rutgers,2018-09-08,35.5,35.0,0.5,verified,,34.0,,sbro_heuristic_only_unvalidated
+401013330,2018,Minnesota,Miami (OH),2018-09-15,13.5,13.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401019498,2018,SMU,Houston Christian,2018-09-29,44.5,44.5,0.0,verified,,,,
+401012753,2018,Arizona,USC,2018-09-30,3.5,3.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401012307,2018,Alabama,Missouri,2018-10-13,28.5,28.0,0.5,verified,,28.0,,sbro_heuristic_only_unvalidated
+401012325,2018,Florida,Missouri,2018-11-03,6.0,5.0,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013183,2018,Virginia Tech,Virginia,2018-11-23,5.5,5.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401012728,2018,Oklahoma,UCLA,2018-09-08,31.0,30.5,0.5,verified,,25.0,,sbro_heuristic_only_unvalidated
+401013072,2018,TCU,Southern,2018-09-01,49.0,50.0,1.0,verified,,,,
+401013358,2018,Georgia Southern,Massachusetts,2018-09-08,1.5,1.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401012852,2018,Indiana,Virginia,2018-09-08,5.0,5.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012731,2018,Oregon,Portland State,2018-09-08,49.5,50.5,1.0,verified,,,,
+401012284,2018,Alabama,Texas A&M,2018-09-22,24.5,24.5,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401013466,2018,Miami,North Carolina,2018-09-28,18.5,18.5,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401022516,2018,Fresno State,Idaho,2018-09-02,24.5,24.5,0.0,verified,,,,
+401012263,2018,Florida,Kentucky,2018-09-08,13.5,13.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013100,2018,South Florida,Georgia Tech,2018-09-08,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013327,2018,Oklahoma State,West Virginia,2018-11-17,6.0,6.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012851,2018,Florida International,Indiana,2018-09-01,13.0,13.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012863,2018,Iowa,Iowa State,2018-09-08,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401014978,2018,Southern Miss,Jackson State,2018-09-01,33.0,33.0,0.0,verified,,,,
+401022518,2018,San Diego State,Sacramento State,2018-09-09,25.5,25.5,0.0,verified,,,,
+401013346,2018,Ohio State,Tulane,2018-09-22,37.5,38.0,0.5,verified,,34.0,,sbro_heuristic_only_unvalidated
+401013127,2018,Syracuse,UConn,2018-09-22,30.0,31.0,1.0,verified,,27.5,,sbro_heuristic_only_unvalidated
+401012755,2018,Washington,BYU,2018-09-30,18.5,18.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401019507,2018,East Carolina,Houston,2018-10-13,16.0,15.5,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401012867,2018,Iowa,Maryland,2018-10-20,9.5,10.0,0.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+401013069,2018,Texas Tech,Oklahoma,2018-11-04,14.0,14.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401021696,2018,Troy,Texas State,2018-11-17,22.5,22.5,0.0,verified,,22.5,,sbro_heuristic_only_unvalidated
+401019536,2018,Cincinnati,East Carolina,2018-11-23,15.75,16.5,0.75,verified,,18.0,,sbro_heuristic_only_unvalidated
+401015054,2018,UTSA,North Texas,2018-11-25,24.5,24.0,0.5,verified,,18.5,,sbro_heuristic_only_unvalidated
+401021664,2018,UL Monroe,Troy,2018-09-22,4.5,,,single_source,,,,
+401013349,2018,Penn State,App State,2018-09-01,24.5,24.5,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401012253,2018,Texas Tech,Ole Miss,2018-09-01,1.5,2.5,1.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401013359,2018,Florida International,Massachusetts,2018-09-15,3.5,3.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401012823,2018,Rutgers,Buffalo,2018-09-22,6.0,6.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013362,2018,Massachusetts,South Florida,2018-10-06,14.0,15.5,1.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+401019478,2018,Temple,Buffalo,2018-09-08,4.0,3.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401012248,2018,Auburn,Washington,2018-09-01,1.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401032081,2018,Oklahoma State,Missouri,2018-12-31,8.5,9.0,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401012266,2018,Kansas State,Mississippi State,2018-09-08,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012726,2018,Houston,Arizona,2018-09-08,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013065,2018,Oklahoma,Florida Atlantic,2018-09-01,19.0,18.5,0.5,verified,,21.0,,sbro_heuristic_only_unvalidated
+401012268,2018,South Carolina,Georgia,2018-09-08,9.0,9.5,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401014976,2018,North Texas,SMU,2018-09-01,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401013109,2018,Wake Forest,Boston College,2018-09-13,6.0,6.5,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401012804,2018,Illinois,Kent State,2018-09-01,18.0,18.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012684,2018,California,North Carolina,2018-09-01,7.0,7.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401012739,2018,Texas,USC,2018-09-16,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013114,2018,Toledo,Miami,2018-09-15,12.0,12.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401022526,2018,Wyoming,Boise State,2018-09-29,16.0,16.5,0.5,verified,,16.0,,sbro_heuristic_only_unvalidated
+401015005,2018,Western Kentucky,Marshall,2018-09-29,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401015021,2018,Marshall,Florida Atlantic,2018-10-20,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401012682,2018,Ohio State,Oregon State,2018-09-01,40.0,39.0,1.0,verified,,37.5,,sbro_heuristic_only_unvalidated
+401012677,2018,Arizona State,UTSA,2018-09-02,17.5,18.5,1.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401012676,2018,Arizona,BYU,2018-09-02,11.0,11.5,0.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+401013103,2018,East Carolina,North Carolina,2018-09-08,16.0,16.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401012283,2018,Notre Dame,Vanderbilt,2018-09-15,14.0,14.0,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401012822,2018,Kansas,Rutgers,2018-09-15,1.0,,,single_source,,4.0,,sbro_heuristic_only_unvalidated
+401013369,2018,Buffalo,Army,2018-09-29,7.25,7.0,0.25,verified,,6.0,,sbro_heuristic_only_unvalidated
+401032062,2018,BYU,Western Michigan,2018-12-21,10.0,10.5,0.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+401012679,2018,UCLA,Cincinnati,2018-09-01,14.25,14.0,0.25,verified,,15.5,,sbro_heuristic_only_unvalidated
+401013105,2018,Pittsburgh,Penn State,2018-09-09,7.5,,,single_source,,,,
+401013154,2018,Boston College,Miami,2018-10-26,3.5,3.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401022548,2018,Nevada,San Diego State,2018-10-28,1.0,1.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401012678,2018,USC,UNLV,2018-09-01,25.0,27.0,2.0,verified,,28.0,,sbro_heuristic_only_unvalidated
+401013377,2018,Notre Dame,Ball State,2018-09-08,34.5,34.5,0.0,verified,,35.0,,sbro_heuristic_only_unvalidated
+401019490,2018,UCF,Florida Atlantic,2018-09-21,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401012288,2018,Ole Miss,Kent State,2018-09-22,28.5,,,single_source,,,,
+401013440,2018,UTEP,New Mexico State,2018-09-22,5.0,5.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401015003,2018,Middle Tennessee,Florida Atlantic,2018-09-29,2.5,3.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401021672,2018,Arkansas State,App State,2018-10-10,10.5,10.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013453,2018,Liberty,Idaho State,2018-10-20,7.5,7.0,0.5,verified,,,,
+401015028,2018,Florida Atlantic,Louisiana Tech,2018-10-26,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013037,2018,Texas Tech,Baylor,2018-11-24,6.0,6.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401012860,2018,Michigan,Indiana,2018-11-17,28.0,28.0,0.0,verified,,27.5,,sbro_heuristic_only_unvalidated
+401013056,2018,Kansas,Texas,2018-11-23,15.5,15.0,0.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+401013490,2018,Oklahoma State,South Alabama,2018-09-09,30.5,30.5,0.0,verified,,31.5,,sbro_heuristic_only_unvalidated
+401013337,2018,Nebraska,Troy,2018-09-15,10.0,10.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401019496,2018,Tulane,Memphis,2018-09-29,14.5,14.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401012295,2018,Georgia,Tennessee,2018-09-29,30.0,30.5,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+401013096,2018,Florida State,Virginia Tech,2018-09-04,7.0,7.5,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401013322,2018,Texas Tech,Lamar,2018-09-08,49.0,49.0,0.0,verified,,,,
+401013029,2018,Baylor,Kansas,2018-09-22,7.5,7.0,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401013133,2018,Louisville,Florida State,2018-09-29,5.5,5.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401012786,2018,Arizona State,UCLA,2018-11-10,12.0,12.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401015052,2018,Louisiana Tech,Western Kentucky,2018-11-24,10.5,11.0,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401019538,2018,UConn,Temple,2018-11-24,30.5,30.5,0.0,verified,,28.5,,sbro_heuristic_only_unvalidated
+401032060,2018,South Florida,Marshall,2018-12-21,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401013319,2018,Texas,Tulsa,2018-09-09,22.0,22.5,0.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+401012890,2018,Michigan,SMU,2018-09-15,37.0,37.0,0.0,verified,,34.5,,sbro_heuristic_only_unvalidated
+401012856,2018,Indiana,Iowa,2018-10-13,3.5,3.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401012767,2018,California,UCLA,2018-10-13,7.0,7.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013188,2018,Texas,West Virginia,2018-11-03,1.0,1.0,0.0,verified,,,,
+401012328,2018,Ole Miss,South Carolina,2018-11-03,2.0,,,single_source,,,,
+401019482,2018,Miami (OH),Cincinnati,2018-09-09,1.5,1.0,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+401019484,2018,Memphis,Georgia State,2018-09-14,28.75,30.0,1.25,verified,,22.5,,sbro_heuristic_only_unvalidated
+401012742,2018,Utah,Washington,2018-09-16,4.0,4.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401019487,2018,Navy,Lehigh,2018-09-15,33.0,33.0,0.0,verified,,,,
+401012744,2018,Nevada,Oregon State,2018-09-15,4.0,4.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401012854,2018,Indiana,Michigan State,2018-09-22,6.5,6.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401012747,2018,Stanford,UC Davis,2018-09-15,31.0,31.0,0.0,verified,,,,
+401012282,2018,Texas A&M,UL Monroe,2018-09-15,27.5,28.0,0.5,verified,,26.0,,sbro_heuristic_only_unvalidated
+401015009,2018,Louisiana Tech,UAB,2018-10-06,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401012257,2018,Tennessee,West Virginia,2018-09-01,10.0,10.0,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401013098,2018,Northwestern,Duke,2018-09-08,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401019529,2018,Houston,Tulane,2018-11-16,7.5,7.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401012807,2018,Illinois,Penn State,2018-09-22,26.5,27.5,1.0,verified,,26.5,,sbro_heuristic_only_unvalidated
+401012743,2018,Oregon,San José State,2018-09-15,42.75,42.5,0.25,verified,,38.0,,sbro_heuristic_only_unvalidated
+401012746,2018,California,Idaho State,2018-09-15,36.5,37.5,1.0,verified,,,,
+401014983,2018,Florida Atlantic,Air Force,2018-09-08,8.0,8.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401014986,2018,Middle Tennessee,UT Martin,2018-09-08,19.0,19.0,0.0,verified,,,,
+401013331,2018,Ohio State,Minnesota,2018-10-13,29.5,29.5,0.0,verified,,29.5,,sbro_heuristic_only_unvalidated
+401012778,2018,California,Washington,2018-10-27,12.0,12.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401013166,2018,Wake Forest,Syracuse,2018-11-03,6.5,6.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401012353,2018,Louisville,Kentucky,2018-11-25,17.0,16.0,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401012727,2018,Arizona State,Michigan State,2018-09-09,4.5,4.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401014985,2018,Marshall,Eastern Kentucky,2018-09-08,32.5,32.5,0.0,verified,,,,
+401012735,2018,BYU,California,2018-09-09,2.0,2.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401022543,2018,San Diego State,San José State,2018-10-21,25.75,25.5,0.25,verified,,27.0,,sbro_heuristic_only_unvalidated
+401012751,2018,Washington,Arizona State,2018-09-23,18.5,18.0,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+401020685,2018,Toledo,Nevada,2018-09-22,10.5,11.5,1.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012750,2018,Oregon State,Arizona,2018-09-22,5.0,4.0,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401013095,2018,LSU,Miami,2018-09-02,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401019475,2018,Hawai'i,Navy,2018-09-02,13.5,13.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401013051,2018,West Virginia,Kansas,2018-10-06,27.5,27.5,0.0,verified,,28.0,,sbro_heuristic_only_unvalidated
+401013043,2018,Iowa State,West Virginia,2018-10-13,4.5,4.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401012308,2018,Arkansas,Ole Miss,2018-10-13,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401015026,2018,Charlotte,Southern Miss,2018-10-27,6.5,6.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401056698,2018,Oklahoma,Texas,2018-12-01,9.5,9.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401013087,2018,Boston College,Massachusetts,2018-09-01,20.5,20.5,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401012745,2018,Washington State,Eastern Washington,2018-09-16,20.0,20.0,0.0,verified,,,,
+401012825,2018,Maryland,Rutgers,2018-10-13,24.0,24.0,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401013373,2018,Army,Air Force,2018-11-03,5.5,5.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401013165,2018,North Carolina,Georgia Tech,2018-11-03,4.0,4.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401013092,2018,Pittsburgh,UAlbany,2018-09-01,27.0,,,single_source,,,,
+401013090,2018,Georgia Tech,Alcorn State,2018-09-01,43.0,42.0,1.0,verified,,,,
+401032054,2018,North Texas,Utah State,2018-12-15,7.0,7.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401012862,2018,Iowa,Northern Illinois,2018-09-01,9.5,10.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401019477,2018,SMU,TCU,2018-09-08,23.5,23.5,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+401021656,2018,Troy,Boise State,2018-09-01,9.5,8.5,1.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401014975,2018,Miami (OH),Marshall,2018-09-01,1.5,1.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401012246,2018,Alabama,Louisville,2018-09-02,24.0,22.5,1.5,verified,,25.5,,sbro_heuristic_only_unvalidated
+401013086,2018,Tulane,Wake Forest,2018-08-31,7.5,7.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401013342,2018,Purdue,Northwestern,2018-08-31,1.0,1.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401013354,2018,Wisconsin,Western Kentucky,2018-09-01,36.0,35.5,0.5,verified,,32.5,,sbro_heuristic_only_unvalidated
+401020671,2018,Ball State,Central Connecticut,2018-08-30,19.5,18.5,1.0,verified,,,,
+401012675,2018,Utah,Weber State,2018-08-31,30.5,,,single_source,,,,
+401013489,2018,Oklahoma State,Missouri State,2018-08-31,46.0,46.5,0.5,verified,,,,
+401014979,2018,UAB,Savannah State,2018-08-31,39.0,39.0,0.0,verified,,,,
+401014972,2018,Rice,Prairie View A&M,2018-08-25,22.5,23.0,0.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+401022510,2018,Colorado State,Hawai'i,2018-08-25,17.0,17.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401013437,2018,New Mexico State,Wyoming,2018-08-26,5.0,6.5,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401019470,2018,UConn,UCF,2018-08-30,22.5,24.0,1.5,verified,,21.0,,sbro_heuristic_only_unvalidated
+401013328,2018,Minnesota,New Mexico State,2018-08-30,21.5,21.5,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+401014973,2018,Charlotte,Fordham,2018-09-01,16.5,16.5,0.0,verified,,,,
+401021655,2018,UL Monroe,SE Louisiana,2018-08-31,21.0,,,single_source,,,,
+401012258,2018,Texas A&M,Northwestern State,2018-08-31,47.0,48.0,1.0,verified,,,,
+401013048,2018,Kansas,Nicholls,2018-09-01,8.0,9.5,1.5,verified,,,,
+401019476,2018,Tulsa,Central Arkansas,2018-09-01,11.5,13.0,1.5,verified,,,,
+401013026,2018,Baylor,Abilene Christian,2018-09-02,41.0,41.0,0.0,verified,,,,
+401022515,2018,New Mexico,Incarnate Word,2018-09-02,36.0,35.5,0.5,verified,,,,
+401020672,2018,Eastern Michigan,Monmouth,2018-08-31,23.5,22.5,1.0,verified,,,,
+401012249,2018,Florida,Charleston Southern,2018-09-01,43.0,43.0,0.0,verified,,,,
+401012250,2018,Georgia,Austin Peay,2018-09-01,48.0,48.5,0.5,verified,,,,
+401012247,2018,Arkansas,Eastern Illinois,2018-09-01,35.0,34.5,0.5,verified,,,,
+401012255,2018,Missouri,UT Martin,2018-09-01,35.0,35.5,0.5,verified,,,,
+401013088,2018,Clemson,Furman,2018-09-01,50.5,51.0,0.5,verified,,,,
+401013091,2018,NC State,James Madison,2018-09-01,14.5,14.0,0.5,verified,,,,
+401022514,2018,Air Force,Stony Brook,2018-09-01,14.5,15.0,0.5,verified,,,,
+401013094,2018,Virginia,Richmond,2018-09-01,14.5,14.5,0.0,verified,,,,
+401019472,2018,South Florida,Elon,2018-09-01,27.0,27.5,0.5,verified,,,,
+401013357,2018,Massachusetts,Duquesne,2018-08-25,21.0,21.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401013057,2018,Kansas State,South Dakota,2018-09-01,24.0,24.0,0.0,verified,,,,
+401020675,2018,Ohio,Howard,2018-09-01,31.0,30.5,0.5,verified,,,,
+401079833,2018,East Carolina,North Carolina A&T,2018-09-02,13.0,12.5,0.5,verified,,,,
+401013375,2018,Army,Colgate,2018-11-17,10.0,11.0,1.0,verified,,,,
+401015048,2018,Old Dominion,VMI,2018-11-17,31.5,31.5,0.0,verified,,,,
+401013180,2018,North Carolina,Western Carolina,2018-11-17,31.0,31.0,0.0,verified,,,,
+401012345,2018,South Carolina,Chattanooga,2018-11-18,31.0,31.0,0.0,verified,,,,
+401019485,2018,Cincinnati,Alabama A&M,2018-09-15,,,,missing,,,,
+401021659,2018,Campbell,Coastal Carolina,2018-09-12,,,,missing,,,,
+401019486,2018,UConn,Rhode Island,2018-09-15,,,,missing,,,,
+401019481,2018,UCF,South Carolina State,2018-09-08,,,,missing,,,,
+401021651,2018,Georgia State,Kennesaw State,2018-08-30,,,,missing,,,,
+401013106,2018,Syracuse,Wagner,2018-09-08,,,,missing,,,,
+401013097,2018,Boston College,Holy Cross,2018-09-08,,,,missing,,,,
+401012733,2018,Washington,North Dakota,2018-09-08,,,,missing,,,,
+401022511,2018,San José State,UC Davis,2018-08-31,,,,missing,,,,
+401019474,2018,Memphis,Mercer,2018-09-01,,,,missing,,,,
+401020674,2018,Buffalo,Delaware State,2018-09-01,,,,missing,,,,
+401012805,2018,Illinois,Western Illinois,2018-09-08,,,,missing,,,,
+401022519,2018,Utah State,Tennessee Tech,2018-09-14,,,,missing,,,,
+401020684,2018,Central Michigan,Maine,2018-09-22,,,,missing,,,,
+401013101,2018,Louisville,Indiana State,2018-09-08,,,,missing,,,,

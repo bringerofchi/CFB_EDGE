@@ -1,0 +1,869 @@
+game_id,season,home_team,away_team,date,cfbd_closing_spread,sbro_closing_spread,closing_spread_difference,market_data_quality_flag,cfbd_opening_spread,sbro_opening_spread,opening_spread_difference,opening_line_confidence
+400548092,2014,Central Michigan,Chattanooga,2014-08-28,11.5,10.5,1.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400547839,2014,Kansas State,Stephen F. Austin,2014-08-30,43.0,41.5,1.5,verified,,,,
+400548257,2014,Oregon,South Dakota,2014-08-31,51.0,54.0,3.0,source_variance,,,,
+400548401,2014,Missouri,South Dakota State,2014-08-30,14.0,25.0,11.0,source_conflict,,,,
+400547751,2014,Duke,Elon,2014-08-30,38.0,38.0,0.0,verified,,,,
+400548090,2014,Akron,Howard,2014-08-28,21.0,25.5,4.5,source_variance,,21.5,,sbro_heuristic_only_unvalidated
+400547904,2014,Illinois,Youngstown State,2014-08-30,9.0,17.5,8.5,source_conflict,,,,
+400547916,2014,Indiana,Indiana State,2014-08-30,27.0,33.0,6.0,source_variance,,,,
+400547928,2014,Iowa,Northern Iowa,2014-08-30,19.0,17.5,1.5,verified,,,,
+400548091,2014,Northern Illinois,Presbyterian,2014-08-28,38.0,,,single_source,,,,
+400547795,2014,North Carolina,Liberty,2014-08-30,26.0,31.5,5.5,source_variance,,,,
+400548255,2014,Arizona State,Weber State,2014-08-29,45.5,46.0,0.5,verified,,46.0,,sbro_heuristic_only_unvalidated
+400548256,2014,Utah,Idaho State,2014-08-28,41.0,40.5,0.5,verified,,41.0,,sbro_heuristic_only_unvalidated
+400548404,2014,New Mexico State,Cal Poly,2014-08-29,7.0,7.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548259,2014,Stanford,UC Davis,2014-08-30,47.0,42.5,4.5,source_variance,,,,
+400548007,2014,Old Dominion,Hampton,2014-08-30,22.0,24.5,2.5,source_variance,,,,
+400547825,2014,Virginia Tech,William & Mary,2014-08-30,23.0,22.0,1.0,verified,,,,
+400547772,2014,Georgia Tech,Wofford,2014-08-30,28.0,28.0,0.0,verified,,,,
+400548400,2014,Kentucky,UT Martin,2014-08-30,20.0,21.5,1.5,verified,,,,
+400548179,2014,Wyoming,Montana,2014-08-30,3.5,6.0,2.5,source_variance,,,,
+400548258,2014,Oregon State,Portland State,2014-08-30,35.0,32.5,2.5,source_variance,,,,
+400548095,2014,Eastern Michigan,Morgan State,2014-08-30,20.0,16.5,3.5,source_variance,,,,
+400550418,2014,Georgia Southern,App State,2014-09-25,17.0,17.0,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400548036,2014,Old Dominion,Middle Tennessee,2014-09-27,1.0,1.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548200,2014,New Mexico,Fresno State,2014-09-27,3.0,6.5,3.5,source_variance,,6.0,,sbro_heuristic_only_unvalidated
+400547764,2014,NC State,Florida State,2014-09-27,23.0,16.0,7.0,source_variance,,23.0,,sbro_heuristic_only_unvalidated
+400548035,2014,Auburn,Louisiana Tech,2014-09-27,33.0,32.0,1.0,verified,,33.0,,sbro_heuristic_only_unvalidated
+400548382,2014,Texas A&M,Arkansas,2014-09-27,12.5,9.0,3.5,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400547860,2014,Iowa State,Baylor,2014-09-28,22.0,21.0,1.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+400547958,2014,Michigan State,Ohio State,2014-11-09,2.0,4.5,2.5,source_variance,,2.0,,sbro_heuristic_only_unvalidated
+400548302,2014,Arizona State,Notre Dame,2014-11-08,1.0,3.0,2.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400547888,2014,Oklahoma,Baylor,2014-11-08,3.0,5.5,2.5,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400548241,2014,Utah State,New Mexico,2014-11-15,16.0,20.0,4.0,source_variance,,16.0,,sbro_heuristic_only_unvalidated
+400548340,2014,Tennessee,Kentucky,2014-11-15,6.5,11.0,4.5,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400548240,2014,San José State,Hawai'i,2014-11-15,10.0,10.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548447,2014,Idaho,Troy,2014-11-15,3.5,5.0,1.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548242,2014,BYU,UNLV,2014-11-16,22.0,26.5,4.5,source_variance,,23.5,,sbro_heuristic_only_unvalidated
+400610210,2014,Penn State,Boston College,2014-12-27,2.5,3.0,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400610208,2014,Clemson,Oklahoma,2014-12-29,6.0,6.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400610226,2014,West Virginia,Texas A&M,2014-12-29,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400610223,2014,Texas,Arkansas,2014-12-30,5.0,7.0,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400610215,2014,Louisville,Georgia,2014-12-30,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400610214,2014,LSU,Notre Dame,2014-12-30,7.5,8.5,1.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400610206,2014,Stanford,Maryland,2014-12-31,13.0,14.0,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400610182,2014,TCU,Ole Miss,2014-12-31,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400610178,2014,Ohio State,Alabama,2015-01-02,9.0,7.5,1.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400610177,2014,Florida State,Oregon,2015-01-01,8.5,7.5,1.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400610179,2014,Baylor,Michigan State,2015-01-01,1.5,3.0,1.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+400610217,2014,Minnesota,Missouri,2015-01-01,6.5,3.5,3.0,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400610219,2014,Wisconsin,Auburn,2015-01-01,6.5,6.0,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+400610218,2014,UCLA,Kansas State,2015-01-02,2.5,1.5,1.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400610213,2014,Pittsburgh,Houston,2015-01-02,2.0,,,single_source,,,,
+400610224,2014,Tennessee,Iowa,2015-01-02,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400547787,2014,Miami,Florida A&M,2014-09-06,46.5,45.0,1.5,verified,,,,
+400548463,2014,BYU,Savannah State,2014-11-22,59.0,59.0,0.0,verified,,,,
+400547830,2014,Wake Forest,Gardner-Webb,2014-09-06,21.5,22.0,0.5,verified,,,,
+400548344,2014,Ole Miss,Presbyterian,2014-11-08,48.5,,,single_source,,,,
+400548331,2014,Georgia,Charleston Southern,2014-11-22,45.0,43.0,2.0,verified,,,,
+400548394,2014,LSU,Sam Houston,2014-09-06,33.0,31.0,2.0,verified,,,,
+400547969,2014,Nebraska,McNeese,2014-09-06,25.0,34.0,9.0,source_conflict,,,,
+400548188,2014,Utah State,Idaho State,2014-09-07,35.0,37.0,2.0,verified,,,,
+400548363,2014,South Carolina,Furman,2014-10-18,37.5,37.5,0.0,verified,,37.0,,sbro_heuristic_only_unvalidated
+400548328,2014,Alabama,Western Carolina,2014-11-22,49.0,51.5,2.5,source_variance,,,,
+400548329,2014,Auburn,Samford,2014-11-23,38.5,37.5,1.0,verified,,,,
+400547841,2014,West Virginia,Towson,2014-09-06,28.5,25.0,3.5,source_variance,,,,
+400547847,2014,Kansas,Southeast Missouri State,2014-09-06,25.0,24.0,1.0,verified,,,,
+400548345,2014,Mississippi State,UT Martin,2014-11-08,41.0,45.0,4.0,source_variance,,,,
+400548330,2014,Florida,Eastern Kentucky,2014-11-22,30.0,30.5,0.5,verified,,,,
+400548001,2014,Wisconsin,Western Illinois,2014-09-06,38.5,40.5,2.0,verified,,,,
+400548460,2014,Army,Fordham,2014-11-22,9.5,3.5,6.0,source_variance,,,,
+400548016,2014,Southern Miss,Alcorn State,2014-09-06,18.0,13.5,4.5,source_variance,,,,
+400547651,2014,Houston,Grambling,2014-09-07,47.5,49.5,2.0,verified,,,,
+400547741,2014,Clemson,South Carolina State,2014-09-06,29.5,34.0,4.5,source_variance,,,,
+400548410,2014,Georgia Southern,Savannah State,2014-09-06,42.0,40.5,1.5,verified,,,,
+400610227,2014,Oklahoma State,Washington,2015-01-03,5.0,7.0,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400610228,2014,Florida,East Carolina,2015-01-03,7.0,6.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+400610200,2014,Arkansas State,Toledo,2015-01-05,1.0,3.0,2.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400610325,2014,Ohio State,Oregon,2015-01-13,6.5,5.5,1.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+400547646,2014,South Florida,Western Carolina,2014-08-30,26.0,27.0,1.0,verified,,,,
+400548173,2014,Hawai'i,Washington,2014-08-31,17.25,18.0,0.75,verified,,19.5,,sbro_heuristic_only_unvalidated
+400548409,2014,Georgia State,New Mexico State,2014-09-06,3.0,4.0,1.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547809,2014,Florida International,Pittsburgh,2014-09-13,27.5,24.5,3.0,source_variance,,25.0,,sbro_heuristic_only_unvalidated
+400548223,2014,Hawai'i,Nevada,2014-10-26,4.0,3.0,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547905,2014,Illinois,Western Kentucky,2014-09-06,1.5,3.0,1.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400547986,2014,Penn State,Akron,2014-09-06,18.0,14.0,4.0,source_variance,,18.5,,sbro_heuristic_only_unvalidated
+400547989,2014,Purdue,Central Michigan,2014-09-06,2.5,3.0,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+400548098,2014,Army,Buffalo,2014-09-06,1.0,3.0,2.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548396,2014,Tennessee,Arkansas State,2014-09-06,14.5,16.0,1.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400547655,2014,Temple,Navy,2014-09-06,4.0,3.0,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548101,2014,Florida,Eastern Michigan,2014-09-06,38.0,41.0,3.0,source_variance,,38.0,,sbro_heuristic_only_unvalidated
+400548183,2014,Hawai'i,Oregon State,2014-09-07,11.0,9.5,1.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+400547845,2014,UTEP,Texas Tech,2014-09-07,18.0,21.0,3.0,source_variance,,19.0,,sbro_heuristic_only_unvalidated
+400547658,2014,BYU,Houston,2014-09-12,14.0,17.0,3.0,source_variance,,16.5,,sbro_heuristic_only_unvalidated
+400548021,2014,North Texas,Louisiana Tech,2014-09-12,4.0,3.0,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548106,2014,Buffalo,Baylor,2014-09-13,27.0,33.0,6.0,source_variance,,31.0,,sbro_heuristic_only_unvalidated
+400547659,2014,Cincinnati,Toledo,2014-09-12,12.0,9.0,3.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548193,2014,Oregon,Wyoming,2014-09-13,43.0,42.5,0.5,verified,,43.5,,sbro_heuristic_only_unvalidated
+400548024,2014,Alabama,Southern Miss,2014-09-13,49.0,46.0,3.0,source_variance,,47.5,,sbro_heuristic_only_unvalidated
+400547850,2014,Oklahoma,Tennessee,2014-09-14,21.0,21.0,0.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400548392,2014,South Carolina,Georgia,2014-09-13,3.0,6.0,3.0,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400548023,2014,Texas A&M,Rice,2014-09-14,30.0,31.0,1.0,verified,,31.0,,sbro_heuristic_only_unvalidated
+400547730,2014,Boston College,USC,2014-09-14,20.0,17.0,3.0,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400548389,2014,LSU,UL Monroe,2014-09-13,28.0,31.0,3.0,source_variance,,31.0,,sbro_heuristic_only_unvalidated
+400547990,2014,Notre Dame,Purdue,2014-09-13,29.5,30.0,0.5,verified,,28.5,,sbro_heuristic_only_unvalidated
+400547848,2014,Texas,UCLA,2014-09-14,6.0,8.5,2.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400548390,2014,Ole Miss,Louisiana,2014-09-13,27.0,,,single_source,,,,
+400548265,2014,Stanford,Army,2014-09-13,27.5,29.5,2.0,verified,,28.0,,sbro_heuristic_only_unvalidated
+400548263,2014,Colorado,Arizona State,2014-09-14,13.5,16.5,3.0,source_variance,,15.5,,sbro_heuristic_only_unvalidated
+400547660,2014,Missouri,UCF,2014-09-13,9.0,11.0,2.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+400547781,2014,Virginia,Louisville,2014-09-13,10.0,3.5,6.5,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400547983,2014,Ohio State,Kent State,2014-09-13,26.5,31.5,5.0,source_variance,,32.0,,sbro_heuristic_only_unvalidated
+400547661,2014,UConn,Boise State,2014-09-13,16.0,15.5,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+400547773,2014,Georgia Tech,Georgia Southern,2014-09-13,24.0,16.0,8.0,source_conflict,,22.5,,sbro_heuristic_only_unvalidated
+400547816,2014,Central Michigan,Syracuse,2014-09-13,7.5,4.5,3.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547849,2014,Maryland,West Virginia,2014-09-13,4.5,3.5,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547917,2014,Bowling Green,Indiana,2014-09-13,3.0,9.0,6.0,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400548019,2014,Marshall,Ohio,2014-09-13,19.0,20.0,1.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400548109,2014,Vanderbilt,Massachusetts,2014-09-13,17.0,16.5,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400548189,2014,Georgia State,Air Force,2014-09-13,9.5,12.5,3.0,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400547663,2014,South Florida,NC State,2014-09-13,1.5,2.5,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547753,2014,Duke,Kansas,2014-09-13,20.5,11.5,9.0,source_conflict,,17.5,,sbro_heuristic_only_unvalidated
+400547788,2014,Miami,Arkansas State,2014-09-13,17.0,14.0,3.0,source_variance,,17.5,,sbro_heuristic_only_unvalidated
+400548096,2014,Toledo,New Hampshire,2014-08-30,10.5,11.5,1.0,verified,,,,
+400548107,2014,Ball State,Indiana State,2014-09-13,20.0,18.5,1.5,verified,,,,
+400548406,2014,Louisiana,Southern,2014-08-30,38.0,38.5,0.5,verified,,,,
+400547837,2014,TCU,Samford,2014-08-30,34.5,32.5,2.0,verified,,,,
+400547763,2014,Florida State,The Citadel,2014-09-06,58.5,56.5,2.0,verified,,,,
+400548407,2014,Texas State,Arkansas-Pine Bluff,2014-08-30,28.0,31.5,3.5,source_variance,,,,
+400548004,2014,Florida International,Bethune-Cookman,2014-08-30,1.0,2.0,1.0,verified,,,,
+400548006,2014,Middle Tennessee,Savannah State,2014-08-30,41.0,41.0,0.0,verified,,,,
+400548175,2014,San Diego State,Northern Arizona,2014-08-30,17.5,16.5,1.0,verified,,,,
+400548405,2014,Arkansas State,Montana State,2014-08-30,8.5,12.5,4.0,source_variance,,,,
+400547851,2014,Texas Tech,Arkansas,2014-09-13,4.5,,,single_source,,1.0,,sbro_heuristic_only_unvalidated
+400547852,2014,Iowa,Iowa State,2014-09-13,15.5,13.0,2.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400547945,2014,Michigan,Miami (OH),2014-09-13,31.5,32.0,0.5,verified,,30.0,,sbro_heuristic_only_unvalidated
+400547855,2014,TCU,Minnesota,2014-09-13,8.5,17.5,9.0,source_conflict,,8.0,,sbro_heuristic_only_unvalidated
+400547906,2014,Washington,Illinois,2014-09-13,15.0,,,single_source,,,,
+400548391,2014,South Alabama,Mississippi State,2014-09-13,13.0,14.5,1.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+400548110,2014,Idaho,Western Michigan,2014-09-13,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548022,2014,Old Dominion,Eastern Michigan,2014-09-13,11.5,21.0,9.5,source_conflict,,14.0,,sbro_heuristic_only_unvalidated
+400547665,2014,Florida Atlantic,Tulsa,2014-09-13,1.5,1.0,0.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547831,2014,Utah State,Wake Forest,2014-09-13,14.0,16.0,2.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547853,2014,Oklahoma State,UTSA,2014-09-13,13.5,11.5,2.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548020,2014,Middle Tennessee,Western Kentucky,2014-09-13,1.0,1.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548108,2014,UNLV,Northern Illinois,2014-09-13,12.0,9.5,2.5,source_variance,,8.5,,sbro_heuristic_only_unvalidated
+400548413,2014,Troy,Abilene Christian,2014-09-13,14.0,11.5,2.5,source_variance,,,,
+400548388,2014,Florida,Kentucky,2014-09-13,17.0,18.5,1.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400547664,2014,Tulane,SE Louisiana,2014-09-14,4.5,1.0,3.5,source_variance,,,,
+400547995,2014,Rutgers,Penn State,2014-09-14,4.0,3.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548026,2014,UTEP,New Mexico State,2014-09-14,11.0,10.0,1.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400548412,2014,Texas State,Navy,2014-09-14,13.0,5.5,7.5,source_conflict,,12.5,,sbro_heuristic_only_unvalidated
+400547970,2014,Fresno State,Nebraska,2014-09-14,10.0,11.5,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+400548192,2014,Arizona,Nevada,2014-09-14,16.5,,,single_source,,,,
+400547856,2014,Kansas State,Auburn,2014-09-18,6.5,7.0,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400547666,2014,South Florida,UConn,2014-09-20,2.5,1.5,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547742,2014,Florida State,Clemson,2014-09-21,20.5,9.5,11.0,source_conflict,,19.5,,sbro_heuristic_only_unvalidated
+400548267,2014,Washington State,Oregon,2014-09-21,19.5,22.0,2.5,source_variance,,24.0,,sbro_heuristic_only_unvalidated
+400548384,2014,Alabama,Florida,2014-09-20,16.0,14.0,2.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+400547858,2014,West Virginia,Oklahoma,2014-09-20,11.0,7.5,3.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400547671,2014,SMU,Texas A&M,2014-09-20,28.0,34.0,6.0,source_variance,,29.0,,sbro_heuristic_only_unvalidated
+400548386,2014,LSU,Mississippi State,2014-09-20,7.0,7.0,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400547954,2014,Michigan State,Eastern Michigan,2014-09-20,45.0,43.5,1.5,verified,,44.0,,sbro_heuristic_only_unvalidated
+400548387,2014,Vanderbilt,South Carolina,2014-09-20,20.5,21.5,1.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400547918,2014,Missouri,Indiana,2014-09-20,16.0,14.0,2.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400547822,2014,BYU,Virginia,2014-09-20,13.5,16.5,3.0,source_variance,,15.5,,sbro_heuristic_only_unvalidated
+400547789,2014,Nebraska,Miami,2014-09-21,8.0,8.0,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400547774,2014,Virginia Tech,Georgia Tech,2014-09-20,6.0,7.5,1.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400547810,2014,Pittsburgh,Iowa,2014-09-20,4.0,,,single_source,,,,
+400548031,2014,Rice,Old Dominion,2014-09-20,10.0,7.0,3.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400547673,2014,Duke,Tulane,2014-09-20,17.5,16.5,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400547817,2014,Syracuse,Maryland,2014-09-20,1.5,1.0,0.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548196,2014,Colorado,Hawai'i,2014-09-20,7.0,9.0,2.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+400547669,2014,East Carolina,North Carolina,2014-09-20,2.0,1.0,1.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547782,2014,Florida International,Louisville,2014-09-20,27.0,26.5,0.5,verified,,25.5,,sbro_heuristic_only_unvalidated
+400547832,2014,Wake Forest,Army,2014-09-20,3.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548191,2014,Hawai'i,Northern Iowa,2014-09-14,1.0,4.5,3.5,source_variance,,,,
+400548025,2014,UAB,Alabama A&M,2014-09-13,39.5,35.5,4.0,source_variance,,,,
+400547672,2014,Temple,Delaware State,2014-09-20,39.5,39.0,0.5,verified,,,,
+400548264,2014,Washington State,Portland State,2014-09-14,23.5,23.5,0.0,verified,,,,
+400547857,2014,Kansas,Central Michigan,2014-09-20,2.5,6.0,3.5,source_variance,,2.5,,sbro_heuristic_only_unvalidated
+400547946,2014,Michigan,Utah,2014-09-20,6.5,3.0,3.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547996,2014,Navy,Rutgers,2014-09-20,5.5,5.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548030,2014,North Texas,Nicholls,2014-09-20,38.5,36.5,2.0,verified,,,,
+400547907,2014,Illinois,Texas State,2014-09-20,14.0,10.5,3.5,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400547962,2014,Minnesota,San José State,2014-09-20,6.5,7.0,0.5,verified,,8.5,,sbro_heuristic_only_unvalidated
+400547987,2014,Penn State,Massachusetts,2014-09-20,30.0,26.5,3.5,source_variance,,28.5,,sbro_heuristic_only_unvalidated
+400548027,2014,Wyoming,Florida Atlantic,2014-09-20,3.5,2.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548268,2014,Washington,Georgia State,2014-09-20,36.5,,,single_source,,,,
+400547668,2014,Cincinnati,Miami (OH),2014-09-20,32.0,30.0,2.0,verified,,28.5,,sbro_heuristic_only_unvalidated
+400547670,2014,Memphis,Middle Tennessee,2014-09-20,7.5,12.0,4.5,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400548028,2014,Louisiana Tech,Northwestern State,2014-09-20,24.0,23.0,1.0,verified,,,,
+400548032,2014,Southern Miss,App State,2014-09-20,4.0,3.0,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548111,2014,Toledo,Ball State,2014-09-20,9.0,14.0,5.0,source_variance,,8.0,,sbro_heuristic_only_unvalidated
+400548112,2014,Ohio,Idaho,2014-09-20,13.0,10.5,2.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548115,2014,Arkansas,Northern Illinois,2014-09-20,8.0,13.5,5.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548203,2014,Arkansas State,Utah State,2014-09-20,1.5,2.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548414,2014,South Alabama,Georgia Southern,2014-09-20,2.5,1.0,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548197,2014,New Mexico State,New Mexico,2014-09-21,3.0,5.5,2.5,source_variance,,2.0,,sbro_heuristic_only_unvalidated
+400560174,2014,Houston,UNLV,2014-09-21,19.5,20.0,0.5,verified,,19.5,,sbro_heuristic_only_unvalidated
+400548266,2014,Arizona,California,2014-09-21,16.0,,,single_source,,,,
+400548194,2014,Boise State,Louisiana,2014-09-21,18.0,17.5,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+400548198,2014,Oregon State,San Diego State,2014-09-21,8.5,10.5,2.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+400548269,2014,Arizona State,UCLA,2014-09-26,3.0,3.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547859,2014,Oklahoma State,Texas Tech,2014-09-25,14.0,14.0,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400547818,2014,Syracuse,Notre Dame,2014-09-28,13.0,9.0,4.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400547955,2014,Michigan State,Wyoming,2014-09-27,32.0,27.5,4.5,source_variance,,31.5,,sbro_heuristic_only_unvalidated
+400547676,2014,Ole Miss,Memphis,2014-09-27,21.0,,,single_source,,,,
+400548381,2014,Georgia,Tennessee,2014-09-27,18.0,18.5,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400548380,2014,South Carolina,Missouri,2014-09-27,5.5,6.5,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548273,2014,Washington,Stanford,2014-09-27,5.5,,,single_source,,,,
+400548379,2014,LSU,New Mexico State,2014-09-27,43.0,44.0,1.0,verified,,42.5,,sbro_heuristic_only_unvalidated
+400548114,2014,Buffalo,Norfolk State,2014-09-20,26.0,23.0,3.0,source_variance,,,,
+400548113,2014,Western Michigan,Murray State,2014-09-20,15.0,12.5,2.5,source_variance,,,,
+400548195,2014,Fresno State,Southern Utah,2014-09-21,16.5,17.5,1.0,verified,,,,
+400548270,2014,USC,Oregon State,2014-09-28,13.0,7.0,6.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400547678,2014,Wisconsin,South Florida,2014-09-27,32.0,32.5,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+400547908,2014,Nebraska,Illinois,2014-09-28,19.0,21.5,2.5,source_variance,,18.0,,sbro_heuristic_only_unvalidated
+400547674,2014,Ohio State,Cincinnati,2014-09-27,12.5,17.0,4.5,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400547861,2014,Kansas State,UTEP,2014-09-27,30.0,27.5,2.5,source_variance,,30.0,,sbro_heuristic_only_unvalidated
+400547677,2014,SMU,TCU,2014-09-27,31.0,31.5,0.5,verified,,29.0,,sbro_heuristic_only_unvalidated
+400547679,2014,Rutgers,Tulane,2014-09-27,11.5,13.5,2.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400547930,2014,Purdue,Iowa,2014-09-27,13.5,8.0,5.5,source_variance,,12.0,,sbro_heuristic_only_unvalidated
+400547978,2014,Penn State,Northwestern,2014-09-27,9.0,10.5,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+400548383,2014,Kentucky,Vanderbilt,2014-09-27,14.0,17.0,3.0,source_variance,,15.0,,sbro_heuristic_only_unvalidated
+400547732,2014,Boston College,Colorado State,2014-09-27,3.0,6.5,3.5,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400547827,2014,Virginia Tech,Western Michigan,2014-09-27,28.0,20.5,7.5,source_conflict,,25.0,,sbro_heuristic_only_unvalidated
+400547811,2014,Pittsburgh,Akron,2014-09-27,17.5,,,single_source,,,,
+400547919,2014,Indiana,Maryland,2014-09-27,3.0,2.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548116,2014,Massachusetts,Bowling Green,2014-09-27,12.0,6.0,6.0,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400547823,2014,Virginia,Kent State,2014-09-27,21.0,25.5,4.5,source_variance,,22.5,,sbro_heuristic_only_unvalidated
+400547833,2014,Louisville,Wake Forest,2014-09-27,21.0,21.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+400547947,2014,Michigan,Minnesota,2014-09-27,9.5,10.0,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548033,2014,UAB,Florida International,2014-09-27,14.0,14.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+400548038,2014,Navy,Western Kentucky,2014-09-27,7.0,8.0,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548119,2014,Buffalo,Miami (OH),2014-09-27,6.5,7.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547675,2014,UConn,Temple,2014-09-27,3.5,6.5,3.0,source_variance,,3.0,,sbro_heuristic_only_unvalidated
+400548271,2014,California,Colorado,2014-09-27,12.5,14.0,1.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547862,2014,Kansas,Texas,2014-09-27,14.0,9.5,4.5,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400548034,2014,Florida Atlantic,UTSA,2014-09-27,4.0,4.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548416,2014,Idaho,South Alabama,2014-09-27,7.0,3.0,4.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547743,2014,Clemson,North Carolina,2014-09-27,10.0,14.0,4.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548037,2014,Southern Miss,Rice,2014-09-27,10.5,9.0,1.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548117,2014,Toledo,Central Michigan,2014-09-27,15.0,10.5,4.5,source_variance,,13.5,,sbro_heuristic_only_unvalidated
+400548199,2014,Air Force,Boise State,2014-09-27,15.0,13.5,1.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548417,2014,UL Monroe,Troy,2014-09-27,10.5,,,single_source,,,,
+400547754,2014,Miami,Duke,2014-09-27,5.5,3.5,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547680,2014,Tulsa,Texas State,2014-09-28,5.5,3.0,2.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400548202,2014,San Diego State,UNLV,2014-09-28,17.0,18.0,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548272,2014,Utah,Washington State,2014-09-28,10.0,12.0,2.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+400548201,2014,San José State,Nevada,2014-09-28,3.0,7.0,4.0,source_variance,,2.5,,sbro_heuristic_only_unvalidated
+400548459,2014,Yale,Army,2014-09-27,14.5,14.5,0.0,verified,,,,
+400548274,2014,Oregon,Arizona,2014-10-03,22.5,21.5,1.0,verified,,22.5,,sbro_heuristic_only_unvalidated
+400547682,2014,Houston,UCF,2014-10-02,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548039,2014,Florida International,Florida Atlantic,2014-10-02,9.0,6.5,2.5,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400547783,2014,Syracuse,Louisville,2014-10-03,3.5,1.5,2.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548207,2014,Fresno State,San Diego State,2014-10-04,2.0,3.5,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547765,2014,Florida State,Wake Forest,2014-10-04,38.0,38.0,0.0,verified,,37.5,,sbro_heuristic_only_unvalidated
+400548374,2014,Ole Miss,Alabama,2014-10-04,4.5,,,single_source,,,,
+400547867,2014,TCU,Oklahoma,2014-10-04,5.0,4.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548373,2014,Auburn,LSU,2014-10-04,9.0,7.0,2.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548377,2014,Mississippi State,Texas A&M,2014-10-04,1.0,2.0,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400547865,2014,Texas,Baylor,2014-10-04,13.0,14.5,1.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548276,2014,UCLA,Utah,2014-10-05,12.5,13.5,1.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548279,2014,Notre Dame,Stanford,2014-10-04,2.5,2.0,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400547956,2014,Michigan State,Nebraska,2014-10-05,8.0,7.5,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548378,2014,Georgia,Vanderbilt,2014-10-04,32.5,33.0,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+400548275,2014,USC,Arizona State,2014-10-04,10.5,13.0,2.5,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400547979,2014,Northwestern,Wisconsin,2014-10-04,9.5,8.0,1.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400547937,2014,Maryland,Ohio State,2014-10-04,8.5,7.0,1.5,verified,,8.5,,sbro_heuristic_only_unvalidated
+400547863,2014,Oklahoma State,Iowa State,2014-10-04,17.0,17.5,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+400547684,2014,East Carolina,SMU,2014-10-04,35.5,35.0,0.5,verified,,34.5,,sbro_heuristic_only_unvalidated
+400547864,2014,Kansas State,Texas Tech,2014-10-04,12.5,14.0,1.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+400547909,2014,Illinois,Purdue,2014-10-04,10.5,9.0,1.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548041,2014,Old Dominion,Marshall,2014-10-04,17.5,18.5,1.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+400548042,2014,Middle Tennessee,Southern Miss,2014-10-04,16.5,17.0,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548120,2014,Army,Ball State,2014-10-04,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548376,2014,Tennessee,Florida,2014-10-04,1.5,3.0,1.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+400547797,2014,North Carolina,Virginia Tech,2014-10-04,1.5,3.0,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548122,2014,Akron,Eastern Michigan,2014-10-04,21.0,26.0,5.0,source_variance,,21.5,,sbro_heuristic_only_unvalidated
+400547920,2014,Indiana,North Texas,2014-10-04,13.5,13.0,0.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548126,2014,Miami (OH),Massachusetts,2014-10-04,4.5,6.0,1.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+400547685,2014,Colorado State,Tulsa,2014-10-04,14.5,18.5,4.0,source_variance,,14.5,,sbro_heuristic_only_unvalidated
+400547744,2014,Clemson,NC State,2014-10-04,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548044,2014,UTSA,New Mexico,2014-10-04,18.5,17.0,1.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+400548121,2014,Bowling Green,Buffalo,2014-10-04,5.0,3.5,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548124,2014,Central Michigan,Ohio,2014-10-04,5.0,3.5,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548205,2014,Air Force,Navy,2014-10-04,4.0,3.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547866,2014,West Virginia,Kansas,2014-10-04,23.5,28.0,4.5,source_variance,,22.0,,sbro_heuristic_only_unvalidated
+400548277,2014,Colorado,Oregon State,2014-10-04,7.5,5.0,2.5,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400548123,2014,Northern Illinois,Kent State,2014-10-04,22.0,,,single_source,,,,
+400548418,2014,App State,South Alabama,2014-10-04,5.5,3.5,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547683,2014,Cincinnati,Memphis,2014-10-04,6.5,3.0,3.5,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400547997,2014,Rutgers,Michigan,2014-10-04,3.5,3.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548040,2014,Louisiana Tech,UTEP,2014-10-04,13.0,12.0,1.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548043,2014,Western Kentucky,UAB,2014-10-04,14.0,10.0,4.0,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548125,2014,Western Michigan,Toledo,2014-10-04,10.0,5.0,5.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548208,2014,Rice,Hawai'i,2014-10-04,6.0,7.0,1.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548419,2014,Arkansas State,UL Monroe,2014-10-04,10.0,11.0,1.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548420,2014,Louisiana,Georgia State,2014-10-04,16.0,16.0,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+400548422,2014,Texas State,Idaho,2014-10-04,14.5,15.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+400547790,2014,Georgia Tech,Miami,2014-10-04,1.0,2.0,1.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547812,2014,Virginia,Pittsburgh,2014-10-04,4.0,5.0,1.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548375,2014,Kentucky,South Carolina,2014-10-04,7.5,5.0,2.5,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400548209,2014,San José State,UNLV,2014-10-05,10.5,9.0,1.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+400548421,2014,New Mexico State,Georgia Southern,2014-10-05,16.5,18.0,1.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+400548206,2014,Nevada,Boise State,2014-10-05,1.5,3.0,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548278,2014,Washington State,California,2014-10-05,4.0,4.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547686,2014,UCF,BYU,2014-10-09,3.0,2.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548280,2014,Stanford,Washington State,2014-10-11,18.0,16.5,1.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548214,2014,New Mexico,San Diego State,2014-10-11,6.0,3.0,3.0,source_variance,,6.0,,sbro_heuristic_only_unvalidated
+400548212,2014,UNLV,Fresno State,2014-10-11,9.0,9.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+400547766,2014,Syracuse,Florida State,2014-10-11,20.0,23.5,3.5,source_variance,,22.0,,sbro_heuristic_only_unvalidated
+400548369,2014,Mississippi State,Auburn,2014-10-11,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548368,2014,Texas A&M,Ole Miss,2014-10-12,1.0,3.0,2.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400547868,2014,Baylor,TCU,2014-10-11,11.0,7.0,4.0,source_variance,,11.0,,sbro_heuristic_only_unvalidated
+400547798,2014,Notre Dame,North Carolina,2014-10-11,16.0,16.5,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+400548365,2014,Arkansas,Alabama,2014-10-11,9.0,9.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+400547957,2014,Purdue,Michigan State,2014-10-11,21.5,21.5,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+400547870,2014,Oklahoma,Texas,2014-10-11,14.5,16.5,2.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+400548282,2014,UCLA,Oregon,2014-10-11,3.0,1.5,1.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548370,2014,Missouri,Georgia,2014-10-11,1.5,3.0,1.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547871,2014,Kansas,Oklahoma State,2014-10-11,21.0,19.0,2.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400547689,2014,South Florida,East Carolina,2014-10-11,14.5,16.5,2.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+400547755,2014,Georgia Tech,Duke,2014-10-11,6.0,4.0,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547687,2014,Miami,Cincinnati,2014-10-11,13.0,15.0,2.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547691,2014,Temple,Tulsa,2014-10-11,13.0,17.0,4.0,source_variance,,15.0,,sbro_heuristic_only_unvalidated
+400547869,2014,Texas Tech,West Virginia,2014-10-11,2.0,6.0,4.0,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400547910,2014,Wisconsin,Illinois,2014-10-11,24.0,26.5,2.5,source_variance,,24.0,,sbro_heuristic_only_unvalidated
+400547921,2014,Iowa,Indiana,2014-10-11,6.5,3.0,3.5,source_variance,,6.0,,sbro_heuristic_only_unvalidated
+400547963,2014,Minnesota,Northwestern,2014-10-11,3.5,4.0,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548046,2014,Marshall,Middle Tennessee,2014-10-11,21.5,23.0,1.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+400548049,2014,Army,Rice,2014-10-11,2.0,2.5,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548367,2014,Kentucky,UL Monroe,2014-10-11,20.5,19.5,1.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400548128,2014,Eastern Michigan,Buffalo,2014-10-11,14.0,14.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548127,2014,Ohio,Bowling Green,2014-10-11,2.0,,,single_source,,1.5,,sbro_heuristic_only_unvalidated
+400548130,2014,Akron,Miami (OH),2014-10-11,13.5,14.5,1.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548131,2014,Kent State,Massachusetts,2014-10-11,1.5,3.0,1.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548424,2014,Georgia State,Arkansas State,2014-10-11,13.5,10.5,3.0,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400548132,2014,Ball State,Western Michigan,2014-10-11,6.0,1.0,5.0,source_variance,,2.5,,sbro_heuristic_only_unvalidated
+400548426,2014,Troy,New Mexico State,2014-10-11,7.5,7.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400547733,2014,NC State,Boston College,2014-10-11,3.5,2.0,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547745,2014,Clemson,Louisville,2014-10-11,6.5,9.0,2.5,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400547872,2014,Iowa State,Toledo,2014-10-11,6.0,3.5,2.5,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400548047,2014,UAB,North Texas,2014-10-11,3.0,6.0,3.0,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400548129,2014,Northern Illinois,Central Michigan,2014-10-11,12.5,,,single_source,,,,
+400548425,2014,Georgia Southern,Idaho,2014-10-11,21.0,21.5,0.5,verified,,20.5,,sbro_heuristic_only_unvalidated
+400548464,2014,Navy,VMI,2014-10-11,38.5,38.0,0.5,verified,,,,
+400547690,2014,Memphis,Houston,2014-10-11,4.0,7.0,3.0,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400547948,2014,Michigan,Penn State,2014-10-11,2.0,2.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548045,2014,UTSA,Florida International,2014-10-11,13.5,8.0,5.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548366,2014,Florida,LSU,2014-10-11,1.0,2.5,1.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548048,2014,UTEP,Old Dominion,2014-10-12,1.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548210,2014,Utah State,Air Force,2014-10-12,7.5,6.5,1.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548211,2014,Nevada,Colorado State,2014-10-12,2.0,2.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548213,2014,Hawai'i,Wyoming,2014-10-12,5.0,5.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548427,2014,Texas State,Louisiana,2014-10-15,2.75,2.5,0.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548284,2014,Oregon State,Utah,2014-10-17,1.5,1.5,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547813,2014,Pittsburgh,Virginia Tech,2014-10-16,2.5,,,single_source,,,,
+400548216,2014,Boise State,Fresno State,2014-10-18,16.0,18.0,2.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400547694,2014,Houston,Temple,2014-10-18,9.0,9.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547767,2014,Florida State,Notre Dame,2014-10-19,13.5,9.5,4.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548361,2014,Ole Miss,Tennessee,2014-10-18,17.0,,,single_source,,,,
+400547874,2014,West Virginia,Baylor,2014-10-18,9.5,7.5,2.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548364,2014,Alabama,Texas A&M,2014-10-18,12.0,12.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+400547922,2014,Indiana,Michigan State,2014-10-18,14.0,16.5,2.5,source_variance,,15.0,,sbro_heuristic_only_unvalidated
+400548288,2014,Oregon,Washington,2014-10-19,19.0,21.5,2.5,source_variance,,19.5,,sbro_heuristic_only_unvalidated
+400548359,2014,Arkansas,Georgia,2014-10-18,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547877,2014,Oklahoma,Kansas State,2014-10-18,12.0,7.0,5.0,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400547876,2014,TCU,Oklahoma State,2014-10-18,10.0,10.5,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400547984,2014,Ohio State,Rutgers,2014-10-18,19.5,20.5,1.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+400548285,2014,Arizona State,Stanford,2014-10-19,4.5,3.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547971,2014,Northwestern,Nebraska,2014-10-18,6.5,6.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548286,2014,USC,Colorado,2014-10-18,20.5,20.0,0.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+400547734,2014,Boston College,Clemson,2014-10-18,7.5,5.5,2.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548050,2014,Florida International,Marshall,2014-10-18,21.0,21.0,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+400547692,2014,UCF,Tulane,2014-10-18,19.0,17.5,1.5,verified,,19.0,,sbro_heuristic_only_unvalidated
+400547695,2014,Tulsa,South Florida,2014-10-18,2.0,2.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547819,2014,Wake Forest,Syracuse,2014-10-18,4.0,6.5,2.5,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400547931,2014,Maryland,Iowa,2014-10-18,2.5,4.0,1.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547964,2014,Minnesota,Purdue,2014-10-18,14.5,12.0,2.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548051,2014,Florida Atlantic,Western Kentucky,2014-10-18,3.0,3.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548052,2014,Louisiana Tech,UTSA,2014-10-18,6.5,11.5,5.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547756,2014,Duke,Virginia,2014-10-18,5.0,3.0,2.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548133,2014,Ohio,Akron,2014-10-18,4.0,3.0,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548138,2014,Bowling Green,Western Michigan,2014-10-18,2.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548136,2014,Massachusetts,Eastern Michigan,2014-10-18,11.5,15.0,3.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548428,2014,Troy,App State,2014-10-18,6.0,7.0,1.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400547693,2014,SMU,Cincinnati,2014-10-18,14.5,13.0,1.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400547805,2014,Louisville,NC State,2014-10-18,14.5,19.0,4.5,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400547873,2014,Texas Tech,Kansas,2014-10-18,13.5,12.0,1.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548053,2014,Middle Tennessee,UAB,2014-10-18,2.0,1.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548134,2014,Kent State,Army,2014-10-18,5.5,3.0,2.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400548135,2014,Central Michigan,Ball State,2014-10-18,6.5,10.5,4.0,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400548287,2014,California,UCLA,2014-10-18,8.0,7.0,1.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+400548137,2014,Northern Illinois,Miami (OH),2014-10-18,14.5,,,single_source,,,,
+400548430,2014,Idaho,New Mexico State,2014-10-18,4.0,5.5,1.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547775,2014,North Carolina,Georgia Tech,2014-10-18,2.25,2.5,0.25,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548054,2014,North Texas,Southern Miss,2014-10-18,10.5,7.5,3.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548217,2014,Colorado State,Utah State,2014-10-18,5.5,5.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548362,2014,Florida,Missouri,2014-10-18,3.0,6.5,3.5,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400548360,2014,LSU,Kentucky,2014-10-18,11.0,11.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+400548429,2014,South Alabama,Georgia State,2014-10-18,17.0,20.0,3.0,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400547875,2014,Texas,Iowa State,2014-10-19,11.0,11.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548219,2014,BYU,Nevada,2014-10-19,11.5,10.0,1.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548218,2014,San Diego State,Hawai'i,2014-10-19,10.5,10.0,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548431,2014,Louisiana,Arkansas State,2014-10-22,3.0,3.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400547696,2014,East Carolina,UConn,2014-10-23,24.0,28.0,4.0,source_variance,,26.5,,sbro_heuristic_only_unvalidated
+400547791,2014,Virginia Tech,Miami,2014-10-24,2.0,2.5,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+400548289,2014,California,Oregon,2014-10-25,16.0,17.0,1.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+400547697,2014,Cincinnati,South Florida,2014-10-24,10.0,10.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400550419,2014,South Alabama,Troy,2014-10-24,12.0,16.0,4.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548221,2014,Boise State,BYU,2014-10-25,6.5,6.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548355,2014,Kentucky,Mississippi State,2014-10-25,13.0,14.5,1.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548354,2014,LSU,Ole Miss,2014-10-25,3.0,4.0,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548357,2014,Tennessee,Alabama,2014-10-25,15.5,19.5,4.0,source_variance,,16.0,,sbro_heuristic_only_unvalidated
+400548356,2014,Auburn,South Carolina,2014-10-25,14.0,18.0,4.0,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400547949,2014,Michigan State,Michigan,2014-10-25,15.5,16.5,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400547880,2014,TCU,Texas Tech,2014-10-25,20.0,24.5,4.5,source_variance,,21.0,,sbro_heuristic_only_unvalidated
+400547878,2014,Kansas State,Texas,2014-10-25,13.0,9.5,3.5,source_variance,,9.0,,sbro_heuristic_only_unvalidated
+400547985,2014,Penn State,Ohio State,2014-10-26,11.5,14.0,2.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548291,2014,Washington,Arizona State,2014-10-26,3.5,,,single_source,,,,
+400548290,2014,Washington State,Arizona,2014-10-25,4.0,2.5,1.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547972,2014,Nebraska,Rutgers,2014-10-25,15.0,20.0,5.0,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400548292,2014,Utah,USC,2014-10-26,1.0,1.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547746,2014,Clemson,Syracuse,2014-10-25,16.5,17.0,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+400547879,2014,Oklahoma State,West Virginia,2014-10-25,4.0,3.0,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548055,2014,Marshall,Florida Atlantic,2014-10-25,26.5,27.5,1.0,verified,,27.0,,sbro_heuristic_only_unvalidated
+400548294,2014,Colorado,UCLA,2014-10-25,12.5,14.5,2.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+400547699,2014,SMU,Memphis,2014-10-25,24.0,23.5,0.5,verified,,22.5,,sbro_heuristic_only_unvalidated
+400547911,2014,Illinois,Minnesota,2014-10-25,6.5,3.5,3.0,source_variance,,6.0,,sbro_heuristic_only_unvalidated
+400547938,2014,Wisconsin,Maryland,2014-10-25,10.0,9.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+400548057,2014,Rice,North Texas,2014-10-25,13.0,16.0,3.0,source_variance,,14.5,,sbro_heuristic_only_unvalidated
+400548059,2014,Arkansas,UAB,2014-10-25,21.0,24.0,3.0,source_variance,,23.0,,sbro_heuristic_only_unvalidated
+400547799,2014,Virginia,North Carolina,2014-10-25,7.5,6.5,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548142,2014,Eastern Michigan,Northern Illinois,2014-10-25,20.5,18.0,2.5,source_variance,,20.0,,sbro_heuristic_only_unvalidated
+400548224,2014,Navy,San José State,2014-10-25,10.0,8.0,2.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+400548139,2014,Ball State,Akron,2014-10-25,1.0,3.5,2.5,source_variance,,1.5,,sbro_heuristic_only_unvalidated
+400548143,2014,Western Michigan,Ohio,2014-10-25,8.0,8.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548144,2014,Toledo,Massachusetts,2014-10-25,17.5,18.5,1.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+400548432,2014,Georgia State,Georgia Southern,2014-10-25,15.0,17.0,2.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400548141,2014,Miami (OH),Kent State,2014-10-25,4.5,5.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+400547735,2014,Wake Forest,Boston College,2014-10-25,12.0,13.0,1.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+400547776,2014,Pittsburgh,Georgia Tech,2014-10-25,4.0,,,single_source,,,,
+400548056,2014,Southern Miss,Louisiana Tech,2014-10-25,13.0,7.0,6.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548140,2014,Buffalo,Central Michigan,2014-10-25,1.5,4.0,2.5,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400548293,2014,Stanford,Oregon State,2014-10-25,13.5,13.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548058,2014,Western Kentucky,Old Dominion,2014-10-25,11.5,13.0,1.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548225,2014,Utah State,UNLV,2014-10-25,18.0,16.5,1.5,verified,,18.0,,sbro_heuristic_only_unvalidated
+400548358,2014,Missouri,Vanderbilt,2014-10-25,24.0,21.5,2.5,source_variance,,21.5,,sbro_heuristic_only_unvalidated
+400547698,2014,UCF,Temple,2014-10-25,11.0,6.0,5.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548060,2014,UTSA,UTEP,2014-10-25,9.5,13.5,4.0,source_variance,,11.0,,sbro_heuristic_only_unvalidated
+400548222,2014,Colorado State,Wyoming,2014-10-25,21.5,19.5,2.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+400548433,2014,UL Monroe,Texas State,2014-10-25,2.0,,,single_source,,,,
+400547768,2014,Louisville,Florida State,2014-10-30,8.5,3.5,5.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400550420,2014,Georgia Southern,Troy,2014-10-30,20.5,23.5,3.0,source_variance,,23.0,,sbro_heuristic_only_unvalidated
+400547700,2014,Tulane,Cincinnati,2014-11-01,2.5,4.0,1.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547701,2014,Memphis,Tulsa,2014-11-01,21.0,24.0,3.0,source_variance,,21.5,,sbro_heuristic_only_unvalidated
+400548349,2014,Ole Miss,Auburn,2014-11-01,3.0,,,single_source,,,,
+400548299,2014,Oregon,Stanford,2014-11-01,12.5,7.5,5.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400547885,2014,West Virginia,TCU,2014-11-01,4.0,3.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547882,2014,Kansas State,Oklahoma State,2014-11-02,12.5,13.5,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548465,2014,Navy,Notre Dame,2014-11-02,13.5,14.0,0.5,verified,,15.5,,sbro_heuristic_only_unvalidated
+400548348,2014,Georgia,Florida,2014-11-01,10.0,11.5,1.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+400548295,2014,UCLA,Arizona,2014-11-02,4.5,6.5,2.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400547884,2014,Baylor,Kansas,2014-11-01,33.5,34.5,1.0,verified,,35.5,,sbro_heuristic_only_unvalidated
+400548296,2014,Arizona State,Utah,2014-11-02,2.5,6.5,4.0,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400547973,2014,Nebraska,Purdue,2014-11-01,24.5,21.5,3.0,source_variance,,23.5,,sbro_heuristic_only_unvalidated
+400547912,2014,Ohio State,Illinois,2014-11-02,28.5,28.0,0.5,verified,,28.5,,sbro_heuristic_only_unvalidated
+400547883,2014,Iowa State,Oklahoma,2014-11-01,16.5,15.5,1.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+400547703,2014,Temple,East Carolina,2014-11-01,7.0,10.0,3.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547757,2014,Pittsburgh,Duke,2014-11-01,2.5,,,single_source,,,,
+400548226,2014,Army,Air Force,2014-11-01,5.5,3.0,2.5,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400547702,2014,UConn,UCF,2014-11-01,12.0,9.0,3.0,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400547932,2014,Iowa,Northwestern,2014-11-01,6.0,3.0,3.0,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400547939,2014,Penn State,Maryland,2014-11-01,2.5,3.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547998,2014,Rutgers,Wisconsin,2014-11-01,11.0,12.0,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548061,2014,Florida International,Rice,2014-11-01,8.0,6.5,1.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+400548353,2014,Texas A&M,UL Monroe,2014-11-01,29.5,32.5,3.0,source_variance,,31.5,,sbro_heuristic_only_unvalidated
+400547736,2014,Virginia Tech,Boston College,2014-11-01,5.5,2.5,3.0,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400547792,2014,Miami,North Carolina,2014-11-01,11.0,16.5,5.5,source_variance,,11.0,,sbro_heuristic_only_unvalidated
+400548145,2014,Eastern Michigan,Central Michigan,2014-11-01,17.0,13.5,3.5,source_variance,,15.5,,sbro_heuristic_only_unvalidated
+400548298,2014,Colorado,Washington,2014-11-01,4.0,3.0,1.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548146,2014,Miami (OH),Western Michigan,2014-11-01,5.0,6.5,1.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+400547806,2014,Syracuse,NC State,2014-11-01,5.0,3.0,2.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548063,2014,Louisiana Tech,Western Kentucky,2014-11-01,3.0,7.5,4.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400547777,2014,Georgia Tech,Virginia,2014-11-01,2.5,4.0,1.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+400547923,2014,Michigan,Indiana,2014-11-01,9.5,7.5,2.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548064,2014,Middle Tennessee,BYU,2014-11-01,8.5,3.0,5.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400548435,2014,App State,Georgia State,2014-11-01,5.5,11.5,6.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547704,2014,South Florida,Houston,2014-11-01,10.0,8.5,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+400548351,2014,Missouri,Kentucky,2014-11-01,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548439,2014,New Mexico State,Texas State,2014-11-01,10.5,7.0,3.5,source_variance,,8.5,,sbro_heuristic_only_unvalidated
+400548297,2014,Washington State,USC,2014-11-01,7.0,7.5,0.5,verified,,8.5,,sbro_heuristic_only_unvalidated
+400548436,2014,Idaho,Arkansas State,2014-11-01,14.5,16.0,1.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+400548438,2014,Louisiana,South Alabama,2014-11-01,7.0,7.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548231,2014,UNLV,New Mexico,2014-11-01,1.0,1.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548062,2014,Florida Atlantic,UAB,2014-11-01,4.5,3.0,1.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548065,2014,Vanderbilt,Old Dominion,2014-11-01,10.0,7.0,3.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548227,2014,San José State,Colorado State,2014-11-01,8.5,6.0,2.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547881,2014,Texas Tech,Texas,2014-11-01,5.0,3.5,1.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548352,2014,South Carolina,Tennessee,2014-11-01,8.0,5.5,2.5,source_variance,,8.0,,sbro_heuristic_only_unvalidated
+400548066,2014,UTEP,Southern Miss,2014-11-02,6.5,7.5,1.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548230,2014,Nevada,San Diego State,2014-11-02,6.0,2.5,3.5,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400548300,2014,Oregon State,California,2014-11-02,4.5,4.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548228,2014,Fresno State,Wyoming,2014-11-02,10.5,16.0,5.5,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548229,2014,Hawai'i,Utah State,2014-11-02,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400548147,2014,Akron,Bowling Green,2014-11-05,4.0,3.5,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548148,2014,Kent State,Toledo,2014-11-05,13.0,13.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548149,2014,Ohio,Buffalo,2014-11-06,2.0,4.0,2.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548150,2014,Ball State,Northern Illinois,2014-11-06,1.5,3.0,1.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547747,2014,Wake Forest,Clemson,2014-11-07,20.0,21.0,1.0,verified,,22.0,,sbro_heuristic_only_unvalidated
+400550749,2014,Temple,Memphis,2014-11-08,4.0,7.5,3.5,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400548237,2014,Wyoming,Utah State,2014-11-08,4.5,7.5,3.0,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400548346,2014,Auburn,Texas A&M,2014-11-08,14.5,23.5,9.0,source_conflict,,20.0,,sbro_heuristic_only_unvalidated
+400548304,2014,Utah,Oregon,2014-11-09,9.5,10.0,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548342,2014,LSU,Alabama,2014-11-09,6.0,7.0,1.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400547886,2014,TCU,Kansas State,2014-11-09,6.0,6.5,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548303,2014,Washington,UCLA,2014-11-09,5.0,,,single_source,,,,
+400548301,2014,Arizona,Colorado,2014-11-09,15.5,,,single_source,,,,
+400548343,2014,Kentucky,Georgia,2014-11-08,13.0,10.0,3.0,source_variance,,11.0,,sbro_heuristic_only_unvalidated
+400547758,2014,Syracuse,Duke,2014-11-08,4.0,4.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547889,2014,Texas,West Virginia,2014-11-08,5.5,3.0,2.5,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400547778,2014,NC State,Georgia Tech,2014-11-08,3.0,3.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547992,2014,Purdue,Wisconsin,2014-11-08,15.5,16.5,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400547708,2014,Tulsa,SMU,2014-11-08,9.5,14.0,4.5,source_variance,,11.0,,sbro_heuristic_only_unvalidated
+400547924,2014,Indiana,Penn State,2014-11-08,4.0,6.0,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547933,2014,Minnesota,Iowa,2014-11-08,1.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548069,2014,UAB,Louisiana Tech,2014-11-08,2.5,5.5,3.0,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400548071,2014,Rice,UTSA,2014-11-08,8.0,7.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548441,2014,Arkansas State,South Alabama,2014-11-08,9.5,11.0,1.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548442,2014,Troy,Georgia State,2014-11-08,8.5,7.0,1.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400547705,2014,Army,UConn,2014-11-08,1.0,4.5,3.5,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400547706,2014,Houston,Tulane,2014-11-08,16.0,17.0,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400547887,2014,Kansas,Iowa State,2014-11-08,4.0,2.0,2.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400547950,2014,Northwestern,Michigan,2014-11-08,2.0,1.5,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548067,2014,Old Dominion,Florida International,2014-11-08,2.5,5.0,2.5,source_variance,,3.0,,sbro_heuristic_only_unvalidated
+400548440,2014,App State,UL Monroe,2014-11-08,2.0,3.5,1.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548072,2014,Western Kentucky,UTEP,2014-11-08,9.0,9.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+400548232,2014,UNLV,Air Force,2014-11-08,4.5,4.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548305,2014,Oregon State,Washington State,2014-11-08,9.5,8.5,1.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+400548443,2014,Texas State,Georgia Southern,2014-11-08,8.0,12.0,4.0,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548236,2014,San Diego State,Idaho,2014-11-08,21.0,21.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+400548068,2014,North Texas,Florida Atlantic,2014-11-09,3.5,2.5,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548070,2014,Southern Miss,Marshall,2014-11-09,24.5,26.5,2.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+400548233,2014,New Mexico,Boise State,2014-11-09,14.5,18.0,3.5,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400548234,2014,Colorado State,Hawai'i,2014-11-09,17.0,21.0,4.0,source_variance,,16.5,,sbro_heuristic_only_unvalidated
+400547737,2014,Boston College,Louisville,2014-11-09,2.5,3.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548347,2014,Vanderbilt,Florida,2014-11-09,13.5,14.5,1.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+400548444,2014,New Mexico State,Louisiana,2014-11-09,16.5,17.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+400548235,2014,Fresno State,San José State,2014-11-09,4.0,1.0,3.0,source_variance,,3.5,,sbro_heuristic_only_unvalidated
+400548151,2014,Buffalo,Akron,2014-11-12,2.5,3.5,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548152,2014,Northern Illinois,Toledo,2014-11-12,3.5,,,single_source,,,,
+400548153,2014,Massachusetts,Ball State,2014-11-13,3.0,3.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548154,2014,Bowling Green,Kent State,2014-11-13,13.0,14.0,1.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+400547710,2014,Cincinnati,East Carolina,2014-11-14,2.5,1.0,1.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548076,2014,UTSA,Southern Miss,2014-11-14,11.5,6.5,5.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400548306,2014,USC,California,2014-11-14,12.0,14.0,2.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+400547709,2014,UCF,Tulsa,2014-11-15,18.5,19.5,1.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+400548338,2014,Alabama,Mississippi State,2014-11-15,6.5,9.0,2.5,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400547892,2014,Kansas,TCU,2014-11-15,24.5,28.0,3.5,source_variance,,28.0,,sbro_heuristic_only_unvalidated
+400547965,2014,Minnesota,Ohio State,2014-11-15,14.5,11.5,3.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548337,2014,Georgia,Auburn,2014-11-16,2.0,3.0,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400547940,2014,Maryland,Michigan State,2014-11-16,10.5,10.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548307,2014,Arizona,Washington,2014-11-15,9.0,,,single_source,,,,
+400547974,2014,Wisconsin,Nebraska,2014-11-15,4.0,5.5,1.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548336,2014,Arkansas,LSU,2014-11-16,1.5,1.0,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547980,2014,Notre Dame,Northwestern,2014-11-15,16.5,17.0,0.5,verified,,16.0,,sbro_heuristic_only_unvalidated
+400547748,2014,Georgia Tech,Clemson,2014-11-15,2.5,1.5,1.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547759,2014,Duke,Virginia Tech,2014-11-15,7.0,3.5,3.5,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400548309,2014,Stanford,Utah,2014-11-15,7.5,10.0,2.5,source_variance,,8.0,,sbro_heuristic_only_unvalidated
+400548341,2014,Texas A&M,Missouri,2014-11-16,6.5,3.5,3.0,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400547713,2014,Penn State,Temple,2014-11-15,10.5,11.0,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+400547913,2014,Illinois,Iowa,2014-11-15,3.0,5.5,2.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400548077,2014,Western Kentucky,Army,2014-11-15,10.5,7.0,3.5,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548339,2014,Florida,South Carolina,2014-11-15,3.5,6.5,3.0,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400547800,2014,North Carolina,Pittsburgh,2014-11-15,1.5,2.5,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400548156,2014,Central Michigan,Miami (OH),2014-11-15,13.5,18.5,5.0,source_variance,,14.5,,sbro_heuristic_only_unvalidated
+400548238,2014,Air Force,Nevada,2014-11-15,2.5,3.0,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548074,2014,Marshall,Rice,2014-11-15,19.5,21.0,1.5,verified,,19.5,,sbro_heuristic_only_unvalidated
+400547807,2014,NC State,Wake Forest,2014-11-15,12.0,15.0,3.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548445,2014,Arkansas State,App State,2014-11-15,15.0,15.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400547711,2014,Tulane,Memphis,2014-11-15,11.0,8.5,2.5,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400547890,2014,Texas Tech,Oklahoma,2014-11-15,12.5,14.0,1.5,verified,,12.0,,sbro_heuristic_only_unvalidated
+400547925,2014,Rutgers,Indiana,2014-11-15,6.0,9.0,3.0,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400548073,2014,Florida International,Middle Tennessee,2014-11-15,3.0,5.0,2.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548446,2014,Navy,Georgia Southern,2014-11-15,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548448,2014,UL Monroe,Louisiana,2014-11-16,7.0,,,single_source,,,,
+400547891,2014,Oklahoma State,Texas,2014-11-16,1.0,1.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548449,2014,South Alabama,Texas State,2014-11-16,4.0,5.5,1.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548157,2014,Ohio,Northern Illinois,2014-11-19,2.5,,,single_source,,4.0,,sbro_heuristic_only_unvalidated
+400548159,2014,Toledo,Bowling Green,2014-11-20,6.5,7.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547893,2014,West Virginia,Kansas State,2014-11-21,2.5,2.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547760,2014,Duke,North Carolina,2014-11-21,6.0,5.0,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400550421,2014,Texas State,Arkansas State,2014-11-21,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548078,2014,Rice,UTEP,2014-11-22,11.0,7.5,3.5,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548243,2014,San Diego State,Air Force,2014-11-22,2.0,5.5,3.5,source_variance,,3.0,,sbro_heuristic_only_unvalidated
+400548313,2014,Oregon,Colorado,2014-11-22,34.0,33.0,1.0,verified,,32.5,,sbro_heuristic_only_unvalidated
+400547738,2014,Florida State,Boston College,2014-11-22,20.5,16.5,4.0,source_variance,,20.0,,sbro_heuristic_only_unvalidated
+400548335,2014,Mississippi State,Vanderbilt,2014-11-23,30.5,29.5,1.0,verified,,30.0,,sbro_heuristic_only_unvalidated
+400547926,2014,Ohio State,Indiana,2014-11-22,30.0,36.0,6.0,source_variance,,33.5,,sbro_heuristic_only_unvalidated
+400547896,2014,Baylor,Oklahoma State,2014-11-23,25.0,32.5,7.5,source_conflict,,26.5,,sbro_heuristic_only_unvalidated
+400548312,2014,UCLA,USC,2014-11-23,3.0,3.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547999,2014,Michigan State,Rutgers,2014-11-22,22.0,24.0,2.0,verified,,22.0,,sbro_heuristic_only_unvalidated
+400548311,2014,Arizona State,Washington State,2014-11-22,17.0,14.5,2.5,source_variance,,16.5,,sbro_heuristic_only_unvalidated
+400548310,2014,Utah,Arizona,2014-11-22,3.5,5.5,2.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547934,2014,Iowa,Wisconsin,2014-11-22,8.5,7.5,1.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548334,2014,Tennessee,Missouri,2014-11-23,3.0,5.5,2.5,source_variance,,3.0,,sbro_heuristic_only_unvalidated
+400547894,2014,Oklahoma,Kansas,2014-11-22,25.0,26.0,1.0,verified,,25.0,,sbro_heuristic_only_unvalidated
+400547749,2014,Clemson,Georgia State,2014-11-22,40.0,39.5,0.5,verified,,41.0,,sbro_heuristic_only_unvalidated
+400547966,2014,Nebraska,Minnesota,2014-11-22,10.0,9.0,1.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400547784,2014,Notre Dame,Louisville,2014-11-22,9.0,3.0,6.0,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400547714,2014,UCF,SMU,2014-11-22,26.5,28.5,2.0,verified,,25.5,,sbro_heuristic_only_unvalidated
+400547717,2014,Houston,Tulsa,2014-11-22,21.0,20.0,1.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400547914,2014,Illinois,Penn State,2014-11-22,4.5,5.5,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547981,2014,Purdue,Northwestern,2014-11-22,2.0,,,single_source,,3.0,,sbro_heuristic_only_unvalidated
+400548082,2014,UAB,Marshall,2014-11-22,20.0,18.0,2.0,verified,,20.0,,sbro_heuristic_only_unvalidated
+400548083,2014,Western Kentucky,UTSA,2014-11-22,6.0,10.0,4.0,source_variance,,8.0,,sbro_heuristic_only_unvalidated
+400548333,2014,South Carolina,South Alabama,2014-11-22,25.5,24.0,1.5,verified,,25.5,,sbro_heuristic_only_unvalidated
+400547828,2014,Wake Forest,Virginia Tech,2014-11-22,14.0,13.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548081,2014,Old Dominion,Louisiana Tech,2014-11-22,11.5,13.5,2.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+400548162,2014,Central Michigan,Western Michigan,2014-11-22,1.0,1.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548245,2014,Colorado State,New Mexico,2014-11-22,21.0,20.5,0.5,verified,,21.0,,sbro_heuristic_only_unvalidated
+400548161,2014,Ball State,Eastern Michigan,2014-11-22,17.0,18.0,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548450,2014,Louisiana,App State,2014-11-22,8.0,8.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547716,2014,East Carolina,Tulane,2014-11-22,17.5,21.0,3.5,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400547814,2014,Pittsburgh,Syracuse,2014-11-22,8.0,,,single_source,,,,
+400547895,2014,Iowa State,Texas Tech,2014-11-22,1.5,,,single_source,,1.5,,sbro_heuristic_only_unvalidated
+400547941,2014,Michigan,Maryland,2014-11-22,3.0,6.0,3.0,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400548079,2014,North Texas,Florida International,2014-11-22,2.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400547718,2014,Memphis,South Florida,2014-11-22,19.0,19.5,0.5,verified,,18.5,,sbro_heuristic_only_unvalidated
+400548315,2014,California,Stanford,2014-11-22,6.5,5.5,1.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548452,2014,New Mexico State,UL Monroe,2014-11-22,8.0,6.5,1.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400547793,2014,Virginia,Miami,2014-11-23,7.0,4.0,3.0,source_variance,,7.0,,sbro_heuristic_only_unvalidated
+400548080,2014,Middle Tennessee,Florida Atlantic,2014-11-23,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547715,2014,UConn,Cincinnati,2014-11-23,11.0,9.5,1.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+400548244,2014,Wyoming,Boise State,2014-11-23,16.0,14.0,2.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548246,2014,Nevada,Fresno State,2014-11-23,6.5,7.0,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548314,2014,Washington,Oregon State,2014-11-23,4.0,,,single_source,,,,
+400548247,2014,Hawai'i,UNLV,2014-11-23,8.0,10.5,2.5,source_variance,,10.0,,sbro_heuristic_only_unvalidated
+400548164,2014,Miami (OH),Ohio,2014-11-26,3.0,3.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547897,2014,Texas,TCU,2014-11-28,7.5,4.5,3.0,source_variance,,6.5,,sbro_heuristic_only_unvalidated
+400548327,2014,Texas A&M,LSU,2014-11-28,2.0,3.0,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548317,2014,UCLA,Stanford,2014-11-28,4.5,6.5,2.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548316,2014,Arizona,Arizona State,2014-11-28,2.5,,,single_source,,,,
+400548325,2014,Missouri,Arkansas,2014-11-28,1.5,2.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548084,2014,Marshall,Western Kentucky,2014-11-28,23.0,23.5,0.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+400548167,2014,Western Michigan,Northern Illinois,2014-11-28,7.0,8.0,1.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400547719,2014,South Florida,UCF,2014-11-28,9.5,10.0,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+400547721,2014,SMU,Houston,2014-11-28,22.5,21.0,1.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+400547935,2014,Iowa,Nebraska,2014-11-28,1.25,1.5,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548163,2014,Kent State,Akron,2014-11-28,6.0,3.0,3.0,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400548165,2014,Bowling Green,Ball State,2014-11-28,9.0,10.0,1.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548166,2014,Massachusetts,Buffalo,2014-11-28,1.0,3.5,2.5,source_variance,,1.0,,sbro_heuristic_only_unvalidated
+400548168,2014,Eastern Michigan,Toledo,2014-11-28,21.5,23.0,1.5,verified,,22.5,,sbro_heuristic_only_unvalidated
+400548453,2014,South Alabama,Navy,2014-11-28,7.0,7.5,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548249,2014,Air Force,Colorado State,2014-11-28,5.0,7.5,2.5,source_variance,,8.5,,sbro_heuristic_only_unvalidated
+400547824,2014,Virginia Tech,Virginia,2014-11-29,2.25,2.0,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+400547720,2014,Tulsa,East Carolina,2014-11-29,17.5,19.5,2.0,verified,,22.5,,sbro_heuristic_only_unvalidated
+400548320,2014,Oregon State,Oregon,2014-11-30,17.5,20.5,3.0,source_variance,,20.0,,sbro_heuristic_only_unvalidated
+400547771,2014,Florida State,Florida,2014-11-29,10.0,7.0,3.0,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548324,2014,Ole Miss,Mississippi State,2014-11-29,2.5,,,single_source,,,,
+400547951,2014,Ohio State,Michigan,2014-11-29,20.0,21.5,1.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+400547899,2014,Texas Tech,Baylor,2014-11-29,21.5,26.5,5.0,source_variance,,23.5,,sbro_heuristic_only_unvalidated
+400547779,2014,Georgia,Georgia Tech,2014-11-29,14.5,10.5,4.0,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400547959,2014,Penn State,Michigan State,2014-11-29,11.5,13.5,2.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+400547900,2014,Kansas State,Kansas,2014-11-29,28.5,27.0,1.5,verified,,26.5,,sbro_heuristic_only_unvalidated
+400547967,2014,Wisconsin,Minnesota,2014-11-29,12.5,17.0,4.5,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+400547750,2014,Clemson,South Carolina,2014-11-29,4.5,4.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+400547785,2014,Louisville,Kentucky,2014-11-29,14.0,14.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548250,2014,Boise State,Utah State,2014-11-30,9.0,10.0,1.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548319,2014,Colorado,Utah,2014-11-29,10.0,7.0,3.0,source_variance,,9.0,,sbro_heuristic_only_unvalidated
+400547722,2014,Temple,Cincinnati,2014-11-29,3.5,7.0,3.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400547898,2014,Iowa State,West Virginia,2014-11-29,13.0,10.0,3.0,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400547915,2014,Northwestern,Illinois,2014-11-29,9.0,7.0,2.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+400547927,2014,Indiana,Purdue,2014-11-29,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548085,2014,Florida Atlantic,Old Dominion,2014-11-29,5.5,3.5,2.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+400548086,2014,Louisiana Tech,Rice,2014-11-29,6.0,7.5,1.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548088,2014,UTSA,North Texas,2014-11-29,6.0,6.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400547739,2014,Boston College,Syracuse,2014-11-29,10.0,10.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547801,2014,North Carolina,NC State,2014-11-29,6.0,6.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400548458,2014,Troy,Louisiana,2014-11-29,9.5,9.5,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400548454,2014,App State,Idaho,2014-11-29,14.0,17.0,3.0,source_variance,,16.5,,sbro_heuristic_only_unvalidated
+400548456,2014,Georgia State,Texas State,2014-11-29,11.0,13.5,2.5,source_variance,,13.0,,sbro_heuristic_only_unvalidated
+400548253,2014,New Mexico,Wyoming,2014-11-29,6.0,4.0,2.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548455,2014,Arkansas State,New Mexico State,2014-11-29,23.5,23.5,0.0,verified,,21.5,,sbro_heuristic_only_unvalidated
+400547942,2014,Maryland,Rutgers,2014-11-29,9.0,7.5,1.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+400548089,2014,Southern Miss,UAB,2014-11-29,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548254,2014,San Diego State,San José State,2014-11-29,13.5,14.5,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400548318,2014,USC,Notre Dame,2014-11-29,7.0,5.5,1.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547723,2014,Memphis,UConn,2014-11-29,18.0,24.5,6.5,source_variance,,20.5,,sbro_heuristic_only_unvalidated
+400548326,2014,Vanderbilt,Tennessee,2014-11-29,14.5,15.5,1.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+400548322,2014,California,BYU,2014-11-29,3.5,3.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548457,2014,Georgia Southern,UL Monroe,2014-11-29,14.0,14.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+400547761,2014,Duke,Wake Forest,2014-11-30,18.0,18.0,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+400547794,2014,Miami,Pittsburgh,2014-11-30,9.5,11.0,1.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+400548087,2014,UTEP,Middle Tennessee,2014-11-30,3.0,3.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548251,2014,Fresno State,Hawai'i,2014-11-30,12.0,9.5,2.5,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548252,2014,UNLV,Nevada,2014-11-30,10.0,7.5,2.5,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400548321,2014,Washington State,Washington,2014-11-30,4.0,4.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547724,2014,East Carolina,UCF,2014-12-05,6.5,6.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400609076,2014,Oregon,Arizona,2014-12-06,14.0,14.5,0.5,verified,,13.5,,sbro_heuristic_only_unvalidated
+400609055,2014,Bowling Green,Northern Illinois,2014-12-06,2.5,5.0,2.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400609098,2014,Missouri,Alabama,2014-12-06,3.0,14.0,11.0,source_conflict,,13.0,,sbro_heuristic_only_unvalidated
+400547902,2014,TCU,Iowa State,2014-12-06,33.0,35.0,2.0,verified,,32.5,,sbro_heuristic_only_unvalidated
+400608167,2014,Georgia Tech,Florida State,2014-12-07,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400609096,2014,Ohio State,Wisconsin,2014-12-07,3.0,4.0,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547903,2014,Baylor,Kansas State,2014-12-07,9.0,7.0,2.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+400547901,2014,Oklahoma,Oklahoma State,2014-12-06,19.5,19.5,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+400609154,2014,Boise State,Fresno State,2014-12-07,17.0,23.0,6.0,source_variance,,19.5,,sbro_heuristic_only_unvalidated
+400547725,2014,Cincinnati,Houston,2014-12-06,7.0,7.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547726,2014,UConn,SMU,2014-12-06,10.5,13.5,3.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400609077,2014,Marshall,Louisiana Tech,2014-12-06,14.5,8.5,6.0,source_variance,,12.0,,sbro_heuristic_only_unvalidated
+400547727,2014,Tulane,Temple,2014-12-07,3.5,2.5,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+400548461,2014,Army,Navy,2014-12-13,15.0,16.5,1.5,verified,,15.0,,sbro_heuristic_only_unvalidated
+400610221,2014,Colorado State,Utah,2014-12-20,4.0,3.0,1.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+400610197,2014,Louisiana,Nevada,2014-12-20,1.5,1.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400610202,2014,UTEP,Utah State,2014-12-20,11.0,10.0,1.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400610198,2014,Air Force,Western Michigan,2014-12-20,3.0,2.0,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+400610201,2014,Bowling Green,South Alabama,2014-12-21,1.5,4.0,2.5,source_variance,,1.5,,sbro_heuristic_only_unvalidated
+400610225,2014,Memphis,BYU,2014-12-22,1.0,1.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400610203,2014,Northern Illinois,Marshall,2014-12-23,11.0,,,single_source,,,,
+400610199,2014,San Diego State,Navy,2014-12-24,3.5,3.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400610205,2014,Western Kentucky,Central Michigan,2014-12-24,1.5,3.5,2.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400610204,2014,Rice,Fresno State,2014-12-25,2.0,,,single_source,,1.5,,sbro_heuristic_only_unvalidated
+400610222,2014,Louisiana Tech,Illinois,2014-12-26,4.0,7.0,3.0,source_variance,,5.0,,sbro_heuristic_only_unvalidated
+400610212,2014,North Carolina,Rutgers,2014-12-26,3.0,3.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400610209,2014,UCF,NC State,2014-12-27,3.0,2.0,1.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400610211,2014,Duke,Arizona State,2014-12-27,9.0,7.5,1.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400610220,2014,USC,Nebraska,2014-12-28,4.0,7.5,3.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400610207,2014,Virginia Tech,Cincinnati,2014-12-27,3.5,2.0,1.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400610216,2014,South Carolina,Miami,2014-12-27,3.0,3.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548008,2014,Notre Dame,Rice,2014-08-30,19.75,19.5,0.25,verified,,24.0,,sbro_heuristic_only_unvalidated
+400547728,2014,Massachusetts,Boston College,2014-08-30,12.5,17.0,4.5,source_variance,,14.5,,sbro_heuristic_only_unvalidated
+400548005,2014,Miami (OH),Marshall,2014-08-30,24.0,24.5,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+400548094,2014,Buffalo,Duquesne,2014-08-30,28.0,27.0,1.0,verified,,,,
+400548170,2014,Air Force,Nicholls,2014-08-30,14.0,27.5,13.5,source_conflict,,,,
+400547936,2014,Maryland,James Madison,2014-08-30,21.5,24.5,3.0,source_variance,,,,
+400547649,2014,UConn,Stony Brook,2014-09-06,16.0,16.5,0.5,verified,,,,
+400547994,2014,Rutgers,Howard,2014-09-06,36.5,38.0,1.5,verified,,,,
+400547844,2014,Oklahoma State,Missouri State,2014-09-06,32.5,33.0,0.5,verified,,,,
+400548105,2014,Bowling Green,VMI,2014-09-06,38.0,38.5,0.5,verified,,,,
+400547821,2014,Virginia,Richmond,2014-09-06,18.5,14.5,4.0,source_variance,,,,
+400548015,2014,Marshall,Rhode Island,2014-09-06,41.0,41.0,0.0,verified,,,,
+400548408,2014,App State,Campbell,2014-09-06,37.0,32.5,4.5,source_variance,,,,
+400548262,2014,California,Sacramento State,2014-09-06,25.5,28.0,2.5,source_variance,,,,
+400548261,2014,Washington,Eastern Washington,2014-09-06,14.0,,,single_source,,,,
+400548187,2014,UNLV,Northern Colorado,2014-09-07,28.0,28.5,0.5,verified,,,,
+400548178,2014,Tennessee,Utah State,2014-08-31,3.5,3.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+400547786,2014,Louisville,Miami,2014-09-02,5.5,4.5,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548018,2014,UTSA,Arizona,2014-09-05,8.0,7.5,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400610180,2014,Georgia Tech,Mississippi State,2015-01-01,7.0,6.0,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+400610181,2014,Arizona,Boise State,2014-12-31,4.0,,,single_source,,,,
+400548011,2014,New Mexico,UTEP,2014-08-31,6.5,10.0,3.5,source_variance,,7.5,,sbro_heuristic_only_unvalidated
+400547648,2014,Baylor,SMU,2014-08-31,32.5,31.5,1.0,verified,,31.5,,sbro_heuristic_only_unvalidated
+400547843,2014,Iowa State,Kansas State,2014-09-06,15.5,12.0,3.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400547729,2014,Boston College,Pittsburgh,2014-09-05,1.0,5.0,4.0,source_variance,,4.0,,sbro_heuristic_only_unvalidated
+400548184,2014,Nevada,Washington State,2014-09-06,3.0,3.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548013,2014,Alabama,Florida Atlantic,2014-09-06,39.0,41.0,2.0,verified,,40.5,,sbro_heuristic_only_unvalidated
+400547657,2014,Tulsa,Oklahoma,2014-09-06,23.0,24.0,1.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+400547653,2014,North Texas,SMU,2014-09-06,4.0,3.0,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548395,2014,Vanderbilt,Ole Miss,2014-09-06,14.0,18.0,4.0,source_variance,,19.5,,sbro_heuristic_only_unvalidated
+400548099,2014,Massachusetts,Colorado,2014-09-06,17.0,17.5,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548017,2014,Mississippi State,UAB,2014-09-06,28.5,29.0,0.5,verified,,29.0,,sbro_heuristic_only_unvalidated
+400548182,2014,Utah,Fresno State,2014-09-06,7.5,13.0,5.5,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548260,2014,Stanford,USC,2014-09-06,4.0,3.0,1.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400547654,2014,South Florida,Maryland,2014-09-06,10.0,11.0,1.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+400547929,2014,Iowa,Ball State,2014-09-06,17.5,18.0,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400547961,2014,Minnesota,Middle Tennessee,2014-09-06,14.0,14.0,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+400547976,2014,Northwestern,Northern Illinois,2014-09-06,2.5,7.0,4.5,source_variance,,5.5,,sbro_heuristic_only_unvalidated
+400548103,2014,Kentucky,Ohio,2014-09-06,6.0,13.0,7.0,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400547656,2014,Tulane,Georgia Tech,2014-09-06,10.5,7.5,3.0,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548185,2014,New Mexico,Arizona State,2014-09-06,27.0,25.0,2.0,verified,,27.0,,sbro_heuristic_only_unvalidated
+400547650,2014,South Carolina,East Carolina,2014-09-06,15.5,14.5,1.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+400547796,2014,North Carolina,San Diego State,2014-09-07,13.5,14.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+400547803,2014,NC State,Old Dominion,2014-09-06,17.0,15.5,1.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+400547752,2014,Troy,Duke,2014-09-06,18.0,18.0,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+400548014,2014,Louisiana,Louisiana Tech,2014-09-06,16.0,15.5,0.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548411,2014,UL Monroe,Idaho,2014-09-06,14.0,,,single_source,,,,
+400547846,2014,Texas,BYU,2014-09-06,4.5,1.0,3.5,source_variance,,4.5,,sbro_heuristic_only_unvalidated
+400548180,2014,Wyoming,Air Force,2014-09-07,1.0,1.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+400548181,2014,Boise State,Colorado State,2014-09-07,8.0,8.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+400547662,2014,Virginia Tech,East Carolina,2014-09-13,11.5,9.5,2.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+400547688,2014,Tulane,UConn,2014-10-12,4.0,4.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+400548281,2014,Arizona,USC,2014-10-12,2.5,,,single_source,,,,
+400548323,2014,Alabama,Auburn,2014-11-30,7.0,10.0,3.0,source_variance,,9.5,,sbro_heuristic_only_unvalidated
+400547640,2014,Vanderbilt,Temple,2014-08-29,8.5,8.5,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+400547641,2014,UConn,BYU,2014-08-29,15.5,14.5,1.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+400548003,2014,Western Kentucky,Bowling Green,2014-08-29,7.5,7.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+400547644,2014,Houston,UTSA,2014-08-30,12.5,8.0,4.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548171,2014,Colorado,Colorado State,2014-08-30,3.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548177,2014,Arizona,UNLV,2014-08-30,22.0,,,single_source,,,,
+400553383,2014,San José State,North Dakota,2014-08-29,27.0,24.0,3.0,source_variance,,24.5,,sbro_heuristic_only_unvalidated
+400547952,2014,Michigan State,Jacksonville State,2014-08-29,27.5,34.5,7.0,source_variance,,,,
+400547815,2014,Syracuse,Villanova,2014-08-29,14.0,14.5,0.5,verified,,,,
+400547820,2014,Virginia,UCLA,2014-08-30,18.0,18.5,0.5,verified,,23.0,,sbro_heuristic_only_unvalidated
+400547642,2014,UCF,Penn State,2014-08-30,1.75,2.5,0.75,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548402,2014,South Carolina,Texas A&M,2014-08-28,9.5,9.0,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+400548169,2014,Ole Miss,Boise State,2014-08-29,9.5,,,single_source,,,,
+400547829,2014,UL Monroe,Wake Forest,2014-08-28,5.0,,,single_source,,,,
+400547647,2014,Tulsa,Tulane,2014-08-29,4.5,5.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+400547993,2014,Washington State,Rutgers,2014-08-29,7.5,7.5,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+400547982,2014,Navy,Ohio State,2014-08-30,19.5,13.0,6.5,source_variance,,17.0,,sbro_heuristic_only_unvalidated
+400547943,2014,Michigan,App State,2014-08-30,33.5,29.5,4.0,source_variance,,34.5,,sbro_heuristic_only_unvalidated
+400547988,2014,Purdue,Western Michigan,2014-08-30,7.5,7.0,0.5,verified,,12.5,,sbro_heuristic_only_unvalidated
+400548010,2014,UAB,Troy,2014-08-30,1.0,2.0,1.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+400547802,2014,NC State,Georgia Southern,2014-08-30,23.0,20.5,2.5,source_variance,,23.0,,sbro_heuristic_only_unvalidated
+400547762,2014,Oklahoma State,Florida State,2014-08-31,18.0,18.5,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+400547835,2014,Alabama,West Virginia,2014-08-30,22.25,22.0,0.25,verified,,26.5,,sbro_heuristic_only_unvalidated
+400547834,2014,Oklahoma,Louisiana Tech,2014-08-30,37.5,34.0,3.5,source_variance,,38.0,,sbro_heuristic_only_unvalidated
+400548398,2014,Auburn,Arkansas,2014-08-30,21.0,17.0,4.0,source_variance,,21.5,,sbro_heuristic_only_unvalidated
+400547740,2014,Georgia,Clemson,2014-08-30,10.0,9.5,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+400548000,2014,LSU,Wisconsin,2014-08-31,3.0,3.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+400548172,2014,USC,Fresno State,2014-08-30,18.5,18.5,0.0,verified,,22.0,,sbro_heuristic_only_unvalidated
+400547968,2014,Nebraska,Florida Atlantic,2014-08-30,20.25,20.0,0.25,verified,,23.5,,sbro_heuristic_only_unvalidated
+400547975,2014,Northwestern,California,2014-08-30,8.75,8.0,0.75,verified,,12.0,,sbro_heuristic_only_unvalidated
+400548097,2014,Kent State,Ohio,2014-08-30,1.5,3.0,1.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548009,2014,Mississippi State,Southern Miss,2014-08-30,26.0,30.5,4.5,source_variance,,29.0,,sbro_heuristic_only_unvalidated
+400547836,2014,Texas,North Texas,2014-08-31,26.5,20.5,6.0,source_variance,,24.5,,sbro_heuristic_only_unvalidated
+400548102,2014,Toledo,Missouri,2014-09-06,5.5,3.5,2.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548104,2014,Kent State,South Alabama,2014-09-06,1.5,2.0,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+400547953,2014,Oregon,Michigan State,2014-09-06,11.0,14.0,3.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400548186,2014,Auburn,San José State,2014-09-06,29.0,34.0,5.0,source_variance,,29.0,,sbro_heuristic_only_unvalidated
+400547826,2014,Ohio State,Virginia Tech,2014-09-07,12.0,10.0,2.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+400547652,2014,UCLA,Memphis,2014-09-07,24.0,22.0,2.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+400547944,2014,Notre Dame,Michigan,2014-09-06,6.0,4.0,2.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+400548385,2014,Georgia,Troy,2014-09-20,35.5,41.0,5.5,source_variance,,39.0,,sbro_heuristic_only_unvalidated
+400548002,2014,Wisconsin,Bowling Green,2014-09-20,17.0,25.5,8.5,source_conflict,,21.0,,sbro_heuristic_only_unvalidated
+400548029,2014,Akron,Marshall,2014-09-20,12.5,10.0,2.5,source_variance,,12.5,,sbro_heuristic_only_unvalidated
+400548204,2014,BYU,Utah State,2014-10-04,21.0,21.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+400548283,2014,California,Washington,2014-10-11,1.0,3.0,2.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+400548215,2014,Air Force,New Mexico,2014-10-18,12.0,7.5,4.5,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400548220,2014,Wyoming,San José State,2014-10-18,1.5,3.0,1.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+400548350,2014,Mississippi State,Arkansas,2014-11-01,14.0,10.0,4.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400547769,2014,Florida State,Virginia,2014-11-08,21.5,21.0,0.5,verified,,19.5,,sbro_heuristic_only_unvalidated
+400548155,2014,Western Michigan,Eastern Michigan,2014-11-15,23.5,27.5,4.0,source_variance,,27.0,,sbro_heuristic_only_unvalidated
+400548248,2014,Utah State,San José State,2014-11-22,9.5,14.5,5.0,source_variance,,11.5,,sbro_heuristic_only_unvalidated
+400547770,2014,Miami,Florida State,2014-11-16,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+400548308,2014,Oregon State,Arizona State,2014-11-16,6.5,7.0,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+400547712,2014,SMU,South Florida,2014-11-16,12.0,9.5,2.5,source_variance,,10.5,,sbro_heuristic_only_unvalidated
+400548075,2014,UTEP,North Texas,2014-11-16,8.5,6.5,2.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+400548332,2014,Arkansas,Ole Miss,2014-11-22,2.0,3.0,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+400548239,2014,Boise State,San Diego State,2014-11-16,15.0,14.0,1.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+400548158,2014,Akron,Massachusetts,2014-11-19,7.0,9.0,2.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+400548093,2014,Ball State,Colgate,2014-08-30,27.0,29.0,2.0,verified,,,,
+400547838,2014,Texas Tech,Central Arkansas,2014-08-30,28.0,34.0,6.0,source_variance,,,,
+400547780,2014,Louisville,Murray State,2014-09-06,37.5,35.0,2.5,source_variance,,,,
+400548100,2014,Miami (OH),Eastern Kentucky,2014-09-06,3.0,5.5,2.5,source_variance,,,,
+400548397,2014,Texas A&M,Lamar,2014-09-06,44.5,46.5,2.0,verified,,,,
+400547804,2014,NC State,Presbyterian,2014-09-20,40.5,41.0,0.5,verified,,,,
+400547842,2014,Baylor,Northwestern State,2014-09-06,47.5,46.5,1.0,verified,,,,
+400548393,2014,Arkansas,Nicholls,2014-09-06,40.5,41.5,1.0,verified,,,,
+400548423,2014,App State,Liberty,2014-10-11,1.0,3.0,2.0,verified,,,,
+400548372,2014,Vanderbilt,Charleston Southern,2014-10-11,14.5,20.0,5.5,source_variance,,,,
+400548371,2014,Tennessee,Chattanooga,2014-10-11,24.5,25.0,0.5,verified,,,,
+400547808,2014,Pittsburgh,Delaware,2014-08-30,20.0,,,single_source,,,,
+400548012,2014,Florida International,Wagner,2014-09-06,11.0,16.0,5.0,source_variance,,,,
+400547731,2014,Boston College,Maine,2014-09-20,24.0,23.0,1.0,verified,,,,
+400547643,2014,East Carolina,North Carolina Central,2014-08-31,39.0,39.5,0.5,verified,,,,
+400548174,2014,Nevada,Southern Utah,2014-08-30,18.0,24.5,6.5,source_variance,,,,
+400548190,2014,Colorado State,UC Davis,2014-09-13,27.5,21.0,6.5,source_variance,,,,
+400547977,2014,Northwestern,Western Illinois,2014-09-20,23.0,25.5,2.5,source_variance,,,,
+400547991,2014,Purdue,Southern Illinois,2014-09-20,1.5,3.0,1.5,verified,,,,
+400547667,2014,UCF,Bethune-Cookman,2014-09-20,27.5,23.5,4.0,source_variance,,,,
+400547645,2014,Memphis,Austin Peay,2014-08-30,31.0,39.5,8.5,source_conflict,,,,
+400548118,2014,Ohio,Eastern Illinois,2014-09-27,8.0,7.0,1.0,verified,,,,
+400547960,2014,Minnesota,Eastern Illinois,2014-08-28,,17.5,,single_source,,14.0,,sbro_heuristic_only_unvalidated
+400547840,2014,Iowa State,North Dakota State,2014-08-30,,,,missing,,,,
+400548403,2014,Georgia State,Abilene Christian,2014-08-27,,6.0,,single_source,,5.0,,sbro_heuristic_only_unvalidated

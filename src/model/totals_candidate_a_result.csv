@@ -1,0 +1,2 @@
+signal,n,wins,losses,pushes,ats_pct,units,roi_pct,stable_seasons_of_8,survives_6_2,reason
+CandidateA_TotalsMarketInefficiency,647,289,353,5,45.02,-90.01,-14.02,3,False,ATS% 45.0 below 52.4% floor

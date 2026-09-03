@@ -1,0 +1,571 @@
+game_id,season,home_team,away_team,date,cfbd_closing_spread,sbro_closing_spread,closing_spread_difference,market_data_quality_flag,cfbd_opening_spread,sbro_opening_spread,opening_spread_difference,opening_line_confidence
+401237129,2020,Florida,Arkansas,2020-11-15,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401249018,2020,Air Force,New Mexico,2020-11-21,8.0,9.0,1.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401237135,2020,Alabama,Kentucky,2020-11-21,31.5,32.0,0.5,verified,,29.0,,sbro_heuristic_only_unvalidated
+401247326,2020,Ohio State,Indiana,2020-11-21,21.0,21.0,0.0,verified,,19.5,,sbro_heuristic_only_unvalidated
+401237136,2020,Arkansas,LSU,2020-11-21,1.5,1.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401247314,2020,Rutgers,Illinois,2020-11-14,5.5,6.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401249410,2020,Utah,USC,2020-11-22,1.0,,,single_source,,3.0,,sbro_heuristic_only_unvalidated
+401249415,2020,Oregon,UCLA,2020-11-21,18.0,17.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401249872,2020,Central Michigan,Western Michigan,2020-11-19,1.0,1.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401249871,2020,Eastern Michigan,Toledo,2020-11-19,6.75,6.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401261674,2020,Florida Atlantic,Massachusetts,2020-11-21,34.0,34.0,0.0,verified,,30.0,,sbro_heuristic_only_unvalidated
+401236027,2020,Oklahoma,Oklahoma State,2020-11-22,6.5,7.0,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249413,2020,Washington,Arizona,2020-11-22,12.0,11.5,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401212487,2020,Tulane,SMU,2020-10-16,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401212541,2020,Cincinnati,Austin Peay,2020-09-19,39.5,40.5,1.0,verified,,34.5,,sbro_heuristic_only_unvalidated
+401212544,2020,Cincinnati,Houston,2020-11-07,13.0,11.5,1.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401234565,2020,North Carolina,Syracuse,2020-09-12,24.25,23.5,0.75,verified,,19.5,,sbro_heuristic_only_unvalidated
+401234567,2020,Duke,Boston College,2020-09-19,3.5,4.0,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401234571,2020,Pittsburgh,Syracuse,2020-09-19,21.25,21.0,0.25,verified,,20.5,,sbro_heuristic_only_unvalidated
+401234576,2020,Navy,BYU,2020-09-08,1.0,1.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401234594,2020,Syracuse,Georgia Tech,2020-09-26,7.5,7.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401234595,2020,Pittsburgh,Louisville,2020-09-26,2.75,3.0,0.25,verified,,3.5,,sbro_heuristic_only_unvalidated
+401234600,2020,Pittsburgh,NC State,2020-10-03,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401234615,2020,Syracuse,Liberty,2020-10-17,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401234617,2020,Boston College,Georgia Tech,2020-10-24,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401234625,2020,Duke,Charlotte,2020-10-31,10.5,11.0,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401234629,2020,Syracuse,Wake Forest,2020-10-31,12.5,14.0,1.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401234637,2020,Boston College,Notre Dame,2020-11-14,13.0,13.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401234649,2020,Boston College,Louisville,2020-11-28,1.0,1.5,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+401234655,2020,Syracuse,NC State,2020-11-28,17.0,17.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401236030,2020,Kansas,TCU,2020-11-29,23.0,23.5,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401236221,2020,Iowa State,Louisiana,2020-09-12,12.25,12.0,0.25,verified,,11.0,,sbro_heuristic_only_unvalidated
+401236253,2020,App State,Campbell,2020-09-26,33.5,32.5,1.0,verified,,34.0,,sbro_heuristic_only_unvalidated
+401236658,2020,Kansas,Coastal Carolina,2020-09-13,6.25,4.5,1.75,verified,,3.5,,sbro_heuristic_only_unvalidated
+401240039,2020,South Florida,The Citadel,2020-09-12,17.5,17.0,0.5,verified,,18.5,,sbro_heuristic_only_unvalidated
+401240233,2020,Pittsburgh,Austin Peay,2020-09-12,30.75,,,single_source,,,,
+401240996,2020,Cincinnati,Army,2020-09-26,12.25,12.5,0.25,verified,,11.0,,sbro_heuristic_only_unvalidated
+401241303,2020,Boston College,Texas State,2020-09-26,21.5,21.5,0.0,verified,,17.5,,sbro_heuristic_only_unvalidated
+401247297,2020,Wisconsin,Illinois,2020-10-24,20.25,20.5,0.25,verified,,16.0,,sbro_heuristic_only_unvalidated
+401247321,2020,Nebraska,Illinois,2020-11-21,16.75,16.5,0.25,verified,,14.0,,sbro_heuristic_only_unvalidated
+401247323,2020,Northwestern,Wisconsin,2020-11-21,7.5,7.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401247333,2020,Michigan,Penn State,2020-11-28,1.0,,,single_source,,3.5,,sbro_heuristic_only_unvalidated
+401247345,2020,Nebraska,Minnesota,2020-12-12,10.0,9.5,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401248997,2020,Boise State,Utah State,2020-10-24,17.0,17.0,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401249003,2020,New Mexico,San José State,2020-10-31,11.5,13.5,2.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249007,2020,Hawai'i,New Mexico,2020-11-08,14.75,14.0,0.75,verified,,16.5,,sbro_heuristic_only_unvalidated
+401249010,2020,Colorado State,Wyoming,2020-11-06,3.75,3.0,0.75,verified,,3.5,,sbro_heuristic_only_unvalidated
+401249013,2020,Utah State,Fresno State,2020-11-14,11.0,10.5,0.5,verified,,12.0,,sbro_heuristic_only_unvalidated
+401249014,2020,San Diego State,Hawai'i,2020-11-14,10.0,10.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249016,2020,San José State,UNLV,2020-11-15,17.0,17.0,0.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401249031,2020,San Diego State,Colorado State,2020-12-06,7.5,7.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401249033,2020,San José State,Hawai'i,2020-12-05,4.25,3.0,1.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+401249038,2020,Hawai'i,UNLV,2020-12-13,19.0,19.5,0.5,verified,,21.5,,sbro_heuristic_only_unvalidated
+401249400,2020,USC,Arizona State,2020-11-07,11.25,11.5,0.25,verified,,10.5,,sbro_heuristic_only_unvalidated
+401249405,2020,Washington State,Oregon,2020-11-15,10.75,10.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401249411,2020,Oregon State,California,2020-11-21,1.0,1.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401249421,2020,UCLA,Arizona,2020-11-29,8.75,8.5,0.25,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249425,2020,Arizona State,UCLA,2020-12-06,2.75,2.0,0.75,verified,,3.0,,sbro_heuristic_only_unvalidated
+401249426,2020,Arizona,Colorado,2020-12-06,9.5,9.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401249428,2020,Colorado,Utah,2020-12-12,2.75,2.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401249429,2020,Arizona,Arizona State,2020-12-12,8.5,7.5,1.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249867,2020,Kent State,Akron,2020-11-18,26.0,26.0,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401249873,2020,Toledo,Ball State,2020-11-28,10.0,10.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401249875,2020,Western Michigan,Northern Illinois,2020-11-28,18.75,19.0,0.25,verified,,18.5,,sbro_heuristic_only_unvalidated
+401249878,2020,Central Michigan,Ball State,2020-12-05,2.75,3.0,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+401249879,2020,Western Michigan,Eastern Michigan,2020-12-05,13.5,13.5,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249880,2020,Northern Illinois,Toledo,2020-12-05,9.75,9.5,0.25,verified,,7.5,,sbro_heuristic_only_unvalidated
+401249881,2020,Akron,Bowling Green,2020-12-05,2.75,2.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401249892,2020,Akron,Miami (OH),2020-11-28,14.0,14.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401261454,2020,UCLA,California,2020-11-15,3.5,3.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401269376,2020,UCLA,Stanford,2020-12-20,6.75,7.5,0.75,verified,,6.0,,sbro_heuristic_only_unvalidated
+401269378,2020,Oregon State,Arizona State,2020-12-20,7.5,8.0,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401269381,2020,Penn State,Illinois,2020-12-19,15.5,16.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401207136,2020,Florida Atlantic,Charlotte,2020-10-03,5.0,5.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401209818,2020,BYU,North Alabama,2020-11-21,50.0,52.0,2.0,verified,,48.5,,sbro_heuristic_only_unvalidated
+401234570,2020,NC State,Wake Forest,2020-09-20,2.0,2.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401237353,2020,Marshall,Eastern Kentucky,2020-09-05,25.75,27.0,1.25,verified,,23.5,,sbro_heuristic_only_unvalidated
+401247299,2020,Michigan State,Rutgers,2020-10-24,9.5,9.5,0.0,verified,,16.0,,sbro_heuristic_only_unvalidated
+401247329,2020,Indiana,Maryland,2020-11-28,11.25,12.0,0.75,verified,,15.0,,sbro_heuristic_only_unvalidated
+401249034,2020,New Mexico,Wyoming,2020-12-06,15.25,16.0,0.75,verified,,18.0,,sbro_heuristic_only_unvalidated
+401249036,2020,New Mexico,Fresno State,2020-12-13,14.5,15.0,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401256199,2020,Northwestern,Auburn,2021-01-01,3.75,3.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401207134,2020,UTSA,Middle Tennessee,2020-09-26,6.0,5.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401235996,2020,Oklahoma,Kansas State,2020-09-26,27.75,27.5,0.25,verified,,28.0,,sbro_heuristic_only_unvalidated
+401236952,2020,Ole Miss,Florida,2020-09-26,14.0,,,single_source,,,,
+401240282,2020,Wake Forest,Campbell,2020-10-02,34.5,34.5,0.0,verified,,33.0,,sbro_heuristic_only_unvalidated
+401212523,2020,Houston,Tulane,2020-10-08,6.5,6.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401234601,2020,Georgia Tech,Louisville,2020-10-09,4.75,4.0,0.75,verified,,5.0,,sbro_heuristic_only_unvalidated
+401234604,2020,Clemson,Miami,2020-10-10,14.25,14.5,0.25,verified,,16.0,,sbro_heuristic_only_unvalidated
+401215308,2020,Troy,Texas State,2020-10-10,7.0,7.0,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401212515,2020,Navy,Temple,2020-10-10,4.0,4.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401237093,2020,Alabama,Texas A&M,2020-10-03,18.25,18.0,0.25,verified,,17.0,,sbro_heuristic_only_unvalidated
+401212531,2020,UCF,Tulsa,2020-10-03,20.75,20.5,0.25,verified,,20.0,,sbro_heuristic_only_unvalidated
+401212486,2020,SMU,Memphis,2020-10-03,2.25,1.5,0.75,verified,,0.0,,sbro_heuristic_only_unvalidated
+401207141,2020,UAB,UTSA,2020-10-03,21.5,21.5,0.0,verified,,19.0,,sbro_heuristic_only_unvalidated
+401207139,2020,North Texas,Southern Miss,2020-10-03,1.5,1.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401237096,2020,Florida,South Carolina,2020-10-03,14.75,15.0,0.25,verified,,18.5,,sbro_heuristic_only_unvalidated
+401237095,2020,Georgia,Auburn,2020-10-03,7.25,7.0,0.25,verified,,7.5,,sbro_heuristic_only_unvalidated
+401237094,2020,Mississippi State,Arkansas,2020-10-03,16.75,17.0,0.25,verified,,17.0,,sbro_heuristic_only_unvalidated
+401237098,2020,Vanderbilt,LSU,2020-10-03,21.25,21.0,0.25,verified,,19.5,,sbro_heuristic_only_unvalidated
+401237099,2020,Tennessee,Missouri,2020-10-03,10.0,10.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401212547,2020,Georgia State,East Carolina,2020-10-03,1.75,1.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401215304,2020,Coastal Carolina,Arkansas State,2020-10-03,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401235998,2020,West Virginia,Baylor,2020-10-03,1.5,1.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401215305,2020,UL Monroe,Georgia Southern,2020-10-03,19.5,,,single_source,,,,
+401234638,2020,Virginia,Duke,2020-09-26,4.0,4.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401207132,2020,South Alabama,UAB,2020-09-24,7.75,7.5,0.25,verified,,5.0,,sbro_heuristic_only_unvalidated
+401237033,2020,Arkansas,Georgia,2020-09-26,28.0,28.0,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401237035,2020,LSU,Mississippi State,2020-09-26,14.5,16.5,2.0,verified,,19.0,,sbro_heuristic_only_unvalidated
+401237034,2020,Auburn,Kentucky,2020-09-26,6.25,6.5,0.25,verified,,9.5,,sbro_heuristic_only_unvalidated
+401235997,2020,Oklahoma State,West Virginia,2020-09-26,6.25,6.5,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401215303,2020,Louisiana,Georgia Southern,2020-09-26,11.5,11.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401234566,2020,Virginia Tech,NC State,2020-09-27,6.0,6.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401235994,2020,TCU,Iowa State,2020-09-26,4.0,4.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401240194,2020,UL Monroe,UTEP,2020-09-26,9.75,,,single_source,,,,
+401235993,2020,Baylor,Kansas,2020-09-26,17.25,17.0,0.25,verified,,18.0,,sbro_heuristic_only_unvalidated
+401236000,2020,Kansas,Oklahoma State,2020-10-03,21.5,21.5,0.0,verified,,20.5,,sbro_heuristic_only_unvalidated
+401234598,2020,Clemson,Virginia,2020-10-04,28.25,28.0,0.25,verified,,29.0,,sbro_heuristic_only_unvalidated
+401236002,2020,Texas,TCU,2020-10-03,10.5,10.0,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401235999,2020,Iowa State,Oklahoma,2020-10-03,7.75,7.5,0.25,verified,,9.0,,sbro_heuristic_only_unvalidated
+401236029,2020,Texas,Iowa State,2020-11-27,1.75,1.0,0.75,verified,,2.0,,sbro_heuristic_only_unvalidated
+401237142,2020,Alabama,Auburn,2020-11-28,24.5,25.0,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401237146,2020,Texas A&M,LSU,2020-11-29,15.5,15.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401237144,2020,Florida,Kentucky,2020-11-28,24.0,24.0,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401237145,2020,South Carolina,Georgia,2020-11-29,22.0,22.0,0.0,verified,,19.5,,sbro_heuristic_only_unvalidated
+401236032,2020,Oklahoma State,Texas Tech,2020-11-28,11.75,12.0,0.25,verified,,11.0,,sbro_heuristic_only_unvalidated
+401212513,2020,East Carolina,SMU,2020-11-28,11.75,12.0,0.25,verified,,11.5,,sbro_heuristic_only_unvalidated
+401215339,2020,Georgia State,Georgia Southern,2020-11-28,2.75,2.5,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+401212476,2020,Cincinnati,South Florida,2020-10-03,22.25,21.5,0.75,verified,,21.0,,sbro_heuristic_only_unvalidated
+401234597,2020,Boston College,North Carolina,2020-10-03,14.5,14.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401246275,2020,BYU,Louisiana Tech,2020-10-03,24.0,24.0,0.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401215338,2020,Texas State,Coastal Carolina,2020-11-28,17.0,16.5,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401215337,2020,Arkansas State,South Alabama,2020-11-28,7.5,7.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401207143,2020,Florida International,Middle Tennessee,2020-10-10,6.75,6.5,0.25,verified,,4.5,,sbro_heuristic_only_unvalidated
+401234607,2020,North Carolina,Virginia Tech,2020-10-10,3.5,3.0,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401236003,2020,Iowa State,Texas Tech,2020-10-10,10.25,11.0,0.75,verified,,12.5,,sbro_heuristic_only_unvalidated
+401212477,2020,South Florida,East Carolina,2020-10-10,5.75,5.5,0.25,verified,,3.5,,sbro_heuristic_only_unvalidated
+401237104,2020,Kentucky,Mississippi State,2020-10-10,3.25,3.5,0.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+401207142,2020,North Texas,Charlotte,2020-10-11,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401234605,2020,Syracuse,Duke,2020-10-10,2.5,2.0,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+401240997,2020,BYU,UTSA,2020-10-10,34.0,34.5,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+401236004,2020,TCU,Kansas State,2020-10-10,10.75,11.0,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401237102,2020,Texas A&M,Florida,2020-10-10,6.0,6.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401234606,2020,Notre Dame,Florida State,2020-10-10,20.75,21.0,0.25,verified,,20.5,,sbro_heuristic_only_unvalidated
+401237101,2020,Auburn,Arkansas,2020-10-10,13.5,13.5,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401234608,2020,Virginia,NC State,2020-10-10,7.0,7.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401207145,2020,Louisiana Tech,UTEP,2020-10-10,14.5,14.5,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401207146,2020,Western Kentucky,Marshall,2020-10-10,6.75,6.5,0.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401207153,2020,UAB,Western Kentucky,2020-10-17,11.25,12.0,0.75,verified,,13.0,,sbro_heuristic_only_unvalidated
+401207157,2020,UTSA,Louisiana Tech,2020-10-25,2.5,2.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401215321,2020,Georgia Southern,South Alabama,2020-10-29,5.25,3.5,1.75,verified,,6.5,,sbro_heuristic_only_unvalidated
+401215318,2020,Georgia State,Coastal Carolina,2020-10-31,3.5,3.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401234632,2020,Notre Dame,Clemson,2020-11-08,5.5,4.5,1.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401251931,2020,Marshall,Massachusetts,2020-11-07,44.5,44.5,0.0,verified,,45.0,,sbro_heuristic_only_unvalidated
+401212491,2020,Tulsa,SMU,2020-11-15,2.0,1.0,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401234647,2020,NC State,Liberty,2020-11-22,4.0,4.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401237137,2020,Auburn,Tennessee,2020-11-22,10.5,10.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401215334,2020,Texas State,Arkansas State,2020-11-21,4.5,4.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401235975,2020,Army,Georgia Southern,2020-11-21,3.5,3.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401247374,2020,Memphis,Stephen F. Austin,2020-11-21,31.0,31.0,0.0,verified,,31.0,,sbro_heuristic_only_unvalidated
+401207181,2020,Western Kentucky,Florida International,2020-11-21,7.0,7.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401215313,2020,South Alabama,Texas State,2020-10-17,4.75,5.0,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401240115,2020,UTSA,Army,2020-10-17,8.5,9.5,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401247335,2020,Purdue,Nebraska,2020-12-05,1.0,1.5,0.5,verified,,1.0,,sbro_heuristic_only_unvalidated
+401247336,2020,Rutgers,Penn State,2020-12-05,13.0,13.5,0.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401215310,2020,Arkansas State,Georgia State,2020-10-15,3.5,3.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401212551,2020,Houston,BYU,2020-10-17,3.0,3.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401234610,2020,Georgia Tech,Clemson,2020-10-17,26.75,26.5,0.25,verified,,27.0,,sbro_heuristic_only_unvalidated
+401234613,2020,Notre Dame,Louisville,2020-10-17,15.75,16.5,0.75,verified,,14.5,,sbro_heuristic_only_unvalidated
+401234612,2020,Florida State,North Carolina,2020-10-17,13.75,13.5,0.25,verified,,8.0,,sbro_heuristic_only_unvalidated
+401237112,2020,Mississippi State,Texas A&M,2020-10-17,4.5,4.0,0.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401234614,2020,Miami,Pittsburgh,2020-10-17,12.0,11.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401237109,2020,South Carolina,Auburn,2020-10-17,2.5,3.0,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401237111,2020,Tennessee,Kentucky,2020-10-17,6.25,6.0,0.25,verified,,6.5,,sbro_heuristic_only_unvalidated
+401234609,2020,Virginia Tech,Boston College,2020-10-18,13.0,13.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401212478,2020,Temple,South Florida,2020-10-17,14.0,13.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401212548,2020,East Carolina,Navy,2020-10-17,3.5,3.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401234611,2020,NC State,Duke,2020-10-17,3.5,3.5,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401237108,2020,Arkansas,Ole Miss,2020-10-17,1.0,1.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401234616,2020,Wake Forest,Virginia,2020-10-17,2.5,1.5,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401207150,2020,Middle Tennessee,North Texas,2020-10-17,3.5,,,single_source,,,,
+401240642,2020,App State,Arkansas State,2020-10-22,13.5,14.0,0.5,verified,,10.5,,sbro_heuristic_only_unvalidated
+401236008,2020,Texas,Baylor,2020-10-24,11.0,11.0,0.0,verified,,10.5,,sbro_heuristic_only_unvalidated
+401207158,2020,Rice,Middle Tennessee,2020-10-24,3.75,4.5,0.75,verified,,1.0,,sbro_heuristic_only_unvalidated
+401212540,2020,UCF,Cincinnati,2020-11-21,4.5,4.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401215333,2020,Coastal Carolina,App State,2020-11-21,3.0,3.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401212483,2020,South Florida,UCF,2020-11-27,25.5,25.0,0.5,verified,,24.0,,sbro_heuristic_only_unvalidated
+401236025,2020,Iowa State,Kansas State,2020-11-21,13.5,13.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401207102,2020,Western Kentucky,Chattanooga,2020-10-24,14.0,14.5,0.5,verified,,13.0,,sbro_heuristic_only_unvalidated
+401240641,2020,Troy,Middle Tennessee,2020-11-21,11.0,11.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401234650,2020,North Carolina,Notre Dame,2020-11-27,4.5,4.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401212519,2020,Temple,East Carolina,2020-11-21,7.0,7.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401238035,2020,UAB,Central Arkansas,2020-09-04,21.0,21.0,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401236054,2020,Oklahoma,Missouri State,2020-09-12,49.25,47.0,2.25,source_variance,,43.5,,sbro_heuristic_only_unvalidated
+401249001,2020,Wyoming,Hawai'i,2020-10-31,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401248999,2020,Air Force,Boise State,2020-10-31,12.0,14.0,2.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401249004,2020,Utah State,San Diego State,2020-11-01,8.25,8.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401249002,2020,UNLV,Nevada,2020-11-01,12.0,13.5,1.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249404,2020,Washington,Oregon State,2020-11-15,13.5,13.5,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401237119,2020,Alabama,Mississippi State,2020-10-31,30.75,29.5,1.25,verified,,32.0,,sbro_heuristic_only_unvalidated
+401236017,2020,Oklahoma State,Texas,2020-10-31,3.5,3.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401237116,2020,Florida,Missouri,2020-10-31,13.25,13.5,0.25,verified,,13.5,,sbro_heuristic_only_unvalidated
+401234628,2020,Virginia,North Carolina,2020-11-01,7.25,8.0,0.75,verified,,6.5,,sbro_heuristic_only_unvalidated
+401212489,2020,SMU,Navy,2020-10-31,13.5,13.0,0.5,verified,,16.5,,sbro_heuristic_only_unvalidated
+401236014,2020,Kansas,Iowa State,2020-10-31,28.0,27.5,0.5,verified,,28.0,,sbro_heuristic_only_unvalidated
+401237123,2020,Vanderbilt,Ole Miss,2020-10-31,17.5,17.5,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401234624,2020,Clemson,Boston College,2020-10-31,29.0,26.5,2.5,source_variance,,31.5,,sbro_heuristic_only_unvalidated
+401234626,2020,Georgia Tech,Notre Dame,2020-10-31,20.0,21.0,1.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401237120,2020,Texas A&M,Arkansas,2020-10-31,12.5,14.5,2.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401236015,2020,West Virginia,Kansas State,2020-10-31,4.0,5.5,1.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401236016,2020,Texas Tech,Oklahoma,2020-11-01,15.25,16.5,1.25,verified,,14.5,,sbro_heuristic_only_unvalidated
+401212517,2020,Tulane,Temple,2020-10-31,5.0,7.0,2.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401212538,2020,Houston,UCF,2020-10-31,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401215320,2020,Arkansas State,Troy,2020-10-31,3.5,3.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401236013,2020,Baylor,TCU,2020-10-31,2.75,2.5,0.25,verified,,0.0,,sbro_heuristic_only_unvalidated
+401237121,2020,Auburn,LSU,2020-10-31,1.5,,,single_source,,0.0,,sbro_heuristic_only_unvalidated
+401215325,2020,Coastal Carolina,South Alabama,2020-11-08,17.0,17.0,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401212480,2020,Memphis,South Florida,2020-11-07,17.75,18.0,0.25,verified,,17.0,,sbro_heuristic_only_unvalidated
+401212525,2020,East Carolina,Tulane,2020-11-07,4.25,3.5,0.75,verified,,2.5,,sbro_heuristic_only_unvalidated
+401215327,2020,Georgia State,UL Monroe,2020-11-07,18.25,19.0,0.75,verified,,19.5,,sbro_heuristic_only_unvalidated
+401215324,2020,Texas State,App State,2020-11-07,19.5,21.0,1.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+401237117,2020,Kentucky,Georgia,2020-10-31,15.75,17.0,1.25,verified,,15.0,,sbro_heuristic_only_unvalidated
+401239887,2020,BYU,Western Kentucky,2020-11-01,29.75,30.5,0.75,verified,,28.5,,sbro_heuristic_only_unvalidated
+401247305,2020,Michigan,Michigan State,2020-10-31,23.25,21.5,1.75,verified,,25.0,,sbro_heuristic_only_unvalidated
+401234627,2020,Louisville,Virginia Tech,2020-10-31,4.0,5.0,1.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401249860,2020,Central Michigan,Ohio,2020-11-05,1.75,3.0,1.25,verified,,0.0,,sbro_heuristic_only_unvalidated
+401253924,2020,Louisiana,Arkansas State,2020-11-07,14.25,14.5,0.25,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249861,2020,Ohio,Akron,2020-11-11,27.25,27.5,0.25,verified,,25.0,,sbro_heuristic_only_unvalidated
+401249402,2020,Colorado,UCLA,2020-11-08,6.5,7.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401249005,2020,Boise State,BYU,2020-11-07,3.75,4.5,0.75,verified,,1.0,,sbro_heuristic_only_unvalidated
+401249006,2020,UNLV,Fresno State,2020-11-07,11.25,12.0,0.75,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249012,2020,Boise State,Colorado State,2020-11-13,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401237125,2020,Georgia,Florida,2020-11-07,3.25,3.0,0.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401236018,2020,Iowa State,Baylor,2020-11-08,14.0,14.0,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401212490,2020,Temple,SMU,2020-11-07,17.5,17.0,0.5,verified,,17.5,,sbro_heuristic_only_unvalidated
+401236022,2020,Texas,West Virginia,2020-11-07,6.5,5.5,1.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401247313,2020,Iowa,Michigan State,2020-11-07,6.0,5.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401234633,2020,Duke,North Carolina,2020-11-07,11.0,11.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401247310,2020,Ohio State,Rutgers,2020-11-08,37.75,37.5,0.25,verified,,37.0,,sbro_heuristic_only_unvalidated
+401237127,2020,South Carolina,Texas A&M,2020-11-08,9.75,9.5,0.25,verified,,8.0,,sbro_heuristic_only_unvalidated
+401247309,2020,Indiana,Michigan,2020-11-07,3.5,4.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401236020,2020,Kansas State,Oklahoma State,2020-11-07,13.25,14.0,0.75,verified,,9.5,,sbro_heuristic_only_unvalidated
+401236019,2020,Oklahoma,Kansas,2020-11-07,38.25,38.5,0.25,verified,,37.0,,sbro_heuristic_only_unvalidated
+401247317,2020,Minnesota,Iowa,2020-11-14,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401240035,2020,Southern Miss,North Alabama,2020-11-07,17.5,17.0,0.5,verified,,17.0,,sbro_heuristic_only_unvalidated
+401207200,2020,Tulane,Army,2020-11-14,3.0,3.0,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401212545,2020,Cincinnati,East Carolina,2020-11-14,27.5,27.5,0.0,verified,,26.0,,sbro_heuristic_only_unvalidated
+401234631,2020,Syracuse,Boston College,2020-11-07,14.25,14.0,0.25,verified,,14.0,,sbro_heuristic_only_unvalidated
+401207174,2020,Florida International,Florida Atlantic,2020-11-14,9.5,9.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401234642,2020,North Carolina,Wake Forest,2020-11-14,12.75,12.5,0.25,verified,,12.0,,sbro_heuristic_only_unvalidated
+401236024,2020,West Virginia,TCU,2020-11-14,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401249008,2020,San Diego State,San José State,2020-11-07,9.75,11.0,1.25,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249397,2020,Oregon State,Washington State,2020-11-08,2.75,3.0,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401247308,2020,Illinois,Minnesota,2020-11-07,7.25,7.5,0.25,verified,,7.5,,sbro_heuristic_only_unvalidated
+401237124,2020,Arkansas,Tennessee,2020-11-08,1.75,2.0,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+401249890,2020,Buffalo,Miami (OH),2020-11-11,7.5,7.5,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401249866,2020,Western Michigan,Toledo,2020-11-12,1.5,1.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401249862,2020,Bowling Green,Kent State,2020-11-11,20.75,20.5,0.25,verified,,17.5,,sbro_heuristic_only_unvalidated
+401249865,2020,Ball State,Eastern Michigan,2020-11-12,8.25,8.0,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401247316,2020,Michigan State,Indiana,2020-11-14,7.5,7.0,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401247346,2020,Penn State,Michigan State,2020-12-12,14.5,15.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401249883,2020,Toledo,Central Michigan,2020-12-12,10.5,10.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401249886,2020,Buffalo,Akron,2020-12-12,33.25,33.0,0.25,verified,,32.0,,sbro_heuristic_only_unvalidated
+401215309,2020,Georgia Southern,App State,2020-12-12,9.25,9.5,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401249035,2020,Wyoming,Boise State,2020-12-12,9.5,8.5,1.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401249884,2020,Eastern Michigan,Northern Illinois,2020-12-12,6.5,6.0,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401249885,2020,Ball State,Western Michigan,2020-12-12,2.0,2.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401237132,2020,Kentucky,Vanderbilt,2020-11-14,17.5,17.5,0.0,verified,,18.0,,sbro_heuristic_only_unvalidated
+401260157,2020,Mississippi State,Auburn,2020-12-13,5.5,6.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401260158,2020,Tennessee,Texas A&M,2020-12-19,13.75,13.5,0.25,verified,,12.5,,sbro_heuristic_only_unvalidated
+401207179,2020,UTSA,UTEP,2020-11-14,6.0,6.0,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401247319,2020,Michigan,Wisconsin,2020-11-15,7.0,7.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401247315,2020,Purdue,Northwestern,2020-11-14,3.5,3.5,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401215332,2020,Louisiana,South Alabama,2020-11-14,14.0,14.5,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401215328,2020,App State,Georgia State,2020-11-14,17.75,17.5,0.25,verified,,16.0,,sbro_heuristic_only_unvalidated
+401212481,2020,Houston,South Florida,2020-11-14,14.5,14.5,0.0,verified,,13.5,,sbro_heuristic_only_unvalidated
+401257934,2020,Virginia,Louisville,2020-11-14,6.0,5.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401212518,2020,UCF,Temple,2020-11-15,28.75,29.0,0.25,verified,,25.5,,sbro_heuristic_only_unvalidated
+401234639,2020,NC State,Florida State,2020-11-15,11.75,11.5,0.25,verified,,6.5,,sbro_heuristic_only_unvalidated
+401237133,2020,Ole Miss,South Carolina,2020-11-15,12.5,,,single_source,,,,
+401249868,2020,Bowling Green,Buffalo,2020-11-18,31.75,31.5,0.25,verified,,31.5,,sbro_heuristic_only_unvalidated
+401236023,2020,Texas Tech,Baylor,2020-11-14,1.0,,,single_source,,1.0,,sbro_heuristic_only_unvalidated
+401247337,2020,Illinois,Iowa,2020-12-05,13.75,13.5,0.25,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249424,2020,Washington,Stanford,2020-12-05,12.0,11.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401248781,2020,North Carolina,Western Carolina,2020-12-05,49.25,50.5,1.25,verified,,,,
+401249870,2020,Ball State,Northern Illinois,2020-11-19,14.5,14.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401249856,2020,Kent State,Eastern Michigan,2020-11-04,5.25,4.5,0.75,verified,,6.5,,sbro_heuristic_only_unvalidated
+401249857,2020,Akron,Western Michigan,2020-11-04,19.25,20.5,1.25,verified,,16.0,,sbro_heuristic_only_unvalidated
+401249889,2020,Miami (OH),Ball State,2020-11-05,1.5,1.0,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401237139,2020,Georgia,Mississippi State,2020-11-22,26.25,25.0,1.25,verified,,24.5,,sbro_heuristic_only_unvalidated
+401249859,2020,Northern Illinois,Buffalo,2020-11-05,12.75,14.0,1.25,verified,,9.5,,sbro_heuristic_only_unvalidated
+401249858,2020,Toledo,Bowling Green,2020-11-05,23.0,24.0,1.0,verified,,19.0,,sbro_heuristic_only_unvalidated
+401249009,2020,Nevada,Utah State,2020-11-06,16.5,17.0,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401234630,2020,NC State,Miami,2020-11-07,10.25,10.5,0.25,verified,,8.5,,sbro_heuristic_only_unvalidated
+401207113,2020,Texas State,UTSA,2020-09-12,6.0,5.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401234559,2020,Miami,UAB,2020-09-11,15.75,14.5,1.25,verified,,14.0,,sbro_heuristic_only_unvalidated
+401236081,2020,App State,Charlotte,2020-09-12,16.75,17.0,0.25,verified,,20.5,,sbro_heuristic_only_unvalidated
+401236038,2020,West Virginia,Eastern Kentucky,2020-09-12,41.0,41.5,0.5,verified,,43.5,,sbro_heuristic_only_unvalidated
+401235700,2020,Army,Middle Tennessee,2020-09-05,3.75,3.5,0.25,verified,,5.5,,sbro_heuristic_only_unvalidated
+401207124,2020,Western Kentucky,Liberty,2020-09-19,14.5,14.5,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401234563,2020,Florida State,Georgia Tech,2020-09-12,13.0,12.5,0.5,verified,,11.0,,sbro_heuristic_only_unvalidated
+401207101,2020,Southern Miss,South Alabama,2020-09-04,12.25,12.5,0.25,verified,,14.0,,sbro_heuristic_only_unvalidated
+401212484,2020,Texas State,SMU,2020-09-05,25.0,25.0,0.0,verified,,21.0,,sbro_heuristic_only_unvalidated
+401236053,2020,Kansas State,Arkansas State,2020-09-12,15.0,14.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401234568,2020,Georgia Tech,UCF,2020-09-19,9.5,9.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401239973,2020,South Alabama,Tulane,2020-09-12,11.0,11.0,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401236039,2020,Texas Tech,Houston Christian,2020-09-13,40.0,40.0,0.0,verified,,39.0,,sbro_heuristic_only_unvalidated
+401207098,2020,North Texas,Houston Christian,2020-09-05,23.0,23.0,0.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+401215298,2020,Georgia Southern,Campbell,2020-09-12,29.25,29.0,0.25,verified,,34.5,,sbro_heuristic_only_unvalidated
+401236939,2020,Marshall,App State,2020-09-19,6.0,5.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401239884,2020,UTEP,Stephen F. Austin,2020-09-06,4.0,4.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401234562,2020,Wake Forest,Clemson,2020-09-12,35.25,34.5,0.75,verified,,31.0,,sbro_heuristic_only_unvalidated
+401212553,2020,Memphis,Arkansas State,2020-09-06,18.5,18.5,0.0,verified,,20.5,,sbro_heuristic_only_unvalidated
+401236222,2020,Texas,UTEP,2020-09-13,44.5,44.5,0.0,verified,,42.0,,sbro_heuristic_only_unvalidated
+401236041,2020,Oklahoma State,Tulsa,2020-09-19,24.25,24.0,0.25,verified,,20.5,,sbro_heuristic_only_unvalidated
+401234564,2020,Louisville,Western Kentucky,2020-09-13,13.25,13.0,0.25,verified,,10.5,,sbro_heuristic_only_unvalidated
+401240113,2020,Army,UL Monroe,2020-09-12,24.75,24.0,0.75,verified,,16.0,,sbro_heuristic_only_unvalidated
+401234574,2020,Notre Dame,Duke,2020-09-12,22.0,21.5,0.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+401241282,2020,Notre Dame,South Florida,2020-09-19,23.0,23.0,0.0,verified,,24.5,,sbro_heuristic_only_unvalidated
+401207106,2020,Southern Miss,Louisiana Tech,2020-09-19,7.0,7.5,0.5,verified,,3.5,,sbro_heuristic_only_unvalidated
+401234634,2020,Florida State,Pittsburgh,2020-11-07,2.0,1.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401237126,2020,Mississippi State,Vanderbilt,2020-11-07,18.75,18.0,0.75,verified,,18.5,,sbro_heuristic_only_unvalidated
+401236021,2020,TCU,Texas Tech,2020-11-07,9.5,9.5,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401207169,2020,Florida Atlantic,Western Kentucky,2020-11-07,7.0,6.5,0.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401249399,2020,Oregon,Stanford,2020-11-08,11.0,11.0,0.0,verified,,11.5,,sbro_heuristic_only_unvalidated
+401212522,2020,Tulane,Navy,2020-09-19,5.25,5.5,0.25,verified,,8.0,,sbro_heuristic_only_unvalidated
+401240640,2020,Middle Tennessee,Troy,2020-09-19,2.25,,,single_source,,,,
+401207120,2020,North Texas,SMU,2020-09-19,14.75,15.0,0.25,verified,,14.5,,sbro_heuristic_only_unvalidated
+401215302,2020,UL Monroe,Texas State,2020-09-19,3.25,,,single_source,,,,
+401234569,2020,Louisville,Miami,2020-09-19,2.5,2.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401234636,2020,Virginia Tech,Liberty,2020-11-07,15.75,17.0,1.25,verified,,16.5,,sbro_heuristic_only_unvalidated
+401247307,2020,Northwestern,Nebraska,2020-11-07,3.75,4.0,0.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401215326,2020,Georgia Southern,Troy,2020-11-07,3.0,3.0,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401247312,2020,Penn State,Maryland,2020-11-07,26.25,27.5,1.25,verified,,24.5,,sbro_heuristic_only_unvalidated
+401236223,2020,BYU,Troy,2020-09-27,14.5,14.5,0.0,verified,,15.5,,sbro_heuristic_only_unvalidated
+401234734,2020,Southern Miss,Tulane,2020-09-26,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401236951,2020,Missouri,Alabama,2020-09-26,28.75,29.0,0.25,verified,,27.0,,sbro_heuristic_only_unvalidated
+401235995,2020,Texas Tech,Texas,2020-09-26,17.75,17.5,0.25,verified,,15.5,,sbro_heuristic_only_unvalidated
+401212536,2020,East Carolina,UCF,2020-09-26,28.25,27.5,0.75,verified,,25.5,,sbro_heuristic_only_unvalidated
+401237036,2020,South Carolina,Tennessee,2020-09-26,4.5,4.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401237037,2020,Texas A&M,Vanderbilt,2020-09-26,31.25,31.0,0.25,verified,,28.5,,sbro_heuristic_only_unvalidated
+401234593,2020,Miami,Florida State,2020-09-26,12.25,11.5,0.75,verified,,11.5,,sbro_heuristic_only_unvalidated
+401207138,2020,Middle Tennessee,Western Kentucky,2020-10-03,7.0,,,single_source,,,,
+401207126,2020,Liberty,Florida International,2020-09-26,9.75,9.0,0.75,verified,,6.5,,sbro_heuristic_only_unvalidated
+401236001,2020,Kansas State,Texas Tech,2020-10-03,1.0,,,single_source,,3.5,,sbro_heuristic_only_unvalidated
+401234599,2020,Duke,Virginia Tech,2020-10-03,12.5,11.0,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401212557,2020,Air Force,Navy,2020-10-03,6.5,6.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401237097,2020,Kentucky,Ole Miss,2020-10-03,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401207185,2020,Southern Miss,UTSA,2020-11-21,9.0,9.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401212526,2020,Tulsa,Tulane,2020-11-20,5.0,5.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401237138,2020,Vanderbilt,Florida,2020-11-21,31.25,31.5,0.25,verified,,30.5,,sbro_heuristic_only_unvalidated
+401247327,2020,Penn State,Iowa,2020-11-21,1.0,,,single_source,,1.5,,sbro_heuristic_only_unvalidated
+401247324,2020,Rutgers,Michigan,2020-11-22,12.0,12.5,0.5,verified,,8.0,,sbro_heuristic_only_unvalidated
+401234643,2020,Louisville,Syracuse,2020-11-21,19.5,19.5,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401215335,2020,South Alabama,Georgia State,2020-11-21,3.75,3.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401207184,2020,North Texas,Rice,2020-11-21,2.5,2.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401237141,2020,South Carolina,Missouri,2020-11-22,4.75,5.5,0.75,verified,,4.5,,sbro_heuristic_only_unvalidated
+401249019,2020,Nevada,San Diego State,2020-11-21,1.5,1.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401236005,2020,Oklahoma,Texas,2020-10-10,3.0,2.5,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401234603,2020,Boston College,Pittsburgh,2020-10-10,6.25,6.0,0.25,verified,,4.5,,sbro_heuristic_only_unvalidated
+401237103,2020,Georgia,Tennessee,2020-10-10,12.0,12.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401237105,2020,LSU,Missouri,2020-10-10,17.25,14.0,3.25,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+401207215,2020,Liberty,UL Monroe,2020-10-10,17.25,18.0,0.75,verified,,21.0,,sbro_heuristic_only_unvalidated
+401237106,2020,Vanderbilt,South Carolina,2020-10-10,14.0,14.0,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401249864,2020,Northern Illinois,Central Michigan,2020-11-12,6.25,6.5,0.25,verified,,6.0,,sbro_heuristic_only_unvalidated
+401237100,2020,Ole Miss,Alabama,2020-10-10,24.0,,,single_source,,,,
+401247320,2020,Nebraska,Penn State,2020-11-14,2.75,2.5,0.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+401207176,2020,Marshall,Middle Tennessee,2020-11-14,23.75,24.0,0.25,verified,,23.5,,sbro_heuristic_only_unvalidated
+401249403,2020,Arizona,USC,2020-11-14,15.25,14.5,0.75,verified,,13.0,,sbro_heuristic_only_unvalidated
+401249406,2020,Stanford,Colorado,2020-11-14,9.5,9.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401234641,2020,Virginia Tech,Miami,2020-11-14,2.0,2.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401250215,2020,Georgia Southern,Massachusetts,2020-10-17,30.75,30.5,0.25,verified,,28.0,,sbro_heuristic_only_unvalidated
+401239872,2020,Troy,Eastern Kentucky,2020-10-17,29.25,30.5,1.25,verified,,30.0,,sbro_heuristic_only_unvalidated
+401207178,2020,Western Kentucky,Southern Miss,2020-11-14,7.5,8.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401234648,2020,Pittsburgh,Virginia Tech,2020-11-21,6.5,6.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401215331,2020,Georgia Southern,Texas State,2020-11-14,11.75,11.5,0.25,verified,,10.0,,sbro_heuristic_only_unvalidated
+401212537,2020,Memphis,UCF,2020-10-17,3.0,2.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401249015,2020,New Mexico,Nevada,2020-11-14,17.5,17.0,0.5,verified,,14.0,,sbro_heuristic_only_unvalidated
+401249017,2020,Hawai'i,Boise State,2020-11-22,13.75,13.5,0.25,verified,,13.0,,sbro_heuristic_only_unvalidated
+401212488,2020,SMU,Cincinnati,2020-10-25,0.5,1.0,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+401236007,2020,West Virginia,Kansas,2020-10-17,21.25,21.0,0.25,verified,,23.0,,sbro_heuristic_only_unvalidated
+401212552,2020,Navy,Houston,2020-10-24,15.5,15.0,0.5,verified,,12.0,,sbro_heuristic_only_unvalidated
+401247295,2020,Indiana,Penn State,2020-10-24,6.75,6.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401236009,2020,Oklahoma State,Iowa State,2020-10-24,2.75,2.5,0.25,verified,,3.5,,sbro_heuristic_only_unvalidated
+401236010,2020,Kansas State,Kansas,2020-10-24,19.25,19.5,0.25,verified,,19.0,,sbro_heuristic_only_unvalidated
+401234618,2020,Clemson,Syracuse,2020-10-24,47.75,47.0,0.75,verified,,44.0,,sbro_heuristic_only_unvalidated
+401237115,2020,Ole Miss,Auburn,2020-10-24,3.5,,,single_source,,,,
+401247293,2020,Ohio State,Nebraska,2020-10-24,28.0,27.5,0.5,verified,,25.5,,sbro_heuristic_only_unvalidated
+401248998,2020,Nevada,Wyoming,2020-10-24,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401207149,2020,Louisiana Tech,Marshall,2020-10-17,12.0,12.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401237122,2020,Missouri,Kentucky,2020-10-24,3.25,3.0,0.25,verified,,6.0,,sbro_heuristic_only_unvalidated
+401237118,2020,LSU,South Carolina,2020-10-24,4.5,4.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401212524,2020,UCF,Tulane,2020-10-24,21.0,21.0,0.0,verified,,18.5,,sbro_heuristic_only_unvalidated
+401207156,2020,Marshall,Florida Atlantic,2020-10-24,19.25,19.5,0.25,verified,,15.0,,sbro_heuristic_only_unvalidated
+401237107,2020,Alabama,Georgia,2020-10-18,6.0,5.5,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401207154,2020,Charlotte,UTEP,2020-10-24,17.5,17.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401212516,2020,Memphis,Temple,2020-10-24,14.0,14.0,0.0,verified,,13.0,,sbro_heuristic_only_unvalidated
+401248996,2020,San Diego State,UNLV,2020-10-25,14.0,14.0,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401248993,2020,San José State,Air Force,2020-10-25,7.5,7.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401248994,2020,Fresno State,Hawai'i,2020-10-24,3.0,3.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401215316,2020,Coastal Carolina,Georgia Southern,2020-10-24,1.25,,,single_source,,4.5,,sbro_heuristic_only_unvalidated
+401240998,2020,BYU,Texas State,2020-10-25,30.25,29.5,0.75,verified,,30.0,,sbro_heuristic_only_unvalidated
+401247294,2020,Minnesota,Michigan,2020-10-24,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401207160,2020,Liberty,Southern Miss,2020-10-24,14.25,15.0,0.75,verified,,10.5,,sbro_heuristic_only_unvalidated
+401250784,2020,South Alabama,UL Monroe,2020-10-24,14.5,14.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401237114,2020,Tennessee,Alabama,2020-10-24,22.25,22.0,0.25,verified,,18.5,,sbro_heuristic_only_unvalidated
+401212479,2020,South Florida,Tulsa,2020-10-23,12.0,12.0,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401236011,2020,TCU,Oklahoma,2020-10-24,6.75,6.5,0.25,verified,,6.0,,sbro_heuristic_only_unvalidated
+401234621,2020,North Carolina,NC State,2020-10-24,15.0,15.5,0.5,verified,,14.5,,sbro_heuristic_only_unvalidated
+401234622,2020,Pittsburgh,Notre Dame,2020-10-24,10.0,10.0,0.0,verified,,9.5,,sbro_heuristic_only_unvalidated
+401238036,2020,UAB,Louisiana,2020-10-24,2.5,2.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401236012,2020,Texas Tech,West Virginia,2020-10-24,2.75,2.5,0.25,verified,,2.5,,sbro_heuristic_only_unvalidated
+401234619,2020,Louisville,Florida State,2020-10-24,5.25,5.5,0.25,verified,,6.5,,sbro_heuristic_only_unvalidated
+401215317,2020,Troy,Georgia State,2020-10-24,2.5,2.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401247296,2020,Purdue,Iowa,2020-10-24,3.5,3.0,0.5,verified,,4.0,,sbro_heuristic_only_unvalidated
+401234623,2020,Wake Forest,Virginia Tech,2020-10-24,10.75,10.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401234620,2020,Miami,Virginia,2020-10-25,13.75,13.5,0.25,verified,,11.0,,sbro_heuristic_only_unvalidated
+401247298,2020,Northwestern,Maryland,2020-10-24,13.0,13.0,0.0,verified,,9.0,,sbro_heuristic_only_unvalidated
+401207166,2020,Southern Miss,Rice,2020-10-31,2.0,,,single_source,,3.0,,sbro_heuristic_only_unvalidated
+401247300,2020,Rutgers,Indiana,2020-10-31,11.75,11.5,0.25,verified,,12.0,,sbro_heuristic_only_unvalidated
+401212533,2020,Tulsa,East Carolina,2020-10-31,17.5,17.0,0.5,verified,,18.5,,sbro_heuristic_only_unvalidated
+401247302,2020,Maryland,Minnesota,2020-10-30,19.5,18.0,1.5,verified,,20.0,,sbro_heuristic_only_unvalidated
+401249000,2020,Fresno State,Colorado State,2020-10-30,2.0,2.0,0.0,verified,,0.0,,sbro_heuristic_only_unvalidated
+401247301,2020,Illinois,Purdue,2020-10-31,8.25,9.5,1.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401215319,2020,UL Monroe,App State,2020-10-31,30.0,,,single_source,,,,
+401215322,2020,Texas State,Louisiana,2020-11-01,16.75,16.5,0.25,verified,,17.0,,sbro_heuristic_only_unvalidated
+401247303,2020,Iowa,Northwestern,2020-10-31,2.0,1.0,1.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401247306,2020,Penn State,Ohio State,2020-10-31,11.5,10.0,1.5,verified,,10.0,,sbro_heuristic_only_unvalidated
+401207163,2020,Louisiana Tech,UAB,2020-10-31,11.5,13.0,1.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401212543,2020,Cincinnati,Memphis,2020-10-31,6.75,7.0,0.25,verified,,6.5,,sbro_heuristic_only_unvalidated
+401234652,2020,Georgia Tech,Duke,2020-11-29,2.5,2.0,0.5,verified,,0.0,,sbro_heuristic_only_unvalidated
+401249877,2020,Buffalo,Kent State,2020-11-28,7.25,7.0,0.25,verified,,9.0,,sbro_heuristic_only_unvalidated
+401249024,2020,Hawai'i,Nevada,2020-11-29,7.0,7.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401251926,2020,Liberty,Massachusetts,2020-11-27,35.75,35.5,0.25,verified,,40.0,,sbro_heuristic_only_unvalidated
+401249418,2020,Oregon State,Oregon,2020-11-28,13.25,13.0,0.25,verified,,13.5,,sbro_heuristic_only_unvalidated
+401237147,2020,Ole Miss,Mississippi State,2020-11-28,9.5,,,single_source,,,,
+401249417,2020,California,Stanford,2020-11-27,1.75,2.0,0.25,verified,,3.0,,sbro_heuristic_only_unvalidated
+401247332,2020,Iowa,Nebraska,2020-11-27,12.75,12.0,0.75,verified,,14.0,,sbro_heuristic_only_unvalidated
+401249025,2020,Utah State,New Mexico,2020-11-27,6.0,6.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401234651,2020,Clemson,Pittsburgh,2020-11-28,24.0,24.0,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401237143,2020,Missouri,Vanderbilt,2020-11-28,8.0,14.0,6.0,source_variance,,14.0,,sbro_heuristic_only_unvalidated
+401247328,2020,Purdue,Rutgers,2020-11-28,12.5,12.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401264080,2020,Navy,Memphis,2020-11-29,13.5,13.5,0.0,verified,,11.0,,sbro_heuristic_only_unvalidated
+401249874,2020,Eastern Michigan,Central Michigan,2020-11-27,6.5,6.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401249876,2020,Ohio,Bowling Green,2020-11-28,22.75,22.5,0.25,verified,,26.0,,sbro_heuristic_only_unvalidated
+401265458,2020,Washington,Utah,2020-11-29,9.25,7.5,1.75,verified,,7.0,,sbro_heuristic_only_unvalidated
+401215340,2020,UL Monroe,Louisiana,2020-11-28,29.25,,,single_source,,,,
+401249028,2020,UNLV,Wyoming,2020-11-27,16.5,16.5,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401236028,2020,Baylor,Kansas State,2020-11-29,5.5,6.0,0.5,verified,,5.0,,sbro_heuristic_only_unvalidated
+401207191,2020,UTSA,North Texas,2020-11-28,1.25,1.0,0.25,verified,,4.5,,sbro_heuristic_only_unvalidated
+401265734,2020,Colorado,San Diego State,2020-11-28,5.5,6.0,0.5,verified,,2.5,,sbro_heuristic_only_unvalidated
+401215336,2020,App State,Troy,2020-11-28,14.0,14.0,0.0,verified,,16.5,,sbro_heuristic_only_unvalidated
+401247330,2020,Michigan State,Northwestern,2020-11-28,13.75,13.5,0.25,verified,,11.0,,sbro_heuristic_only_unvalidated
+401249427,2020,USC,Washington State,2020-12-07,11.0,12.5,1.5,verified,,11.5,,sbro_heuristic_only_unvalidated
+401234657,2020,Virginia Tech,Clemson,2020-12-06,23.25,23.5,0.25,verified,,22.0,,sbro_heuristic_only_unvalidated
+401234656,2020,Virginia,Boston College,2020-12-05,6.0,6.0,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401249029,2020,Utah State,Air Force,2020-12-04,13.5,13.5,0.0,verified,,10.0,,sbro_heuristic_only_unvalidated
+401265703,2020,North Texas,Louisiana Tech,2020-12-03,1.0,1.0,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401252117,2020,App State,Louisiana,2020-12-05,3.0,3.0,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401265818,2020,Missouri,Arkansas,2020-12-05,2.5,2.5,0.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401236035,2020,Texas Tech,Kansas,2020-12-05,26.5,26.5,0.0,verified,,27.0,,sbro_heuristic_only_unvalidated
+401257812,2020,Marshall,Rice,2020-12-05,23.5,24.5,1.0,verified,,23.5,,sbro_heuristic_only_unvalidated
+401236036,2020,Kansas State,Texas,2020-12-05,7.25,7.0,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401237514,2020,Coastal Carolina,BYU,2020-12-05,10.75,10.5,0.25,verified,,10.0,,sbro_heuristic_only_unvalidated
+401266134,2020,Duke,Miami,2020-12-06,14.75,14.5,0.25,verified,,14.5,,sbro_heuristic_only_unvalidated
+401234662,2020,Notre Dame,Syracuse,2020-12-05,34.0,33.5,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+401236033,2020,Oklahoma,Baylor,2020-12-06,23.75,23.0,0.75,verified,,21.5,,sbro_heuristic_only_unvalidated
+401249422,2020,Utah,Oregon State,2020-12-06,13.75,14.0,0.25,verified,,11.5,,sbro_heuristic_only_unvalidated
+401262493,2020,Arkansas State,UL Monroe,2020-12-05,20.0,20.5,0.5,verified,,21.0,,sbro_heuristic_only_unvalidated
+401265817,2020,LSU,Alabama,2020-12-06,29.0,29.5,0.5,verified,,29.0,,sbro_heuristic_only_unvalidated
+401237151,2020,Tennessee,Florida,2020-12-05,18.25,18.0,0.25,verified,,16.5,,sbro_heuristic_only_unvalidated
+401236034,2020,Iowa State,West Virginia,2020-12-05,6.0,6.0,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401266789,2020,Charlotte,Western Kentucky,2020-12-06,2.5,3.0,0.5,verified,,1.5,,sbro_heuristic_only_unvalidated
+401247338,2020,Wisconsin,Indiana,2020-12-05,13.25,13.0,0.25,verified,,14.0,,sbro_heuristic_only_unvalidated
+401264082,2020,Tulane,Memphis,2020-12-05,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401264083,2020,Navy,Tulsa,2020-12-05,12.0,12.0,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401261675,2020,Georgia Southern,Florida Atlantic,2020-12-05,2.5,1.5,1.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401234659,2020,NC State,Georgia Tech,2020-12-05,7.0,6.5,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401249032,2020,Nevada,Fresno State,2020-12-06,6.5,6.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401236037,2020,TCU,Oklahoma State,2020-12-05,2.5,2.5,0.0,verified,,1.0,,sbro_heuristic_only_unvalidated
+401247340,2020,Michigan State,Ohio State,2020-12-05,22.5,22.5,0.0,verified,,24.0,,sbro_heuristic_only_unvalidated
+401237150,2020,Auburn,Texas A&M,2020-12-05,6.0,5.5,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401249423,2020,California,Oregon,2020-12-06,9.0,9.5,0.5,verified,,8.5,,sbro_heuristic_only_unvalidated
+401237153,2020,Kentucky,South Carolina,2020-12-06,11.75,11.5,0.25,verified,,11.5,,sbro_heuristic_only_unvalidated
+401267164,2020,Arkansas,Alabama,2020-12-12,29.75,29.5,0.25,verified,,31.0,,sbro_heuristic_only_unvalidated
+401266694,2020,Florida State,Duke,2020-12-12,3.0,2.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401247342,2020,Maryland,Rutgers,2020-12-12,3.0,3.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401249431,2020,UCLA,USC,2020-12-13,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401250713,2020,Baylor,Oklahoma State,2020-12-12,6.25,6.5,0.25,verified,,5.0,,sbro_heuristic_only_unvalidated
+401249435,2020,BYU,San Diego State,2020-12-13,16.75,16.0,0.75,verified,,14.0,,sbro_heuristic_only_unvalidated
+401249037,2020,San José State,Nevada,2020-12-12,2.5,1.5,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401247344,2020,Northwestern,Illinois,2020-12-12,13.25,12.5,0.75,verified,,13.0,,sbro_heuristic_only_unvalidated
+401247347,2020,Iowa,Wisconsin,2020-12-12,1.5,2.0,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401264084,2020,Memphis,Houston,2020-12-12,6.5,6.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401234572,2020,Virginia Tech,Virginia,2020-12-13,3.0,3.0,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401257815,2020,Rice,UAB,2020-12-12,7.0,7.0,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401266711,2020,TCU,Louisiana Tech,2020-12-13,21.5,21.0,0.5,verified,,21.0,,sbro_heuristic_only_unvalidated
+401257813,2020,Southern Miss,Florida Atlantic,2020-12-10,9.5,9.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401266696,2020,Louisville,Wake Forest,2020-12-12,2.0,1.0,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401251100,2020,Florida,LSU,2020-12-13,23.25,22.5,0.75,verified,,24.0,,sbro_heuristic_only_unvalidated
+401207203,2020,Army,Navy,2020-12-12,7.5,7.5,0.0,verified,,5.5,,sbro_heuristic_only_unvalidated
+401249432,2020,Oregon State,Stanford,2020-12-13,2.5,2.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401261245,2020,Georgia Tech,Pittsburgh,2020-12-11,7.5,7.5,0.0,verified,,6.5,,sbro_heuristic_only_unvalidated
+401267161,2020,Missouri,Georgia,2020-12-12,14.0,14.0,0.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401267163,2020,Vanderbilt,Tennessee,2020-12-12,15.0,15.0,0.0,verified,,15.0,,sbro_heuristic_only_unvalidated
+401234661,2020,Miami,North Carolina,2020-12-12,3.0,3.5,0.5,verified,,4.5,,sbro_heuristic_only_unvalidated
+401247349,2020,Ohio State,Northwestern,2020-12-19,18.75,16.5,2.25,source_variance,,19.5,,sbro_heuristic_only_unvalidated
+401262060,2020,Iowa State,Oklahoma,2020-12-19,5.5,5.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401269375,2020,Utah,Washington State,2020-12-19,11.0,11.5,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401265699,2020,Army,Air Force,2020-12-19,2.75,2.5,0.25,verified,,1.0,,sbro_heuristic_only_unvalidated
+401267165,2020,LSU,Ole Miss,2020-12-19,0.5,1.0,0.5,verified,,2.0,,sbro_heuristic_only_unvalidated
+401267166,2020,Mississippi State,Missouri,2020-12-19,1.25,1.5,0.25,verified,,2.0,,sbro_heuristic_only_unvalidated
+401256001,2020,Notre Dame,Clemson,2020-12-19,10.5,10.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401269384,2020,Wisconsin,Minnesota,2020-12-19,11.25,11.0,0.25,verified,,13.5,,sbro_heuristic_only_unvalidated
+401249043,2020,San José State,Boise State,2020-12-19,6.5,6.5,0.0,verified,,8.0,,sbro_heuristic_only_unvalidated
+401237074,2020,Florida,Alabama,2020-12-20,16.75,16.0,0.75,verified,,14.0,,sbro_heuristic_only_unvalidated
+401264085,2020,Cincinnati,Tulsa,2020-12-20,13.75,13.5,0.25,verified,,12.5,,sbro_heuristic_only_unvalidated
+401256150,2020,Miami,Oklahoma State,2020-12-29,1.75,,,single_source,,3.5,,sbro_heuristic_only_unvalidated
+401256151,2020,Colorado,Texas,2020-12-30,9.0,8.0,1.0,verified,,12.0,,sbro_heuristic_only_unvalidated
+401256152,2020,Wisconsin,Wake Forest,2020-12-30,8.5,10.5,2.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401256194,2020,Oklahoma,Florida,2020-12-31,5.75,7.5,1.75,verified,,2.5,,sbro_heuristic_only_unvalidated
+401256196,2020,Mississippi State,Tulsa,2020-12-31,2.0,1.0,1.0,verified,,2.5,,sbro_heuristic_only_unvalidated
+401268773,2020,San José State,Ball State,2020-12-31,9.25,8.0,1.25,verified,,4.0,,sbro_heuristic_only_unvalidated
+401256108,2020,Georgia,Cincinnati,2021-01-01,8.25,7.5,0.75,verified,,7.5,,sbro_heuristic_only_unvalidated
+401240152,2020,Alabama,Notre Dame,2021-01-01,19.25,18.5,0.75,verified,,19.5,,sbro_heuristic_only_unvalidated
+401240173,2020,Clemson,Ohio State,2021-01-02,7.25,7.5,0.25,verified,,7.0,,sbro_heuristic_only_unvalidated
+401256109,2020,Kentucky,NC State,2021-01-02,3.0,3.0,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401256110,2020,Indiana,Ole Miss,2021-01-02,7.0,7.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401256111,2020,Iowa State,Oregon,2021-01-02,4.5,4.5,0.0,verified,,3.0,,sbro_heuristic_only_unvalidated
+401256112,2020,North Carolina,Texas A&M,2021-01-03,8.5,10.0,1.5,verified,,5.5,,sbro_heuristic_only_unvalidated
+401262494,2020,South Alabama,Troy,2020-12-05,4.0,4.0,0.0,verified,,4.5,,sbro_heuristic_only_unvalidated
+401257816,2020,UTEP,North Texas,2020-12-11,10.0,10.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401259671,2020,Troy,Coastal Carolina,2020-12-12,12.5,12.5,0.0,verified,,14.0,,sbro_heuristic_only_unvalidated
+401237513,2020,Liberty,North Alabama,2020-10-03,33.0,32.5,0.5,verified,,33.0,,sbro_heuristic_only_unvalidated
+401240040,2020,Army,Abilene Christian,2020-10-03,31.0,31.0,0.0,verified,,30.0,,sbro_heuristic_only_unvalidated
+401238034,2020,Florida State,Jacksonville State,2020-10-03,27.0,27.0,0.0,verified,,27.0,,sbro_heuristic_only_unvalidated
+401240126,2020,Coastal Carolina,Campbell,2020-09-18,27.5,28.0,0.5,verified,,28.5,,sbro_heuristic_only_unvalidated
+401237492,2020,Clemson,The Citadel,2020-09-19,50.5,50.5,0.0,verified,,45.0,,sbro_heuristic_only_unvalidated
+401215301,2020,Georgia State,Louisiana,2020-09-19,17.0,17.0,0.0,verified,,17.0,,sbro_heuristic_only_unvalidated
+401240041,2020,UTSA,Stephen F. Austin,2020-09-19,18.0,17.0,1.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401232157,2020,Louisiana Tech,Houston Christian,2020-09-26,23.5,23.5,0.0,verified,,23.0,,sbro_heuristic_only_unvalidated
+401240114,2020,Army,The Citadel,2020-10-10,30.5,30.5,0.0,verified,,31.0,,sbro_heuristic_only_unvalidated
+401246425,2020,Arkansas State,Central Arkansas,2020-10-10,15.5,15.5,0.0,verified,,14.5,,sbro_heuristic_only_unvalidated
+401250783,2020,Florida International,Jacksonville State,2020-10-23,10.5,10.0,0.5,verified,,9.5,,sbro_heuristic_only_unvalidated
+401240174,2020,Alabama,Ohio State,2021-01-12,9.5,9.5,0.0,verified,,7.5,,sbro_heuristic_only_unvalidated
+401215311,2020,Louisiana,Coastal Carolina,2020-10-14,9.5,9.5,0.0,verified,,7.0,,sbro_heuristic_only_unvalidated
+401239885,2020,UTEP,Abilene Christian,2020-09-20,8.5,8.5,0.0,verified,,4.0,,sbro_heuristic_only_unvalidated
+401212485,2020,SMU,Stephen F. Austin,2020-09-26,38.5,39.0,0.5,verified,,35.0,,sbro_heuristic_only_unvalidated
+401207162,2020,Florida Atlantic,UTSA,2020-10-31,5.0,5.5,0.5,verified,,6.5,,sbro_heuristic_only_unvalidated
+401207218,2020,Liberty,Western Carolina,2020-11-14,39.0,39.0,0.0,verified,,35.5,,sbro_heuristic_only_unvalidated
+401256136,2020,Nevada,Tulane,2020-12-22,1.5,1.0,0.5,verified,,6.0,,sbro_heuristic_only_unvalidated
+401256140,2020,Houston,Hawai'i,2020-12-24,7.0,7.5,0.5,verified,,7.5,,sbro_heuristic_only_unvalidated
+401256141,2020,Buffalo,Marshall,2020-12-25,5.5,5.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401256143,2020,Coastal Carolina,Liberty,2020-12-27,6.5,6.5,0.0,verified,,6.0,,sbro_heuristic_only_unvalidated
+401256144,2020,UTSA,Louisiana,2020-12-26,14.0,14.0,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401256145,2020,Georgia State,Western Kentucky,2020-12-26,3.5,3.5,0.0,verified,,3.5,,sbro_heuristic_only_unvalidated
+401249854,2020,Buffalo,Ball State,2020-12-19,12.5,12.5,0.0,verified,,12.5,,sbro_heuristic_only_unvalidated
+401249434,2020,USC,Oregon,2020-12-19,3.0,3.0,0.0,verified,,1.5,,sbro_heuristic_only_unvalidated
+401269382,2020,Rutgers,Nebraska,2020-12-19,6.5,6.5,0.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401240101,2020,Marshall,UAB,2020-12-19,4.5,5.0,0.5,verified,,7.0,,sbro_heuristic_only_unvalidated
+401247325,2020,Minnesota,Purdue,2020-11-21,2.5,2.5,0.0,verified,,2.0,,sbro_heuristic_only_unvalidated
+401256135,2020,North Texas,App State,2020-12-21,21.5,22.5,1.0,verified,,20.5,,sbro_heuristic_only_unvalidated
+401248275,2020,Virginia,Abilene Christian,2020-11-21,38.5,38.5,0.0,verified,,40.0,,sbro_heuristic_only_unvalidated
+401256137,2020,BYU,UCF,2020-12-23,6.0,5.0,1.0,verified,,5.0,,sbro_heuristic_only_unvalidated
+401256138,2020,Georgia Southern,Louisiana Tech,2020-12-23,7.0,7.5,0.5,verified,,3.0,,sbro_heuristic_only_unvalidated
+401256139,2020,Florida Atlantic,Memphis,2020-12-24,9.0,9.0,0.0,verified,,8.5,,sbro_heuristic_only_unvalidated
+401256197,2020,Army,West Virginia,2020-12-31,9.5,10.0,0.5,verified,,9.0,,sbro_heuristic_only_unvalidated
+401240116,2020,Army,Mercer,2020-10-24,,30.0,,single_source,,30.0,,sbro_heuristic_only_unvalidated
+401279078,2020,New Mexico State,Utah Tech,2021-03-07,,2.5,,single_source,,7.5,,sbro_heuristic_only_unvalidated
+401302348,2020,New Mexico State,Tarleton State,2021-02-21,,5.0,,single_source,,0.0,,sbro_heuristic_only_unvalidated

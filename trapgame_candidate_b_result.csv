@@ -1,0 +1,2 @@
+signal,n,wins,losses,pushes,ats_pct,units,roi_pct,stable_seasons_of_8,survives_6_2,reason
+CandidateB_TrapGame,873,415,438,20,48.65,-60.35,-7.08,3,False,ATS% 48.7 below 52.4% floor
