@@ -1,0 +1,43 @@
+COLLEGE FOOTBALL EDGE LAB — PARTIAL CHAT HISTORY NOTES
+Created 2026-10-18.
+Canonical references: CFB_Edge_Lab_Project_Spec.md v1.9 and CFB_Edge_Lab_Status_Report.md. This note is not a replacement for those documents.
+
+LOCKED PRINCIPLES
+- Goal: identify pre-game FBS ATS mispricing that generalizes to future seasons, not maximize historical fit.
+- Protect against overfitting and lookahead bias.
+- Changes to locked spec sections require a version bump and explicit changelog entry.
+- Phase 1A is marked closed in the spec. Later phases must follow its source hierarchy, season split, feature definitions, signal survival criteria, and unit accounting.
+- Backtest unit accounting uses a fixed -110 vig convention.
+- Signal definitions must be frozen before evaluation. Do not select thresholds or definitions by searching historical ATS outcomes.
+
+MARKET DATA
+- 2014–2022: SBRO historical closing spreads with CFBD /lines for opening-line/cross-check context.
+- 2023–2025: CFBD /lines is the only accepted source in the spec.
+- Quality flags: Missing; Single source; Verified (difference <= 2 points); Source variance (>2 and <=7); Source conflict (>7).
+- Preserve the numeric closing_spread_difference field. Training headline results (2014–2021) use Verified games only. Test headline results (2022–2025) use Verified + Single source, with a required sensitivity split. Run a separate Source variance sensitivity. Exclude Source conflict and Missing from headline/sensitivity results.
+- Weather is unavailable from the specified free-tier source; leave null and document the limitation.
+- Transfer movement is a roster-diff proxy, not a verified transfer feed.
+- QB starts before the historical window are unknown; flag them, do not treat them as zero.
+
+FOUR FROZEN SIGNALS
+- Signal 1: Hidden Efficiency Underdog.
+- Signal 2: QB experience/career starts; transfer QBs carry forward starts from prior schools.
+- Signal 3: Market Movement Confirmation, fixed at 2.0 points (75th percentile of movement magnitude in 5,066 games, per spec).
+- Signal 4: Transfer Volatility, defined as top 25% of turnover within each season; tie rule uses >= at the season's 75th-percentile index.
+- The original five-signal plan was reduced to four by merging near-duplicate efficiency/perception concepts. Thresholds were selected without ATS outcomes. Comparing alternate Signal 4 definitions by ATS performance was explicitly rejected as a signal-freeze violation.
+
+PIPELINE / QUALITY
+- Join CFBD /lines pulls against the validated FBS game universe.
+- SBRO matching fixes included normalized aliases and a +/-1 day window for UTC/local kickoff-date differences.
+- The spec documents an SBRO spread/total parsing issue; use CFBD values to disambiguate candidate values where available and retain raw values.
+- Phase 1A closure reported 10,374 games, zero duplicates, one legitimate cancellation, 60/60 ATS calculations correct in a manual sample, and 113 Source conflict games (1.09%) excluded from headline/sensitivity results.
+- SBRO match coverage for 2022 was reported lower (~78%) than most other covered seasons (~93–97.5%).
+
+SCOPE
+- Future live architecture, including FanDuel as designated live reference sportsbook, is scoped to Phase 4. The Phase 1A/2/3 CSV/file pipeline continues as-is.
+- Market Microstructure is deferred and is not part of Edge Score v1.0.
+- Live collector requirements include polling, never-overwrite snapshots, success/failure logging, UTC normalization, idempotent reruns, raw-response preservation, and separation from feature/model processing.
+- Check the latest status report before acting; the project spec remains canonical for exact formulas and phase status.
+
+COVERAGE LIMIT
+Partial recovery from saved context and project documentation only. Not a complete archived-chat audit.
